@@ -10,11 +10,15 @@ on:
       - master
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build-cli:
     name: List Validation
-    runs-on: ubuntu-latest
-    
+    runs-on: ubuntu-24.04
+    timeout-minutes: 45
+
     env:
       NEXUS_API_KEY: ${{ secrets.NEXUS_API_KEY }}
       NEXUS_LOGIN: ${{ secrets.NEXUS_LOGIN }}
@@ -22,55 +26,42 @@ jobs:
       LOVERS_LAB: ${{ secrets.LOVERS_LAB }}
       FTP_CREDENTIALS: ${{ secrets.FTP_CREDENTIALS }}
       DISCORD_ENDPOINTS: ${{ secrets.DISCORD_ENDPOINTS }}
-    
-    steps:
-      - name: Setup .NET Core SDK 8.0.x
-        uses: actions/setup-dotnet@v1
-        with:
-          dotnet-version: '8.0.x'
-          include-prerelease: true
-          
-      - name: Setup .NET Core SDK 7.0.x
-        uses: actions/setup-dotnet@v1
-        with:
-          dotnet-version: '7.0.x'
-          include-prerelease: true
 
-      - name: Checkout Wabbajack Source
-        uses: actions/checkout@v2
+    steps:
+      - name: Set up .NET SDKs
+        uses: actions/setup-dotnet@a98b56852c35b8e3190ac28c8c2271da59106c68 # v6.1.0
+        with:
+          dotnet-version: |
+            8.0.x
+            7.0.x
+
+      - name: Check out Wabbajack source
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.0
         with:
           repository: wabbajack-tools/wabbajack
-      
-      - name: Checkout Modlist Source
-        uses: actions/checkout@v2
+
+      - name: Check out this mod-list repository
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.0
         with:
-          repository: wabbajack-tools/mod-lists
+          repository: ${{ github.repository }}
           path: mod-lists
           ref: master
-                    
+          token: ${{ github.token }}
+
       - name: Add System.Commandline
         continue-on-error: true
         run: dotnet nuget add source https://pkgs.dev.azure.com/dnceng/public/_packaging/dotnet-libraries/nuget/v3/index.json -n System.Commandline
-      
+
       - name: Install dependencies
         run: dotnet restore Wabbajack.CLI/Wabbajack.CLI.csproj
 
-      - name: Run List Validation
+      - name: Run list validation
         run: dotnet run --project Wabbajack.CLI/Wabbajack.CLI.csproj -- validate-lists -r ${{ github.workspace }}/mod-lists/reports
-        
-      - name: Upload Reports
-        uses: stefanzweifel/git-auto-commit-action@v4
+
+      - name: Commit updated reports
+        uses: stefanzweifel/git-auto-commit-action@4a55954c782fc1ea30b9056cd3e7a2b40ca8887d # v7.2.0
         with:
           commit_message: List Validation
           branch: master
           repository: mod-lists
           file_pattern: reports/*
-        
-      - uses: actions/upload-artifact@v2
-        name: Upload Artifacts
-        with:
-          name: mod-list-reports
-          path: ${{ github.workspace }}/mod-lists/reports        
-    
-
-
