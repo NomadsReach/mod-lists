@@ -2,16 +2,28 @@ name: Delete Merged Branches
 
 on:
   pull_request:
-    types:
-      - closed
+    types: [closed]
+
+permissions:
+  contents: write
 
 jobs:
   autodelete:
-    runs-on: ubuntu-latest
+    if: github.event.pull_request.merged == true && github.event.pull_request.head.repo.full_name == github.repository
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
     steps:
-      - name: Delete merged branch
-        uses: koj-co/delete-merged-action@master
-        with:
-          branches: "!master, *"
+      - name: Delete merged repository branch
         env:
-          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+          GH_TOKEN: ${{ github.token }}
+          BRANCH: ${{ github.event.pull_request.head.ref }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          case "$BRANCH" in
+            master|main) exit 0 ;;
+          esac
+          encoded="$(python3 -c 'import os, urllib.parse; print(urllib.parse.quote(os.environ["BRANCH"], safe=""))')"
+          if gh api "repos/$GITHUB_REPOSITORY/git/ref/heads/$encoded" >/dev/null 2>&1; then
+            gh api -X DELETE "repos/$GITHUB_REPOSITORY/git/refs/heads/$encoded"
+          fi
