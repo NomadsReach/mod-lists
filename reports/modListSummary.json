@@ -276,8 +276,8 @@
     "report": "reports/halgari/halgaris_helper/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/halgari/halgaris_helper_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/halgari/halgaris_helper_large.webp"
   },
   {
     "name": "Keizaal",
@@ -619,29 +619,29 @@
     "name": "Nordic Souls",
     "machineURL": "Geborgen/nordic-souls",
     "failed": 0,
-    "passed": 1732,
+    "passed": 0,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/Geborgen/nordic-souls/status.json",
     "report": "reports/Geborgen/nordic-souls/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Geborgen/nordic-souls_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Geborgen/nordic-souls_large.webp"
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "Dinoksetiid",
     "machineURL": "Geborgen/dinoksetiid",
     "failed": 0,
-    "passed": 743,
+    "passed": 0,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/Geborgen/dinoksetiid/status.json",
     "report": "reports/Geborgen/dinoksetiid/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Geborgen/dinoksetiid_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Geborgen/dinoksetiid_large.webp"
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "F4FEVR",
@@ -801,15 +801,15 @@
     "name": "Aurbaesence",
     "machineURL": "Zediious/aurbaesence",
     "failed": 0,
-    "passed": 2564,
+    "passed": 0,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/Zediious/aurbaesence/status.json",
     "report": "reports/Zediious/aurbaesence/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Zediious/aurbaesence_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Zediious/aurbaesence_large.webp"
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "Nervears Nwahs",
@@ -885,15 +885,15 @@
     "name": "ARSE",
     "machineURL": "ocm/tightarse",
     "failed": 0,
-    "passed": 1725,
+    "passed": 0,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/ocm/tightarse/status.json",
     "report": "reports/ocm/tightarse/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/ocm/tightarse_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/ocm/tightarse_large.webp"
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "Tales from the Northern Lands",
@@ -927,15 +927,15 @@
     "name": "Morrowind Remastered",
     "machineURL": "Kezyma/MorrowindRemasteredOpenMWEdition",
     "failed": 0,
-    "passed": 389,
+    "passed": 0,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/Kezyma/MorrowindRemasteredOpenMWEdition/status.json",
     "report": "reports/Kezyma/MorrowindRemasteredOpenMWEdition/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Kezyma/MorrowindRemasteredOpenMWEdition_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Kezyma/MorrowindRemasteredOpenMWEdition_large.webp"
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "Halls of Sovngarde",
@@ -1066,16 +1066,16 @@
   {
     "name": "Beowulf",
     "machineURL": "Beowulf/beowulf",
-    "failed": 1,
-    "passed": 2281,
+    "failed": 0,
+    "passed": 0,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/Beowulf/beowulf/status.json",
     "report": "reports/Beowulf/beowulf/status.md",
     "modlist_missing": false,
-    "has_failures": true,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Beowulf/beowulf_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Beowulf/beowulf_large.webp"
+    "has_failures": false,
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "Stormcrown VR",
@@ -1151,15 +1151,15 @@
     "name": "LoreOut",
     "machineURL": "WastelandReborn/wasteland_reborn",
     "failed": 0,
-    "passed": 1079,
+    "passed": 0,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/WastelandReborn/wasteland_reborn/status.json",
     "report": "reports/WastelandReborn/wasteland_reborn/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/WastelandReborn/wasteland_reborn_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/WastelandReborn/wasteland_reborn_large.webp"
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "Untitled Skyrim Modlist",
@@ -1207,15 +1207,15 @@
     "name": "The Method to Madness",
     "machineURL": "FILFY/TheMethod",
     "failed": 0,
-    "passed": 511,
+    "passed": 0,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/FILFY/TheMethod/status.json",
     "report": "reports/FILFY/TheMethod/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/FILFY/TheMethod_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/FILFY/TheMethod_large.webp"
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "Listonomicon",
@@ -1249,15 +1249,15 @@
     "name": "N.Y.A-NSFW-Modlist-Skyrim",
     "machineURL": "NYA/nyaskyrim",
     "failed": 0,
-    "passed": 4314,
+    "passed": 0,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/NYA/nyaskyrim/status.json",
     "report": "reports/NYA/nyaskyrim/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/NYA/nyaskyrim_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/NYA/nyaskyrim_large.webp"
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "Sandland",
@@ -1403,15 +1403,15 @@
     "name": "A Painted World",
     "machineURL": "A_Painted_World/APaintedWorld",
     "failed": 0,
-    "passed": 1024,
+    "passed": 0,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/A_Painted_World/APaintedWorld/status.json",
     "report": "reports/A_Painted_World/APaintedWorld/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/A_Painted_World/APaintedWorld_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/A_Painted_World/APaintedWorld_large.webp"
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "A Painted World - Remastered",
@@ -2159,15 +2159,15 @@
     "name": "Nymphs Savage World",
     "machineURL": "Nymphs_Savage_World/Nymphs_Savage_World",
     "failed": 0,
-    "passed": 2069,
+    "passed": 0,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/Nymphs_Savage_World/Nymphs_Savage_World/status.json",
     "report": "reports/Nymphs_Savage_World/Nymphs_Savage_World/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Nymphs_Savage_World/Nymphs_Savage_World_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Nymphs_Savage_World/Nymphs_Savage_World_large.webp"
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "Krosis",
@@ -2523,15 +2523,15 @@
     "name": "CSVP - A NGVO Fork",
     "machineURL": "CSVP/CSVP",
     "failed": 0,
-    "passed": 0,
+    "passed": 2067,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/CSVP/CSVP/status.json",
     "report": "reports/CSVP/CSVP/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/CSVP/CSVP_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/CSVP/CSVP_large.webp"
   },
   {
     "name": "Smorgasbord",
@@ -3146,7 +3146,7 @@
     "report": "reports/rbt/ProjectUniversum/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/rbt/ProjectUniversum_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/rbt/ProjectUniversum_large.webp"
   }
 ]
