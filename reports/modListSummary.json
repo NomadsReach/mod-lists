@@ -507,15 +507,15 @@
     "name": "Elysium Remastered",
     "machineURL": "Elysium/elysium",
     "failed": 0,
-    "passed": 2542,
+    "passed": 0,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/Elysium/elysium/status.json",
     "report": "reports/Elysium/elysium/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Elysium/elysium_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Elysium/elysium_large.webp"
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "Sim Settlements 2 City Plan Contest Helper",
@@ -675,15 +675,15 @@
     "name": "The Northern Experience",
     "machineURL": "TNE/tne",
     "failed": 0,
-    "passed": 3674,
+    "passed": 0,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/TNE/tne/status.json",
     "report": "reports/TNE/tne/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/TNE/tne_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/TNE/tne_large.webp"
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "Begin Again",
@@ -997,15 +997,15 @@
     "name": "The Nico Experience",
     "machineURL": "The_Nico_Experience/The_Nico_Experience",
     "failed": 0,
-    "passed": 2488,
+    "passed": 0,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/The_Nico_Experience/The_Nico_Experience/status.json",
     "report": "reports/The_Nico_Experience/The_Nico_Experience/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/The_Nico_Experience/The_Nico_Experience_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/The_Nico_Experience/The_Nico_Experience_large.webp"
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "Auriels Dream - VR",
@@ -1066,16 +1066,16 @@
   {
     "name": "Beowulf",
     "machineURL": "Beowulf/beowulf",
-    "failed": 0,
-    "passed": 0,
+    "failed": 1,
+    "passed": 2281,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/Beowulf/beowulf/status.json",
     "report": "reports/Beowulf/beowulf/status.md",
     "modlist_missing": false,
-    "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "has_failures": true,
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Beowulf/beowulf_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Beowulf/beowulf_large.webp"
   },
   {
     "name": "Stormcrown VR",
@@ -1585,15 +1585,15 @@
     "name": "Eldergleam Next-Gen",
     "machineURL": "EldergleamNG/EldergleamNG",
     "failed": 0,
-    "passed": 1961,
+    "passed": 0,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/EldergleamNG/EldergleamNG/status.json",
     "report": "reports/EldergleamNG/EldergleamNG/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/EldergleamNG/EldergleamNG_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/EldergleamNG/EldergleamNG_large.webp"
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "Fallout 4 NG Curated",
@@ -2761,15 +2761,15 @@
     "name": "Kirbykings Modlist NSFW Edition",
     "machineURL": "SkyrimKIRBYKINGSNSFWEditionModlist/SkyrimKIRBYKINGSNSFWEditionModlist",
     "failed": 0,
-    "passed": 2775,
+    "passed": 0,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/SkyrimKIRBYKINGSNSFWEditionModlist/SkyrimKIRBYKINGSNSFWEditionModlist/status.json",
     "report": "reports/SkyrimKIRBYKINGSNSFWEditionModlist/SkyrimKIRBYKINGSNSFWEditionModlist/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/SkyrimKIRBYKINGSNSFWEditionModlist/SkyrimKIRBYKINGSNSFWEditionModlist_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/SkyrimKIRBYKINGSNSFWEditionModlist/SkyrimKIRBYKINGSNSFWEditionModlist_large.webp"
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "Kirbykings Modlist",
