@@ -31,15 +31,15 @@
     "name": "Somnium",
     "machineURL": "wj-featured/somnium",
     "failed": 0,
-    "passed": 920,
+    "passed": 0,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/wj-featured/somnium/status.json",
     "report": "reports/wj-featured/somnium/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/wj-featured/somnium_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/wj-featured/somnium_large.webp"
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "Dishonored Plus",
@@ -143,7 +143,7 @@
     "name": "Magnum Opus",
     "machineURL": "wj-featured/magnum_opus",
     "failed": 0,
-    "passed": 1154,
+    "passed": 1222,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/wj-featured/magnum_opus/status.json",
@@ -213,7 +213,7 @@
     "name": "Life in the Ruins",
     "machineURL": "wj-featured/life_in_the_ruins",
     "failed": 0,
-    "passed": 824,
+    "passed": 823,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/wj-featured/life_in_the_ruins/status.json",
@@ -325,15 +325,15 @@
     "name": "Aurora - A Visual Overhaul",
     "machineURL": "Animonculory/aur",
     "failed": 0,
-    "passed": 1098,
+    "passed": 0,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/Animonculory/aur/status.json",
     "report": "reports/Animonculory/aur/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Animonculory/aur_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Animonculory/aur_large.webp"
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "Al and Styyx Setup of Skyrim - ASSOS",
@@ -381,7 +381,7 @@
     "name": "Wasteland of Depravity",
     "machineURL": "iAmModlist/wod",
     "failed": 0,
-    "passed": 1374,
+    "passed": 1371,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/iAmModlist/wod/status.json",
@@ -472,8 +472,8 @@
     "report": "reports/LostOutpost/constellation/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/LostOutpost/constellation_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/LostOutpost/constellation_large.webp"
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "Simonrim Essentials",
@@ -507,15 +507,15 @@
     "name": "Elysium Remastered",
     "machineURL": "Elysium/elysium",
     "failed": 0,
-    "passed": 0,
+    "passed": 2542,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/Elysium/elysium/status.json",
     "report": "reports/Elysium/elysium/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Elysium/elysium_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Elysium/elysium_large.webp"
   },
   {
     "name": "Sim Settlements 2 City Plan Contest Helper",
@@ -675,15 +675,15 @@
     "name": "The Northern Experience",
     "machineURL": "TNE/tne",
     "failed": 0,
-    "passed": 0,
+    "passed": 3674,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/TNE/tne/status.json",
     "report": "reports/TNE/tne/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/TNE/tne_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/TNE/tne_large.webp"
   },
   {
     "name": "Begin Again",
@@ -710,8 +710,8 @@
     "report": "reports/BtHz/HzOff/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/BtHz/HzOff_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/BtHz/HzOff_large.webp"
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "Beyond the Horizon",
@@ -724,8 +724,8 @@
     "report": "reports/BtHz/BtHz/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/BtHz/BtHz_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/BtHz/BtHz_large.webp"
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "Just a Humble Warden",
@@ -836,8 +836,8 @@
     "report": "reports/SrKaioLists/machineURL/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/SrKaioLists/machineURL_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/SrKaioLists/machineURL_large.webp"
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "Just Another Requiem List",
@@ -927,7 +927,7 @@
     "name": "Morrowind Remastered",
     "machineURL": "Kezyma/MorrowindRemasteredOpenMWEdition",
     "failed": 0,
-    "passed": 389,
+    "passed": 386,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/Kezyma/MorrowindRemasteredOpenMWEdition/status.json",
@@ -997,15 +997,15 @@
     "name": "The Nico Experience",
     "machineURL": "The_Nico_Experience/The_Nico_Experience",
     "failed": 0,
-    "passed": 0,
+    "passed": 2488,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/The_Nico_Experience/The_Nico_Experience/status.json",
     "report": "reports/The_Nico_Experience/The_Nico_Experience/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/The_Nico_Experience/The_Nico_Experience_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/The_Nico_Experience/The_Nico_Experience_large.webp"
   },
   {
     "name": "Auriels Dream - VR",
@@ -1445,15 +1445,15 @@
     "name": "The Old North",
     "machineURL": "theoldnorth/theoldnorth",
     "failed": 0,
-    "passed": 407,
+    "passed": 0,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/theoldnorth/theoldnorth/status.json",
     "report": "reports/theoldnorth/theoldnorth/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/theoldnorth/theoldnorth_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/theoldnorth/theoldnorth_large.webp"
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "New Vegas: Multiplayer",
@@ -1515,15 +1515,15 @@
     "name": "DyingBreath",
     "machineURL": "Dying_Breath/dyingbreath",
     "failed": 0,
-    "passed": 673,
+    "passed": 0,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/Dying_Breath/dyingbreath/status.json",
     "report": "reports/Dying_Breath/dyingbreath/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Dying_Breath/dyingbreath_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Dying_Breath/dyingbreath_large.webp"
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "ViirSuum",
@@ -1585,15 +1585,15 @@
     "name": "Eldergleam Next-Gen",
     "machineURL": "EldergleamNG/EldergleamNG",
     "failed": 0,
-    "passed": 0,
+    "passed": 1961,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/EldergleamNG/EldergleamNG/status.json",
     "report": "reports/EldergleamNG/EldergleamNG/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/EldergleamNG/EldergleamNG_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/EldergleamNG/EldergleamNG_large.webp"
   },
   {
     "name": "Fallout 4 NG Curated",
@@ -1641,15 +1641,15 @@
     "name": "Ilinalta",
     "machineURL": "Ilinalta/Ilinalta",
     "failed": 0,
-    "passed": 245,
+    "passed": 0,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/Ilinalta/Ilinalta/status.json",
     "report": "reports/Ilinalta/Ilinalta/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Ilinalta/Ilinalta_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Ilinalta/Ilinalta_large.webp"
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "PROJECT 2077",
@@ -1977,15 +1977,15 @@
     "name": "Skyrim\u002B",
     "machineURL": "NotToddHoward/SkyrimPluslink",
     "failed": 0,
-    "passed": 1274,
+    "passed": 0,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/NotToddHoward/SkyrimPluslink/status.json",
     "report": "reports/NotToddHoward/SkyrimPluslink/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/NotToddHoward/SkyrimPluslink_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/NotToddHoward/SkyrimPluslink_large.webp"
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "Fashionista",
@@ -2089,15 +2089,15 @@
     "name": "No Man\u0027s Sky - Explorer",
     "machineURL": "Wunduniik/NMSExplorer",
     "failed": 0,
-    "passed": 247,
+    "passed": 0,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/Wunduniik/NMSExplorer/status.json",
     "report": "reports/Wunduniik/NMSExplorer/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Wunduniik/NMSExplorer_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Wunduniik/NMSExplorer_large.webp"
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "Extrasolar Containment Protocol",
@@ -2187,15 +2187,15 @@
     "name": "The SICKnasty Suite",
     "machineURL": "TheSICKnastySuite/TheSickNastySuite",
     "failed": 0,
-    "passed": 2037,
+    "passed": 0,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/TheSICKnastySuite/TheSickNastySuite/status.json",
     "report": "reports/TheSICKnastySuite/TheSickNastySuite/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/TheSICKnastySuite/TheSickNastySuite_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/TheSICKnastySuite/TheSickNastySuite_large.webp"
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "Journals of Jyggalag",
@@ -2628,8 +2628,8 @@
     "report": "reports/CDPR_Modlists/MO2077/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/CDPR_Modlists/MO2077_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/CDPR_Modlists/MO2077_large.webp"
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "Welcome to Night City",
@@ -2705,15 +2705,15 @@
     "name": "Panda\u0027s Sovngarde",
     "machineURL": "VirtualPanda/PandasSovngarde",
     "failed": 0,
-    "passed": 2038,
+    "passed": 0,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/VirtualPanda/PandasSovngarde/status.json",
     "report": "reports/VirtualPanda/PandasSovngarde/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/VirtualPanda/PandasSovngarde_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/VirtualPanda/PandasSovngarde_large.webp"
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "Nier Automata Enhanced",
@@ -2761,15 +2761,15 @@
     "name": "Kirbykings Modlist NSFW Edition",
     "machineURL": "SkyrimKIRBYKINGSNSFWEditionModlist/SkyrimKIRBYKINGSNSFWEditionModlist",
     "failed": 0,
-    "passed": 0,
+    "passed": 2775,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/SkyrimKIRBYKINGSNSFWEditionModlist/SkyrimKIRBYKINGSNSFWEditionModlist/status.json",
     "report": "reports/SkyrimKIRBYKINGSNSFWEditionModlist/SkyrimKIRBYKINGSNSFWEditionModlist/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/SkyrimKIRBYKINGSNSFWEditionModlist/SkyrimKIRBYKINGSNSFWEditionModlist_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/SkyrimKIRBYKINGSNSFWEditionModlist/SkyrimKIRBYKINGSNSFWEditionModlist_large.webp"
   },
   {
     "name": "Kirbykings Modlist",
@@ -2831,7 +2831,7 @@
     "name": "FALLEN WORLD",
     "machineURL": "FAnomaly/Fallout_Anomaly",
     "failed": 0,
-    "passed": 1025,
+    "passed": 1048,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/FAnomaly/Fallout_Anomaly/status.json",
@@ -2887,7 +2887,7 @@
     "name": "Morkeskygge",
     "machineURL": "heroofkvackers/Morkeskygge",
     "failed": 0,
-    "passed": 916,
+    "passed": 942,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/heroofkvackers/Morkeskygge/status.json",
@@ -2922,8 +2922,8 @@
     "report": "reports/VanStorm/ProjectUltrapunk/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/VanStorm/ProjectUltrapunk_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/VanStorm/ProjectUltrapunk_large.webp"
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "ReSkyrimed",
@@ -3041,7 +3041,7 @@
     "name": "Cosmoem",
     "machineURL": "Cosmoem/Cosmoem",
     "failed": 0,
-    "passed": 470,
+    "passed": 471,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/Cosmoem/Cosmoem/status.json",
@@ -3050,20 +3050,6 @@
     "has_failures": false,
     "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Cosmoem/Cosmoem_small.webp",
     "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Cosmoem/Cosmoem_large.webp"
-  },
-  {
-    "name": "Cursedelica",
-    "machineURL": "Cosmoem/Curseadelica",
-    "failed": 0,
-    "passed": 978,
-    "updating": 0,
-    "mirrored": 0,
-    "link": "reports/Cosmoem/Curseadelica/status.json",
-    "report": "reports/Cosmoem/Curseadelica/status.md",
-    "modlist_missing": false,
-    "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Cosmoem/Curseadelica_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Cosmoem/Curseadelica_large.webp"
   },
   {
     "name": "Fundamental Essentials",
