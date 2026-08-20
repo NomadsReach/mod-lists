@@ -94,8 +94,8 @@
     "report": "reports/wj-featured/lostinspace/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/wj-featured/lostinspace_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/wj-featured/lostinspace_large.webp"
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "Welcome to Paradise",
@@ -143,15 +143,15 @@
     "name": "Magnum Opus",
     "machineURL": "wj-featured/magnum_opus",
     "failed": 0,
-    "passed": 1222,
+    "passed": 0,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/wj-featured/magnum_opus/status.json",
     "report": "reports/wj-featured/magnum_opus/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/wj-featured/magnum_opus_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/wj-featured/magnum_opus_large.webp"
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "Aldrnari",
@@ -507,15 +507,15 @@
     "name": "Elysium Remastered",
     "machineURL": "Elysium/elysium",
     "failed": 0,
-    "passed": 2542,
+    "passed": 0,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/Elysium/elysium/status.json",
     "report": "reports/Elysium/elysium/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Elysium/elysium_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Elysium/elysium_large.webp"
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "Sim Settlements 2 City Plan Contest Helper",
@@ -619,15 +619,15 @@
     "name": "Nordic Souls",
     "machineURL": "Geborgen/nordic-souls",
     "failed": 0,
-    "passed": 1732,
+    "passed": 0,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/Geborgen/nordic-souls/status.json",
     "report": "reports/Geborgen/nordic-souls/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Geborgen/nordic-souls_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Geborgen/nordic-souls_large.webp"
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "Dinoksetiid",
@@ -787,15 +787,15 @@
     "name": "Twisted Skyrim",
     "machineURL": "WakingDreams/TwistedSkyrim",
     "failed": 0,
-    "passed": 6031,
+    "passed": 0,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/WakingDreams/TwistedSkyrim/status.json",
     "report": "reports/WakingDreams/TwistedSkyrim/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/WakingDreams/TwistedSkyrim_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/WakingDreams/TwistedSkyrim_large.webp"
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "Aurbaesence",
@@ -843,15 +843,15 @@
     "name": "Path of the Incarnate",
     "machineURL": "Path_of_the_Incarnate/poti",
     "failed": 0,
-    "passed": 0,
+    "passed": 959,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/Path_of_the_Incarnate/poti/status.json",
     "report": "reports/Path_of_the_Incarnate/poti/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Path_of_the_Incarnate/poti_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Path_of_the_Incarnate/poti_large.webp"
   },
   {
     "name": "OCM",
@@ -913,15 +913,15 @@
     "name": "Morrowind Remastered",
     "machineURL": "Kezyma/MorrowindRemasteredOpenMWEdition",
     "failed": 0,
-    "passed": 386,
+    "passed": 0,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/Kezyma/MorrowindRemasteredOpenMWEdition/status.json",
     "report": "reports/Kezyma/MorrowindRemasteredOpenMWEdition/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Kezyma/MorrowindRemasteredOpenMWEdition_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Kezyma/MorrowindRemasteredOpenMWEdition_large.webp"
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "Halls of Sovngarde",
@@ -1052,16 +1052,16 @@
   {
     "name": "Beowulf",
     "machineURL": "Beowulf/beowulf",
-    "failed": 1,
-    "passed": 2281,
+    "failed": 0,
+    "passed": 0,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/Beowulf/beowulf/status.json",
     "report": "reports/Beowulf/beowulf/status.md",
     "modlist_missing": false,
-    "has_failures": true,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Beowulf/beowulf_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Beowulf/beowulf_large.webp"
+    "has_failures": false,
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "Stormcrown VR",
@@ -1109,15 +1109,15 @@
     "name": "Tahrovin - Grit",
     "machineURL": "TahrovinGrit/tahrovingrit",
     "failed": 0,
-    "passed": 1142,
+    "passed": 0,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/TahrovinGrit/tahrovingrit/status.json",
     "report": "reports/TahrovinGrit/tahrovingrit/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/TahrovinGrit/tahrovingrit_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/TahrovinGrit/tahrovingrit_large.webp"
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "Spirit of Grit",
@@ -1248,14 +1248,14 @@
   {
     "name": "Sandland",
     "machineURL": "NYA/sandland",
-    "failed": 0,
-    "passed": 1615,
+    "failed": 8,
+    "passed": 1607,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/NYA/sandland/status.json",
     "report": "reports/NYA/sandland/status.md",
     "modlist_missing": false,
-    "has_failures": false,
+    "has_failures": true,
     "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/NYA/sandland_small.webp",
     "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/NYA/sandland_large.webp"
   },
@@ -1263,15 +1263,15 @@
     "name": "Infinite-Pathways",
     "machineURL": "NYA/Millionsfrost_BG3_Infinite_Pathways",
     "failed": 0,
-    "passed": 800,
+    "passed": 0,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/NYA/Millionsfrost_BG3_Infinite_Pathways/status.json",
     "report": "reports/NYA/Millionsfrost_BG3_Infinite_Pathways/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/NYA/Millionsfrost_BG3_Infinite_Pathways_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/NYA/Millionsfrost_BG3_Infinite_Pathways_large.webp"
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "Dust and Death",
@@ -1452,8 +1452,8 @@
     "report": "reports/nvmpraddmodlist/nvmpraddmodlist/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/nvmpraddmodlist/nvmpraddmodlist_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/nvmpraddmodlist/nvmpraddmodlist_large.webp"
   },
   {
     "name": "Elden-Rim Together",
@@ -2719,15 +2719,15 @@
     "name": "Authoria - Requiem Reforged",
     "machineURL": "Auhtoria-Requiem-Reforged/AuthoriaRequiemReforged",
     "failed": 0,
-    "passed": 3761,
+    "passed": 0,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/Auhtoria-Requiem-Reforged/AuthoriaRequiemReforged/status.json",
     "report": "reports/Auhtoria-Requiem-Reforged/AuthoriaRequiemReforged/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Auhtoria-Requiem-Reforged/AuthoriaRequiemReforged_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Auhtoria-Requiem-Reforged/AuthoriaRequiemReforged_large.webp"
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "Still in Skyrim - 15th Anniversary",
