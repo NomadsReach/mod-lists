@@ -143,7 +143,7 @@
     "name": "Magnum Opus",
     "machineURL": "wj-featured/magnum_opus",
     "failed": 0,
-    "passed": 1220,
+    "passed": 1218,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/wj-featured/magnum_opus/status.json",
@@ -472,8 +472,8 @@
     "report": "reports/LostOutpost/constellation/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/LostOutpost/constellation_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/LostOutpost/constellation_large.webp"
   },
   {
     "name": "Simonrim Essentials",
@@ -590,14 +590,14 @@
   {
     "name": "NEFARAM",
     "machineURL": "NEFARAM/NEFARAM",
-    "failed": 0,
-    "passed": 2357,
+    "failed": 1,
+    "passed": 2388,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/NEFARAM/NEFARAM/status.json",
     "report": "reports/NEFARAM/NEFARAM/status.md",
     "modlist_missing": false,
-    "has_failures": false,
+    "has_failures": true,
     "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/NEFARAM/NEFARAM_small.webp",
     "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/NEFARAM/NEFARAM_large.webp"
   },
@@ -710,8 +710,8 @@
     "report": "reports/BtHz/HzOff/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/BtHz/HzOff_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/BtHz/HzOff_large.webp"
   },
   {
     "name": "Beyond the Horizon",
@@ -801,15 +801,15 @@
     "name": "Aurbaesence",
     "machineURL": "Zediious/aurbaesence",
     "failed": 0,
-    "passed": 0,
+    "passed": 2564,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/Zediious/aurbaesence/status.json",
     "report": "reports/Zediious/aurbaesence/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Zediious/aurbaesence_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Zediious/aurbaesence_large.webp"
   },
   {
     "name": "Nervears Nwahs",
@@ -871,7 +871,7 @@
     "name": "ARSE",
     "machineURL": "ocm/tightarse",
     "failed": 0,
-    "passed": 1725,
+    "passed": 1651,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/ocm/tightarse/status.json",
@@ -1039,7 +1039,7 @@
     "name": "LoreRim",
     "machineURL": "LoreRim/LoreRim",
     "failed": 0,
-    "passed": 4457,
+    "passed": 4456,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/LoreRim/LoreRim/status.json",
@@ -1052,16 +1052,16 @@
   {
     "name": "Beowulf",
     "machineURL": "Beowulf/beowulf",
-    "failed": 1,
-    "passed": 2281,
+    "failed": 0,
+    "passed": 0,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/Beowulf/beowulf/status.json",
     "report": "reports/Beowulf/beowulf/status.md",
     "modlist_missing": false,
-    "has_failures": true,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Beowulf/beowulf_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Beowulf/beowulf_large.webp"
+    "has_failures": false,
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "Stormcrown VR",
@@ -1389,7 +1389,7 @@
     "name": "A Painted World",
     "machineURL": "A_Painted_World/APaintedWorld",
     "failed": 0,
-    "passed": 1035,
+    "passed": 1036,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/A_Painted_World/APaintedWorld/status.json",
@@ -1949,15 +1949,15 @@
     "name": "BottleRim",
     "machineURL": "Cistern/BottleRim",
     "failed": 0,
-    "passed": 2544,
+    "passed": 0,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/Cistern/BottleRim/status.json",
     "report": "reports/Cistern/BottleRim/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Cistern/BottleRim_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Cistern/BottleRim_large.webp"
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "Skyrim\u002B",
@@ -2159,15 +2159,15 @@
     "name": "Krosis",
     "machineURL": "Krosis/Krosis",
     "failed": 0,
-    "passed": 3454,
+    "passed": 0,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/Krosis/Krosis/status.json",
     "report": "reports/Krosis/Krosis/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Krosis/Krosis_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Krosis/Krosis_large.webp"
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "The SICKnasty Suite",
@@ -2467,15 +2467,15 @@
     "name": "ElderTeej",
     "machineURL": "ElderTeej/ETJ",
     "failed": 0,
-    "passed": 2970,
+    "passed": 0,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/ElderTeej/ETJ/status.json",
     "report": "reports/ElderTeej/ETJ/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/ElderTeej/ETJ_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/ElderTeej/ETJ_large.webp"
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "Nuclear Sunset",
@@ -3027,7 +3027,7 @@
     "name": "Cosmoem",
     "machineURL": "Cosmoem/Cosmoem",
     "failed": 0,
-    "passed": 469,
+    "passed": 363,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/Cosmoem/Cosmoem/status.json",
@@ -3041,7 +3041,7 @@
     "name": "Fundamental Essentials",
     "machineURL": "ConsolePeasantRefugee/FundamentalEssentials",
     "failed": 0,
-    "passed": 340,
+    "passed": 347,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/ConsolePeasantRefugee/FundamentalEssentials/status.json",
