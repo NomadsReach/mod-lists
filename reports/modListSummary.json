@@ -353,15 +353,15 @@
     "name": "Tahrovin",
     "machineURL": "iAmModlist/tahrovin",
     "failed": 0,
-    "passed": 1077,
+    "passed": 0,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/iAmModlist/tahrovin/status.json",
     "report": "reports/iAmModlist/tahrovin/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/iAmModlist/tahrovin_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/iAmModlist/tahrovin_large.webp"
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "Merethic",
@@ -654,8 +654,8 @@
     "report": "reports/F4FEVR/LaskeumaKuume/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/F4FEVR/LaskeumaKuume_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/F4FEVR/LaskeumaKuume_large.webp"
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "ElmoRim",
@@ -710,8 +710,8 @@
     "report": "reports/BtHz/HzOff/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/BtHz/HzOff_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/BtHz/HzOff_large.webp"
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "Beyond the Horizon",
@@ -969,7 +969,7 @@
     "name": "A Blue Moon",
     "machineURL": "Modding-Lounge/A-Blue-Moon",
     "failed": 0,
-    "passed": 1347,
+    "passed": 1055,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/Modding-Lounge/A-Blue-Moon/status.json",
@@ -1052,16 +1052,16 @@
   {
     "name": "Beowulf",
     "machineURL": "Beowulf/beowulf",
-    "failed": 0,
-    "passed": 0,
+    "failed": 1,
+    "passed": 2281,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/Beowulf/beowulf/status.json",
     "report": "reports/Beowulf/beowulf/status.md",
     "modlist_missing": false,
-    "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "has_failures": true,
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Beowulf/beowulf_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Beowulf/beowulf_large.webp"
   },
   {
     "name": "Stormcrown VR",
@@ -1263,15 +1263,15 @@
     "name": "Infinite-Pathways",
     "machineURL": "NYA/Millionsfrost_BG3_Infinite_Pathways",
     "failed": 0,
-    "passed": 0,
+    "passed": 800,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/NYA/Millionsfrost_BG3_Infinite_Pathways/status.json",
     "report": "reports/NYA/Millionsfrost_BG3_Infinite_Pathways/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/NYA/Millionsfrost_BG3_Infinite_Pathways_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/NYA/Millionsfrost_BG3_Infinite_Pathways_large.webp"
   },
   {
     "name": "Dust and Death",
@@ -1389,15 +1389,15 @@
     "name": "A Painted World",
     "machineURL": "A_Painted_World/APaintedWorld",
     "failed": 0,
-    "passed": 1036,
+    "passed": 0,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/A_Painted_World/APaintedWorld/status.json",
     "report": "reports/A_Painted_World/APaintedWorld/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/A_Painted_World/APaintedWorld_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/A_Painted_World/APaintedWorld_large.webp"
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "A Painted World - Remastered",
@@ -1592,8 +1592,8 @@
     "report": "reports/fo4nexNG/fo4nexNG/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/fo4nexNG/fo4nexNG_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/fo4nexNG/fo4nexNG_large.webp"
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "CharGrinn",
@@ -1654,16 +1654,16 @@
   {
     "name": "Do Not Go Gentle",
     "machineURL": "NGVO/DNGG",
-    "failed": 2,
-    "passed": 2005,
+    "failed": 0,
+    "passed": 0,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/NGVO/DNGG/status.json",
     "report": "reports/NGVO/DNGG/status.md",
     "modlist_missing": false,
-    "has_failures": true,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/NGVO/DNGG_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/NGVO/DNGG_large.webp"
+    "has_failures": false,
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "Mages \u0026 Vikings",
@@ -2187,7 +2187,7 @@
     "name": "Journals of Jyggalag",
     "machineURL": "Scrolls_of_Schtevie/JournalsOfJyggalag",
     "failed": 0,
-    "passed": 3824,
+    "passed": 3823,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/Scrolls_of_Schtevie/JournalsOfJyggalag/status.json",
@@ -2201,7 +2201,7 @@
     "name": "Tomes of Talos",
     "machineURL": "Scrolls_of_Schtevie/TomesOfTalos",
     "failed": 0,
-    "passed": 3446,
+    "passed": 3445,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/Scrolls_of_Schtevie/TomesOfTalos/status.json",
@@ -2313,7 +2313,7 @@
     "name": "True North",
     "machineURL": "True_North/TrueNorth",
     "failed": 0,
-    "passed": 1286,
+    "passed": 1285,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/True_North/TrueNorth/status.json",
@@ -2467,15 +2467,15 @@
     "name": "ElderTeej",
     "machineURL": "ElderTeej/ETJ",
     "failed": 0,
-    "passed": 0,
+    "passed": 2970,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/ElderTeej/ETJ/status.json",
     "report": "reports/ElderTeej/ETJ/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/ElderTeej/ETJ_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/ElderTeej/ETJ_large.webp"
   },
   {
     "name": "Nuclear Sunset",
@@ -2901,7 +2901,7 @@
     "name": "Project Ultrapunk",
     "machineURL": "VanStorm/ProjectUltrapunk",
     "failed": 0,
-    "passed": 315,
+    "passed": 318,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/VanStorm/ProjectUltrapunk/status.json",
@@ -2943,7 +2943,7 @@
     "name": "Abyssal Skies",
     "machineURL": "AbyssalSkies/AbyssalSkies",
     "failed": 0,
-    "passed": 870,
+    "passed": 856,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/AbyssalSkies/AbyssalSkies/status.json",
