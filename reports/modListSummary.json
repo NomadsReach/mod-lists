@@ -276,8 +276,8 @@
     "report": "reports/halgari/halgaris_helper/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/halgari/halgaris_helper_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/halgari/halgaris_helper_large.webp"
   },
   {
     "name": "Keizaal",
@@ -348,6 +348,20 @@
     "has_failures": false,
     "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Animonculory/ASSOS_small.webp",
     "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Animonculory/ASSOS_large.webp"
+  },
+  {
+    "name": "Cursedelica",
+    "machineURL": "Animonculory/Curseadelica",
+    "failed": 0,
+    "passed": 978,
+    "updating": 0,
+    "mirrored": 0,
+    "link": "reports/Animonculory/Curseadelica/status.json",
+    "report": "reports/Animonculory/Curseadelica/status.md",
+    "modlist_missing": false,
+    "has_failures": false,
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Animonculory/Curseadelica_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Animonculory/Curseadelica_large.webp"
   },
   {
     "name": "Tahrovin",
@@ -815,15 +829,15 @@
     "name": "OME",
     "machineURL": "SrKaioLists/machineURL",
     "failed": 0,
-    "passed": 0,
+    "passed": 42,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/SrKaioLists/machineURL/status.json",
     "report": "reports/SrKaioLists/machineURL/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/SrKaioLists/machineURL_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/SrKaioLists/machineURL_large.webp"
   },
   {
     "name": "Path of the Incarnate",
@@ -969,7 +983,7 @@
     "name": "The Nico Experience",
     "machineURL": "The_Nico_Experience/The_Nico_Experience",
     "failed": 0,
-    "passed": 2509,
+    "passed": 2506,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/The_Nico_Experience/The_Nico_Experience/status.json",
@@ -1095,7 +1109,7 @@
     "name": "Tahrovin - Grit",
     "machineURL": "TahrovinGrit/tahrovingrit",
     "failed": 0,
-    "passed": 1142,
+    "passed": 1146,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/TahrovinGrit/tahrovingrit/status.json",
@@ -1109,7 +1123,7 @@
     "name": "Spirit of Grit",
     "machineURL": "TahrovinGrit/spiritofgrit",
     "failed": 0,
-    "passed": 964,
+    "passed": 968,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/TahrovinGrit/spiritofgrit/status.json",
@@ -1991,15 +2005,15 @@
     "name": "Morrowind75",
     "machineURL": "Morrowind75/Morrowind75",
     "failed": 0,
-    "passed": 0,
+    "passed": 74,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/Morrowind75/Morrowind75/status.json",
     "report": "reports/Morrowind75/Morrowind75/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Morrowind75/Morrowind75_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Morrowind75/Morrowind75_large.webp"
   },
   {
     "name": "Wunduniik",
@@ -2096,8 +2110,8 @@
     "report": "reports/ModdingLinked/TheMidnightRide/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/ModdingLinked/TheMidnightRide_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/ModdingLinked/TheMidnightRide_large.webp"
   },
   {
     "name": "A Dragonborn\u0027s Fate",
@@ -2495,15 +2509,15 @@
     "name": "Smorgasbord",
     "machineURL": "Smorgasbord/Smorgasbord",
     "failed": 0,
-    "passed": 0,
+    "passed": 573,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/Smorgasbord/Smorgasbord/status.json",
     "report": "reports/Smorgasbord/Smorgasbord/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Smorgasbord/Smorgasbord_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Smorgasbord/Smorgasbord_large.webp"
   },
   {
     "name": "Librum SE",
@@ -2523,15 +2537,15 @@
     "name": "Librum VR",
     "machineURL": "librum/librum_vr",
     "failed": 0,
-    "passed": 0,
+    "passed": 1467,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/librum/librum_vr/status.json",
     "report": "reports/librum/librum_vr/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/librum/librum_vr_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/librum/librum_vr_large.webp"
   },
   {
     "name": "Ascended Fates",
@@ -2817,15 +2831,15 @@
     "name": "PunkCity",
     "machineURL": "PunkCity/PunkCity",
     "failed": 0,
-    "passed": 0,
+    "passed": 1281,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/PunkCity/PunkCity/status.json",
     "report": "reports/PunkCity/PunkCity/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/PunkCity/PunkCity_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/PunkCity/PunkCity_large.webp"
   },
   {
     "name": "Wanderer\u0027s Way",

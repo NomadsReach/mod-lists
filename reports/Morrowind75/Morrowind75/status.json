@@ -3,9 +3,1557 @@
   "Name": "Morrowind75",
   "Version": "2.0.1",
   "ModListHash": "AxYO5Al8U4I=",
-  "Archives": [],
-  "Status": "ForcedDown",
+  "Archives": [
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "rXDEtl7gdOU=",
+        "Meta": "[General]\ndirectURL=https://github.com/ModOrganizer2/modorganizer/releases/download/v2.5.2/Mod.Organizer-2.5.2.7z",
+        "Name": "Mod.Organizer-2.5.2.7z",
+        "Size": 149660212,
+        "State": {
+          "$type": "HttpDownloader, Wabbajack.Lib",
+          "Headers": [],
+          "Url": "https://github.com/ModOrganizer2/modorganizer/releases/download/v2.5.2/Mod.Organizer-2.5.2.7z"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "FXSsZIoMx0E=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=53036\nfileID=1000059552",
+        "Name": "Joy of Painting-53036-1-10-11-1766879780.7z",
+        "Size": 37455899,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Merlord",
+          "Description": "Adds a feature-rich painting mechanic to Morrowind, letting you create paintings of in-game scenery that exist not just in the game as objects but are also saved as high-res images on your PC so you can use them outside the game.",
+          "FileID": 1000059552,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/53036/53036-1686202105-660698867.png",
+          "IsNSFW": false,
+          "ModID": 53036,
+          "Name": "Joy of Painting",
+          "Version": "1.9.8"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "63oY3JiQ0oA=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=51636\nfileID=1000050163",
+        "Name": "Magicka of the Third Era-51636-1-2-5-1739033912.rar",
+        "Size": 152819,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Vengyre",
+          "Description": "MWSE-lua magic overhaul. Features reworked spell chances, reworked spell costs, Illusion effects overhaul, unique effect formulas, advanced multi-effect spell formula, effect synergies, spell rebalance, unique spells, reworked experience gain, Magicka Expanded integration. Many features are customizable.",
+          "FileID": 1000050163,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/51636/51636-1658396860-1168314737.png",
+          "IsNSFW": false,
+          "ModID": 51636,
+          "Name": "Magicka of the Third Era - MWSE-lua Magic Overhaul",
+          "Version": "1.2.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "RWQkGaZQM28=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=58823\nfileID=1000066765",
+        "Name": "MSOC Plugin 58823 1.5 2026-07-07T07-32Z aoBVofZA.7z",
+        "Size": 233482,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "StormAtronach0",
+          "Description": "Why make the engine draw what you can\u0027t see? Let\u0027s use intel\u0027s Masked Software Occlusion Culling instead!",
+          "FileID": 1000066765,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/58823/58823-1777613954-986318137.png",
+          "IsNSFW": false,
+          "ModID": 58823,
+          "Name": "MSOC - Occlusion Culling for MWSE",
+          "Version": "1.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "EpTtohSVASw=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=60007\nfileID=1000069234",
+        "Name": "Patch For The Firmament - Birthsigns Refined V1.3 60007 1 2026-08-27T17-50Z FsqlsT1k.zip",
+        "Size": 7038,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "StormAtronach0",
+          "Description": "Repository for performance fixes",
+          "FileID": 1000069234,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/60007/60007-1787852589-1981121854.jpg",
+          "IsNSFW": false,
+          "ModID": 60007,
+          "Name": "Storm\u0027s Performance Fixes",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "WsAONpGdp9I=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=42145\nfileID=1000068873",
+        "Name": "Tamriel Rebuilt 26.08.23 42145 26.08.23 2026-08-23T20-27Z aoBVo9ho.7z",
+        "Size": 68039458,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Tamriel Rebuilt Team",
+          "Description": "Tamriel Rebuilt is a fan project working to build the mainland of Morrowind Province in The Elder Scrolls III: Morrowind, while preserving the original game\u2019s creative vision and direction.",
+          "FileID": 1000068873,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/42145/42145-1669246785-239222612.jpeg",
+          "IsNSFW": false,
+          "ModID": 42145,
+          "Name": "Tamriel Rebuilt",
+          "Version": "23.02.03"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "GU0YtLUVlss=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=52872\nfileID=1000060088",
+        "Name": "Ultimate Fishing-52872-1-6-15-1768718304.7z",
+        "Size": 5451799,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Merlord Greatness7 MelchiorDahrk",
+          "Description": "Adds a fishing mechanic with over 25 species of fish and dynamic fishing animations.",
+          "FileID": 1000060088,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/52872/52872-1684058186-528386325.png",
+          "IsNSFW": false,
+          "ModID": 52872,
+          "Name": "Ultimate Fishing",
+          "Version": "v1.4.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "24WSZTPsXz4=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=46599\nfileID=1000014601",
+        "Name": "Graphic Herbalism MWSE - OpenMW-46599-1-04-1558643353.7z",
+        "Size": 4047614,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Stuporstar and Greatness7",
+          "Description": "Now works with OpenMW! MWSE Graphic Herbalism harnesses the power of lua and mesh switchnodes, allowing this mod to be run without an esp or standard scripts. This dramatically optimizes performance compared to older graphic herbalism mods. It also comes with an mod configuration menu to allow you to change settings.",
+          "FileID": 1000014601,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/46599/46599-1556987326-522913397.png",
+          "IsNSFW": false,
+          "ModID": 46599,
+          "Name": "Graphic Herbalism - MWSE and OpenMW Edition",
+          "Version": "1.04"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "UxAzuOtKzy8=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=59957\nfileID=1000069274",
+        "Name": "MGE XE G7 v0.20.3 59957 0.20.3 2026-08-28T07-50Z gWCfWmxf.7z",
+        "Size": 15944756,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Greatness7",
+          "Description": "A performance-focused unofficial fork of MGE XE.",
+          "FileID": 1000069274,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/59957/59957-1787800684-919747179.png",
+          "IsNSFW": false,
+          "ModID": 59957,
+          "Name": "MGE XE G7 Fork",
+          "Version": "0.20.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "yeuahCkI5ZU=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=45384\nfileID=1000054898",
+        "Name": "Morrowind Optimization Patch-45384-1-18-0-1751572864.7z",
+        "Size": 30432268,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "MOP Team",
+          "Description": "Greatly improves performance and fixes tons of mesh errors.",
+          "FileID": 1000054898,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/45384-5-1514396528.jpg",
+          "IsNSFW": false,
+          "ModID": 45384,
+          "Name": "Morrowind Optimization Patch",
+          "Version": "1.17.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "8X33wSz+Sqw=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=45096\nfileID=1000059255",
+        "Name": "Patch for Purists-45096-5-0-6-1765845457.7z",
+        "Size": 3862733,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "TES3 Community",
+          "Description": "Patch for Purists is an unofficial patch for The Elder Scrolls III: Morrowind Game of the Year Edition which attempts to continue where the latest official version of the game left off. Over 9000\u002B bugs still present in the game have been fixed.",
+          "FileID": 1000059255,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/45096/45096-1524658434-931520215.png",
+          "IsNSFW": false,
+          "ModID": 45096,
+          "Name": "Patch for Purists",
+          "Version": "4.0.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "yHomzq/Spr8=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=44537\nfileID=1000068848",
+        "Name": "Tamriel Data (SD) 44537 26.08 2026-08-23T18-34Z 9AnoA0Zl.7z",
+        "Size": 885319384,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Cross-Project Coordination",
+          "Description": "Culminating from a year of hard work, Tamriel_Data contains a data unified file structure spearheaded by Project Tamriel and Tamriel Rebuilt as the first adopter.",
+          "FileID": 1000068848,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/44537-0-1473792801.jpg",
+          "IsNSFW": false,
+          "ModID": 44537,
+          "Name": "Tamriel_Data",
+          "Version": "9.0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "HZJpZxQe8HQ=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=49057\nfileID=1000053106",
+        "Name": "Ashfall-49057-3-20-15-1747468268.7z",
+        "Size": 16237276,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Merlord",
+          "Description": "Survival mod with hunger, thirst, tiredness, cooking, camping, crafting and temperature mechanics, and new visuals, from seeing frost on your breath in cold weather, watching your food cook on the grill in real time, and seeing your camping gear displayed dynamically on your backpack.",
+          "FileID": 1000053106,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/49057/49057-1606011263-1925054113.gif",
+          "IsNSFW": false,
+          "ModID": 49057,
+          "Name": "Ashfall - A Camping Survival and Needs Mod",
+          "Version": "v3.14.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "FRbHlyCQa/A=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=49057\nfileID=1000031842",
+        "Name": "Ashfall Trees-49057-1-0-2-1656148426.7z",
+        "Size": 1920152,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Merlord",
+          "Description": "Survival mod with hunger, thirst, tiredness, cooking, camping, crafting and temperature mechanics, and new visuals, from seeing frost on your breath in cold weather, watching your food cook on the grill in real time, and seeing your camping gear displayed dynamically on your backpack.",
+          "FileID": 1000031842,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/49057/49057-1606011263-1925054113.gif",
+          "IsNSFW": false,
+          "ModID": 49057,
+          "Name": "Ashfall - A Camping Survival and Needs Mod",
+          "Version": "v3.14.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "H8GYVIVWOZo=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=60049\nfileID=1000069432",
+        "Name": "Inscribed Enchantments 1.0.0 60049 1 2026-08-30T08-01Z QX42XtS1.7z",
+        "Size": 9455821,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "StormAtronach0",
+          "Description": "Glowing daedric runes (or lines!) for your enchanted bling! \u0026lt;MWSE only\u0026gt;",
+          "FileID": 1000069432,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/60049/60049-1788076826-1166170946.jpg",
+          "IsNSFW": false,
+          "ModID": 60049,
+          "Name": "Inscribed Enchants",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "IlmPtx8qcdk=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=47111\nfileID=1000046031",
+        "Name": "Magicka Expanded-47111-3-0-3-1719837299.7z",
+        "Size": 10404208,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "OperatorJack and RedFurryDemon",
+          "Description": "A lua-based framework for creating new, fully functional magic effects. Currently adds 109 new magic effects.",
+          "FileID": 1000046031,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/47111/47111-1567030934-906192603.png",
+          "IsNSFW": false,
+          "ModID": 47111,
+          "Name": "Magicka Expanded",
+          "Version": "2.09"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "CRJdGQrifSs=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=58445\nfileID=1000062427",
+        "Name": "Magicka of the Third Era Reborn-58445-1-4-1775548990.zip",
+        "Size": 188469,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Storm Atronach",
+          "Description": "An update to the code of the great Magicka of the Third Era. Requires original mod for assets. Includes a brand new mode, creating a hybrid between full deterministic and dice rolling.",
+          "FileID": 1000062427,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/58445/58445-1773588337-1169197189.png",
+          "IsNSFW": false,
+          "ModID": 58445,
+          "Name": "Magicka of the Third Era - Reborn",
+          "Version": "1.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "zFzbOk5iJcQ=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=47480\nfileID=1000050037",
+        "Name": "Enhanced Detection-47480-1-3-1-1738593499.7z",
+        "Size": 63342123,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "OperatorJack and Kurpulio and RedFurryDemon",
+          "Description": "The third entry in the Magic Mechanics series, this mod adds new Oblivion-inspired visual effects and mechanics for the vanilla detection magic effects, as well as adds 7 new magic effects. It integrates those effects into new spells and distributes them in-game to spell vendors. It does all of this without requiring an ESP.",
+          "FileID": 1000050037,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/47480/47480-1582839624-573171493.png",
+          "IsNSFW": false,
+          "ModID": 47480,
+          "Name": "MM - Enhanced Detection",
+          "Version": "1.2.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "6MLXEigFQgw=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=49042\nfileID=1000064960",
+        "Name": "OAAB_Data-49042-2-6-2-1780155954.7z",
+        "Size": 113709211,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "OAAB_Data Team",
+          "Description": "OAAB_Data is a free-to-use asset repository for the Morrowind Community.",
+          "FileID": 1000064960,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/49042/49042-1605537205-589234817.gif",
+          "IsNSFW": false,
+          "ModID": 49042,
+          "Name": "OAAB_Data",
+          "Version": "2.2.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "PceuaR91D4k=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=46562\nfileID=1000026617",
+        "Name": "Perfect Placement-46562-2-1-1630362018.7z",
+        "Size": 8771,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Hrnchamd",
+          "Description": "Adds interactive placement, rotation and wall mounting of items. Arrange gear, books and anything else you can pick up. Requires MWSE 2.1.",
+          "FileID": 1000026617,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/46562/46562-1555698110-1707792801.jpeg",
+          "IsNSFW": false,
+          "ModID": 46562,
+          "Name": "Perfect Placement",
+          "Version": "2.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "EtBwdEg7wTY=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=45399\nfileID=1000053268",
+        "Name": "Project Atlas-45399-0-7-5-1747751438.7z",
+        "Size": 199306196,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Project Atlas Team",
+          "Description": "The goal of Project Atlas is to identify the most performance heavy areas of vanilla Morrowind and some popular mods and target high usage/strain meshes in those areas for atlasing. This effort involves reworking the UVs for those meshes and creating texture atlases to cover various sets.",
+          "FileID": 1000053268,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/45399/45399-1514933591-770966576.png",
+          "IsNSFW": false,
+          "ModID": 45399,
+          "Name": "Project Atlas",
+          "Version": "0.7.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "S8q2Y8ul4Lk=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=49920\nfileID=1000041839",
+        "Name": "Skoomaesthesia-49920-v1-1-1-1704358450.7z",
+        "Size": 3551006,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Merlord and XeroFoxx",
+          "Description": "Adds new skooma mechanics including animated skooma pipe smoking, psychedelic shaders and sound effects, and skooma addiction.",
+          "FileID": 1000041839,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/49920/49920-1622620610-380657413.gif",
+          "IsNSFW": false,
+          "ModID": 49920,
+          "Name": "Skoomaesthesia",
+          "Version": "v1.0.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "oIU6Al1jEX4=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=57321\nfileID=1000068037",
+        "Name": "Stealth Overhaul 2 57321 2.2 2026-08-04T12-00Z uFetFVfX.7z",
+        "Size": 150571,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Storm Atronach and Rhjelte",
+          "Description": "(2.2) An overhaul of how stealth works in Morrowind, complete with new sneak UI and visual feedback. Suspicion based sneaking, Sneak Attacks, Logical NPC senses, configurable and immersive.",
+          "FileID": 1000068037,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/57321/57321-1781341397-1554471151.jpg",
+          "IsNSFW": false,
+          "ModID": 57321,
+          "Name": "Stealth Overhaul 2",
+          "Version": "2.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "2XixH/NZLxc=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=46071\nfileID=1000047808",
+        "Name": "UI Expansion v1.7.3-46071-1-7-3-1729551917.7z",
+        "Size": 228964,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "NullCascade",
+          "Description": "Expands UI functionality with searching, filtering, and more visual feedback.",
+          "FileID": 1000047808,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/46071/46071-1538420403-1167645233.jpeg",
+          "IsNSFW": false,
+          "ModID": 46071,
+          "Name": "UI Expansion",
+          "Version": "1.6.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "XdqidHD15Uk=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=52013\nfileID=1000062603",
+        "Name": "Wares Ultimate-52013-2-1-3-1775985220.7z",
+        "Size": 9835032,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Danae Aurel",
+          "Description": "Modular versions of WARES for Vvardenfell, Tamriel Rebuilt, Skyrim Home of the Nords, and Province Cyrodiil including items, traders, npcs, Hold it and containers.",
+          "FileID": 1000062603,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/52013/52013-1669939406-137535549.jpeg",
+          "IsNSFW": false,
+          "ModID": 52013,
+          "Name": "Wares Ultimate",
+          "Version": "1.5"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "MgTVSg6R15g=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=46069\nfileID=1000015382",
+        "Name": "WeaponSheathing1.6-MWSE-46069-1-6-1565439022.7z",
+        "Size": 5826681,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "TES3 Community",
+          "Description": "Makes unreadied weapons appear on the character\u0027s hip or back.",
+          "FileID": 1000015382,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/46069/46069-1538638827-645975529.png",
+          "IsNSFW": false,
+          "ModID": 46069,
+          "Name": "Weapon Sheathing",
+          "Version": "1.6"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "lCJe3i7mhoM=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=31720\nfileID=707262",
+        "Name": "rootbuilder.5.1.1.zip",
+        "Size": 957191,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kezyma",
+          "Description": "Root Builder is a Mod Organizer 2 plugin that allows you to manage files in the base game folder through Mod Organizer, leaving your game folder in pristine, vanilla condition!",
+          "FileID": 707262,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/31720/31720-1640621042-2144679620.png",
+          "IsNSFW": false,
+          "ModID": 31720,
+          "Name": "Kezyma\u0027s Root Builder for Mod Organizer",
+          "Version": "4.5.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "z3+zSjJpH18=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=53779\nfileID=1000048436",
+        "Name": "Animation Blending-53779-2-1-0-1732451300.zip",
+        "Size": 14669,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Greatness7",
+          "Description": "Adds animation blending to Morrowind, enabling smooth transitions between animations.",
+          "FileID": 1000048436,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/53779/53779-1701620265-390827056.png",
+          "IsNSFW": false,
+          "ModID": 53779,
+          "Name": "Animation Blending",
+          "Version": "1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Xa9mNORiG70=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=51242\nfileID=1000049759",
+        "Name": "DRIP-51242-1-3-2-1737690020.7z",
+        "Size": 241229,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Merlord",
+          "Description": "Drip adds Diablo 2 style loot to Morrowind. Unique weapons, armor, clothing and accesories are dynamically generated, with over a hundred unique modifiers and more than a million possible combinations. Chance to apply modifiers configurable in the MCM.",
+          "FileID": 1000049759,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/51242/51242-1652606575-1381684841.png",
+          "IsNSFW": false,
+          "ModID": 51242,
+          "Name": "DRIP - Dynamic Randomised Item Properties",
+          "Version": "v1.1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "gAMK6mI72Ec=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=48267\nfileID=1000068043",
+        "Name": "Essential Indicators 48267 1.7.7 2026-08-04T15-33Z x2p02Qcg.zip",
+        "Size": 26447,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Anumaril21",
+          "Description": "Provides configurable, dynamic crosshair indicators while sneaking and for essential NPCs, quest items, owned objects, and more. In addition, a variety of settings are included to manage how these aspects of the game work.",
+          "FileID": 1000068043,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/48267/48267-1593610901-1398876121.jpeg",
+          "IsNSFW": false,
+          "ModID": 48267,
+          "Name": "Essential Indicators",
+          "Version": "1.5"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "5T/jRE9lPkc=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=58172\nfileID=1000062383",
+        "Name": "Hidden Powers - Races of Tamriel-58172-1-0-3-1775434778.zip",
+        "Size": 41855,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Varlothen",
+          "Description": "The first ever overhaul mod for the new races of Tamriel Data. Based on my Hidden Powers - Races Refined, and including even more unique systems thanks to the power of MWSE.",
+          "FileID": 1000062383,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/58172/58172-1770379150-1848273835.png",
+          "IsNSFW": false,
+          "ModID": 58172,
+          "Name": "Hidden Powers - Races of Tamriel",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "fdJo+CNRYZ8=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=47565\nfileID=1000045897",
+        "Name": "Enhanced Invisibility-47565-1-2-0-1719171199.7z",
+        "Size": 3187109,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Vtastek - OperatorJack - Kurpulio",
+          "Description": "The 5th entry in the Magic Mechanics series. Using invisibility now changes the way you view the world. Instead of only becoming transparent, you see through an ethereal lens that warps and twists the environment around you. Also, under the effect of invisibility, Daedra and undead creatures will seem... different.",
+          "FileID": 1000045897,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/47565/47565-1581179005-575972490.png",
+          "IsNSFW": false,
+          "ModID": 47565,
+          "Name": "MM - Enhanced Invisibility",
+          "Version": "1.1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "vTzhg3B5Mes=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=19510\nfileID=1000007846",
+        "Name": "Morrowind Code Patch-19510-2-4.7z",
+        "Size": 6946292,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Hrnchamd",
+          "Description": "Patches bugs in the Morrowind program, which cannot otherwise be fixed by editing scripts or data files. Cures many crash and save corruption problems.",
+          "FileID": 1000007846,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/19510-0-1491153364.jpg",
+          "IsNSFW": false,
+          "ModID": 19510,
+          "Name": "Morrowind Code Patch",
+          "Version": "2.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "P2stvvhTKkw=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=46034\nfileID=1000046982",
+        "Name": "Skills Module-46034-v2-1-1-1725070802.7z",
+        "Size": 14243,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Merlord",
+          "Description": "Skills Module is a framework for MWSE\u002BLua mods that allows you to easily create new skills in Morrowind with just a few lines of code. Leveling and UI are handled automatically, with new skills added seamlessly into the stats menu.",
+          "FileID": 1000046982,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/46034/46034-1536743074-1871465100.png",
+          "IsNSFW": false,
+          "ModID": 46034,
+          "Name": "Skills Module",
+          "Version": "v2.1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Or8kgfwHcrI=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=52263\nfileID=1000035174",
+        "Name": "SR_3_ElementalShields-52263-1-0-1675631307.rar",
+        "Size": 18757733,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kurpulio Greatness7",
+          "Description": "spell effect visual replacers",
+          "FileID": 1000035174,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/52263/52263-1675632966-774552849.png",
+          "IsNSFW": false,
+          "ModID": 52263,
+          "Name": "Spells Reforged",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "QNISb67buBA=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=51009\nfileID=1000053105",
+        "Name": "The Crafting Framework-51009-v1-33-5-1747467700.7z",
+        "Size": 10723644,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Merlord",
+          "Description": "The Crafting Framework is library that allows modders to quickly and easily implement complex crafting mechanics in Morrowind.",
+          "FileID": 1000053105,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/51009/51009-1650876700-1648666842.png",
+          "IsNSFW": false,
+          "ModID": 51009,
+          "Name": "The Crafting Framework",
+          "Version": "v1.17.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "+XH0a1bzPIg=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=45993\nfileID=1000021623",
+        "Name": "VSBR-45993-1-0-1604438395.zip",
+        "Size": 19670444,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Heinrich Guil",
+          "Description": "An ultimate true to the original style body replacer.",
+          "FileID": 1000021623,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/45993/45993-1535879070-1958807687.png",
+          "IsNSFW": false,
+          "ModID": 45993,
+          "Name": "VSBR Vanilla style body replacer",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "jYlT5Joho6U=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=49149\nfileID=1000068887",
+        "Name": "VSBR - Tamriel_Data 49149 1.7 2026-08-23T21-07Z Le0PedWT.7z",
+        "Size": 13756168,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Fremennik",
+          "Description": "Applies Vanilla Style Body Replacer to Tamriel Data races.",
+          "FileID": 1000068887,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/49149/49149-1608584863-2111405238.png",
+          "IsNSFW": true,
+          "ModID": 49149,
+          "Name": "VSBR Vanilla style body replacer - Tamriel_Data Addon",
+          "Version": "1.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "cjSkBeA7mJ8=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=60007\nfileID=1000069235",
+        "Name": "Ashfall Performance Patch for v3.20.15 60007 1 2026-08-27T17-58Z kg1zgOJ8.zip",
+        "Size": 347193,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "StormAtronach0",
+          "Description": "Repository for performance fixes",
+          "FileID": 1000069235,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/60007/60007-1787852589-1981121854.jpg",
+          "IsNSFW": false,
+          "ModID": 60007,
+          "Name": "Storm\u0027s Performance Fixes",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "O351z2MsKFU=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=49557\nfileID=1000048520",
+        "Name": "Just Drop It-49557-1-2-0-1732937820.7z",
+        "Size": 4636,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Merlord",
+          "Description": "Dropped items and corpses are automatically positioned and oriented to align with the ground.",
+          "FileID": 1000048520,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/49557/49557-1618397711-912689483.png",
+          "IsNSFW": false,
+          "ModID": 49557,
+          "Name": "Just Drop It",
+          "Version": "1.1.5"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "/Vi+eWPUXOU=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=55144\nfileID=1000046902",
+        "Name": "Shop Around-55144-v1-0-5-1724561517.7z",
+        "Size": 5131,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Merlord",
+          "Description": "This mod allows you to purchase goods from merchants by activating the items directly.",
+          "FileID": 1000046902,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/55144/55144-1724388973-1570390070.png",
+          "IsNSFW": false,
+          "ModID": 55144,
+          "Name": "Shop Around",
+          "Version": "v1.0.5"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "waWOLnWkFaA=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=52263\nfileID=1000036485",
+        "Name": "SR_0_Core-52263-1-1-1678801350.rar",
+        "Size": 3292,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kurpulio Greatness7",
+          "Description": "spell effect visual replacers",
+          "FileID": 1000036485,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/52263/52263-1675632966-774552849.png",
+          "IsNSFW": false,
+          "ModID": 52263,
+          "Name": "Spells Reforged",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "SJMuX2evZ0U=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=52263\nfileID=1000035173",
+        "Name": "SR_2_BoundSpells-52263-1-0-1675631236.rar",
+        "Size": 44872873,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kurpulio Greatness7",
+          "Description": "spell effect visual replacers",
+          "FileID": 1000035173,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/52263/52263-1675632966-774552849.png",
+          "IsNSFW": false,
+          "ModID": 52263,
+          "Name": "Spells Reforged",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Qi/DDo98xKQ=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=52263\nfileID=1000038837",
+        "Name": "SR_5_DamageHealth-52263-1-1-1688247301.rar",
+        "Size": 1504118,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kurpulio Greatness7",
+          "Description": "spell effect visual replacers",
+          "FileID": 1000038837,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/52263/52263-1675632966-774552849.png",
+          "IsNSFW": false,
+          "ModID": 52263,
+          "Name": "Spells Reforged",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "mknUe00trK0=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=52263\nfileID=1000038515",
+        "Name": "SR_6_DamageMagicka-52263-1-1-1686508053.rar",
+        "Size": 7405936,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kurpulio Greatness7",
+          "Description": "spell effect visual replacers",
+          "FileID": 1000038515,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/52263/52263-1675632966-774552849.png",
+          "IsNSFW": false,
+          "ModID": 52263,
+          "Name": "Spells Reforged",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "jzhUVAjZRzs=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=52263\nfileID=1000035172",
+        "Name": "SR_1_BoundSpells-52263-1-0-1675631159.rar",
+        "Size": 20758177,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kurpulio Greatness7",
+          "Description": "spell effect visual replacers",
+          "FileID": 1000035172,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/52263/52263-1675632966-774552849.png",
+          "IsNSFW": false,
+          "ModID": 52263,
+          "Name": "Spells Reforged",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Gt0+I4jXB2M=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=55108\nfileID=1000048443",
+        "Name": "UI Tweaks 1.5.2-55108-1-5-2-1732482975.rar",
+        "Size": 67624,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "BeefStranger",
+          "Description": "A Collection of UI Tweaks/Features/Hotkeys Including:\n\n  Active Effect Fillbars\n\n  Separated Enchantments/Scrolls from Spells\n\n  Auto Sell Marked Junk Items\n\n  View Barter Success Chance\n\n  Use \u0060ESC\u0060 to Close most menus\n\n  Use Hotkeys to Navigate most menus\n\n  View Active Effect Duration",
+          "FileID": 1000048443,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/55108/55108-1724305941-86954415.png",
+          "IsNSFW": false,
+          "ModID": 55108,
+          "Name": "UI Tweaks",
+          "Version": "1.5.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "DbRPHsbSRYE=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=51249\nfileID=1000049926",
+        "Name": "Enchantment Services Redone - ESR-51249-0-9-7-1738256264.7z",
+        "Size": 35448,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Virnetch",
+          "Description": "Adds NPC services for recharging enchanted items, deciphering magic scrolls and the option to transcribe magic scrolls, both by the player, and through a service. Adds empty scrolls from OAAB to enchanters and booksellers, and disables the passive recharging of enchanted items. Highly customizable through the Mod Config Menu.",
+          "FileID": 1000049926,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/51249/51249-1652649778-323391365.png",
+          "IsNSFW": false,
+          "ModID": 51249,
+          "Name": "Enchantment Services Redone - ESR",
+          "Version": "0.9.7"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "9req0iUA5RY=",
+        "Meta": "[General]\ngameName=site\nmodID=1003\nfileID=6628",
+        "Name": "Mod Setup Tool (Self Contained)-1003-1-0-2-1767730243.zip",
+        "Size": 66878307,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kezyma",
+          "Description": "A small tool to be included in Wabbajack modlists that allows for automation of some post-install steps, designed to make installing lists marginally simpler for users.",
+          "FileID": 6628,
+          "GameName": "ModdingTools",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/2295/images/1003/1003-1723488648-1119186110.png",
+          "IsNSFW": false,
+          "ModID": 1003,
+          "Name": "Kezyma\u0027s Wabbajack Post-Setup Tool",
+          "Version": "0.0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "PVSoyOHPqUo=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=39329\nfileID=81971",
+        "Name": "16x9 Version-39329-v1-0.zip",
+        "Size": 57602497,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Chesko",
+          "Description": "An HD recreation of the original Intro Cinematic.",
+          "FileID": 81971,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/39329-2-1310324863.png",
+          "IsNSFW": false,
+          "ModID": 39329,
+          "Name": "HD Intro Cinematic - English",
+          "Version": "v1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "7MNvrCCsfHY=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=46847\nfileID=1000026104",
+        "Name": "inom - Inventory mouse wheel-46847-0-9-5-1627272101.7z",
+        "Size": 3292,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "isNaN",
+          "Description": "Tired of the drag and drop? \n\n\n\nAdd mouse wheel control to the inventory/container interface to simplify inventory management!",
+          "FileID": 1000026104,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/46847/46847-1559318414-793094935.png",
+          "IsNSFW": false,
+          "ModID": 46847,
+          "Name": "inom - Inventory mouse wheel",
+          "Version": "0.9.5"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "SJZZ9PJqG1M=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=50352\nfileID=1000032353",
+        "Name": "Onion - Layered Accessories-50352-3-3-1658744177.7z",
+        "Size": 4863,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Safebox - requested by RuffinVangarr",
+          "Description": "",
+          "FileID": 1000032353,
+          "GameName": "Morrowind",
+          "ImageURL": null,
+          "IsNSFW": false,
+          "ModID": 50352,
+          "Name": "",
+          "Version": "3.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "cqQAgv14A9c=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=52263\nfileID=1000035177",
+        "Name": "SR_4_Shield-52263-1-0-1675631387.rar",
+        "Size": 4824836,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Kurpulio Greatness7",
+          "Description": "spell effect visual replacers",
+          "FileID": 1000035177,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/52263/52263-1675632966-774552849.png",
+          "IsNSFW": false,
+          "ModID": 52263,
+          "Name": "Spells Reforged",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "08zeDDDu7wk=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=47534\nfileID=1000045893",
+        "Name": "Enhanced Telekinesis-47534-1-1-1719170774.7z",
+        "Size": 1779277,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "OperatorJack and Kurpulio",
+          "Description": "The fourth entry in the Magic Mechanics mod series, this mod is inspired by Fliggerty\u0027s Better Telekinesis. Using telekinesis will now propel objects towards you with new VFX instead of immediately picking the item up.",
+          "FileID": 1000045893,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/47534/47534-1579823876-1376524316.png",
+          "IsNSFW": false,
+          "ModID": 47534,
+          "Name": "MM - Enhanced Telekinesis",
+          "Version": "1.04"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "iYw7aYQuxAY=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=47925\nfileID=1000018272",
+        "Name": "No Glow v1.0.0-47925-1-0-0-1588385585.zip",
+        "Size": 2682,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "NullCascade",
+          "Description": "Pluginless *and* assetless no-glow. Use less memory, get some frames back, and be more compatible!",
+          "FileID": 1000018272,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/47925/47925-1588385489-2005160725.jpeg",
+          "IsNSFW": false,
+          "ModID": 47925,
+          "Name": "Assetless No Glow",
+          "Version": "1.0.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "inN6nSykIeI=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=56769\nfileID=1000062382",
+        "Name": "Hidden Powers - Races Refined-56769-2-0-1-1775434198.zip",
+        "Size": 43318,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Varlothen",
+          "Description": "Grow and unlock the hidden potential of your characters with this faithful reimagining of the original Elder Scroll\u0027s races.",
+          "FileID": 1000062382,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/56769/56769-1759978725-841565554.png",
+          "IsNSFW": false,
+          "ModID": 56769,
+          "Name": "Hidden Powers - Races Refined",
+          "Version": "2.0.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "guOpgGuskIY=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=44540\nfileID=1000018406",
+        "Name": "Better Daedric Font-44540-3-2-1588716626.7z",
+        "Size": 798911,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "hardek",
+          "Description": "A high resolution replacement for the Daedric font used in scrolls.",
+          "FileID": 1000018406,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/44540/44540-1557435792-514885505.jpeg",
+          "IsNSFW": false,
+          "ModID": 44540,
+          "Name": "Better Daedric Font",
+          "Version": "3.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "LaBwQ1k5QOg=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=45729\nfileID=1000027447",
+        "Name": "Poison Crafting-45729-2-1-1634510224.7z",
+        "Size": 58504,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Greatness7",
+          "Description": "Opens up an entire new facet of gameplay by granting the ability to use potions offensively, as poisons applied to your weapons. Supports all potions, including those added by other mods or crafted by the player. Additionally includes new HUD elements and various other improvements to the alchemy system as a whole.",
+          "FileID": 1000027447,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/45729/45729-1527812755-2062938209.png",
+          "IsNSFW": false,
+          "ModID": 45729,
+          "Name": "Poison Crafting",
+          "Version": "2.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "q8iKx7RlEuE=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=55897\nfileID=1000049967",
+        "Name": "Patch for Graphic Herbalism v1.04-55897-1-04-1738349410.7z",
+        "Size": 3329,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "NullCascade",
+          "Description": "Just some patches.",
+          "FileID": 1000049967,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/55897/55897-1738349815-2146544884.jpeg",
+          "IsNSFW": false,
+          "ModID": 55897,
+          "Name": "Null\u0027s Minor Patches",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "6Ssii71nQGI=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=48055\nfileID=1000063646",
+        "Name": "Hotkeys Extended-48055-1-1-5-1777981204.7z",
+        "Size": 8786,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Virnetch",
+          "Description": "Expands the vanilla Quick Menu by adding different hotkeys for holding or double tapping a button and/or when holding a specific button. All hotkeys use the same keys as in vanilla. In total there can now be 81 different hotkeyed items/spells. Requires MWSE 2.1",
+          "FileID": 1000063646,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/48055/48055-1589558169-117848322.png",
+          "IsNSFW": false,
+          "ModID": 48055,
+          "Name": "Hotkeys Extended",
+          "Version": "1.1.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "RIWL93ZCX9A=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=60007\nfileID=1000069233",
+        "Name": "Patch For Reading Is Good V2.0 60007 1 2026-08-27T17-47Z 5VduVat8.zip",
+        "Size": 886216,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "StormAtronach0",
+          "Description": "Repository for performance fixes",
+          "FileID": 1000069233,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/60007/60007-1787852589-1981121854.jpg",
+          "IsNSFW": false,
+          "ModID": 60007,
+          "Name": "Storm\u0027s Performance Fixes",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Xt7jzl5eciU=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=58809\nfileID=1000064636",
+        "Name": "Refined Enchantments   Improved Magical Item Loot-58809-1-41-1779776441.zip",
+        "Size": 81558,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "varlothen",
+          "Description": "A complete retooling of all enchanted items to better compliment the improved mechanics of a modded Morrowind install.",
+          "FileID": 1000064636,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/58809/58809-1777634775-536355593.png",
+          "IsNSFW": false,
+          "ModID": 58809,
+          "Name": "Enchantments Refined - Improved Magical Item Loot",
+          "Version": "1.2"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "lCz/wDoBS28=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=58808\nfileID=1000064574",
+        "Name": "Potions Refined   Improved Magical Item Loot-58808-1-2-1779692804.zip",
+        "Size": 31552,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "varlothen",
+          "Description": "A complete retooling of all generic potions to better compliment the improved mechanics of a modded Morrowind install.",
+          "FileID": 1000064574,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/58808/58808-1777634287-1283851907.png",
+          "IsNSFW": false,
+          "ModID": 58808,
+          "Name": "Potions Refined - Improved Magical Item Loot",
+          "Version": "1.1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "r+Y5OTPRUSo=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=45634\nfileID=1000027751",
+        "Name": "Expeditious Exit v1.3.0-45634-1-3-0-1636239945.zip",
+        "Size": 5055,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "NullCascade",
+          "Description": "Have issues with the game crashing on exit? This might help!",
+          "FileID": 1000027751,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/45634/45634-1525585986-964557827.jpeg",
+          "IsNSFW": false,
+          "ModID": 45634,
+          "Name": "Expeditious Exit",
+          "Version": "1.3.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "Sk/SQsf6ves=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=46851\nfileID=1000026054",
+        "Name": "Book Worm-46851-1-4-1627094212.7z",
+        "Size": 1780,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Merlord",
+          "Description": "Keep track of what books you have read by showing a \u0022(Read)\u0022 indicator next to their names. You can also see a list of previously read books in the MCM menu.",
+          "FileID": 1000026054,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/46851/46851-1559359991-1710102204.png",
+          "IsNSFW": false,
+          "ModID": 46851,
+          "Name": "Book Worm",
+          "Version": "1.4"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "qqWSFqg5Yu0=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=48454\nfileID=1000019536",
+        "Name": "MWSE Hide the Skooma-48454-1-0-1593062468.7z",
+        "Size": 2611,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Necrolesian",
+          "Description": "Automatically hides your drugs so you don\u0027t have to dump them on the floor in order to trade. Uses MWSE, no plugin required.",
+          "FileID": 1000019536,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/48454/48454-1593062306-1668597174.png",
+          "IsNSFW": false,
+          "ModID": 48454,
+          "Name": "MWSE Hide the Skooma",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "4XdhbwB7rdg=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=36873\nfileID=74900",
+        "Name": "Better Dialogue Font-36873.7z",
+        "Size": 32327,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Hrnchamd",
+          "Description": "A high resolution replacer for Morrowind\\\u0027s Magic Cards font, used in most of the UI - menus, dialogue and the journal.",
+          "FileID": 74900,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/36873-1-1296354962.jpg",
+          "IsNSFW": false,
+          "ModID": 36873,
+          "Name": "Better Dialogue Font",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "xK54uuoiSsM=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=46870\nfileID=1000058360",
+        "Name": "TES3Merge v0.12.0-46870-0-12-0-1762997402.zip",
+        "Size": 28523625,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "See GitHub",
+          "Description": "A tool for automatically patching conflicts between mods for TES3: Morrowind.",
+          "FileID": 1000058360,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/46870/46870-1559458965-639767057.png",
+          "IsNSFW": false,
+          "ModID": 46870,
+          "Name": "TES3Merge",
+          "Version": "0.11"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "xWHj/QscN/A=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=47588\nfileID=1000022864",
+        "Name": "Expansion Delay-47588-1-3-1612481103.zip",
+        "Size": 6438,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Half11",
+          "Description": "This mod fixes Bethesda\u0027s overly enthusiastic expansion hooks by delaying the Dark Brotherhood attacks (for Tribunal) and limiting intrustive dialogue topics to a few NPCs (Bloodmoon).",
+          "FileID": 1000022864,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/47588/47588-1581374365-1608782573.png",
+          "IsNSFW": false,
+          "ModID": 47588,
+          "Name": "Expansion Delay",
+          "Version": "1.3"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "HPqmzfkuU2s=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=54262\nfileID=1000052679",
+        "Name": "plox windows-54262-0-5-0-1746743674.zip",
+        "Size": 6420910,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "rfuzzo",
+          "Description": "PLOX is a rust re-write of MLOX, a utility tool to sort a modlist topologically according to ordering rules. PLOX also outputs warnings and notes dependent on the mods in your load order. You can use it as a GUI app or as a commandline tool.",
+          "FileID": 1000052679,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/54262/54262-1710169419-1649708038.png",
+          "IsNSFW": false,
+          "ModID": 54262,
+          "Name": "PLOX - Load order sorter",
+          "Version": "0.3.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "PyFMdWU+udY=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=53902\nfileID=1000041742",
+        "Name": "MEO HD Title Screen-53902-1-0-1703926651.7z",
+        "Size": 4197757,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "DassiD",
+          "Description": "Title screen replacer with a map of Vvardenfell in the background.",
+          "FileID": 1000041742,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/53902/53902-1703926553-487191627.png",
+          "IsNSFW": false,
+          "ModID": 53902,
+          "Name": "MEO HD Title Screen",
+          "Version": "1.0"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "kZoGHMVvcGI=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=49848\nfileID=1000068669",
+        "Name": "abotSmartCompanions 49848 2.01 2026-08-20T19-39Z G83i81bc.7z",
+        "Size": 37560,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "abot",
+          "Description": "Makes companions (the ones with the short companion local variable set to 1) able to interact with possible loot sources and doors you Alt\u002BActivate, can fix/improve some companions/followers features, detect abot\u0027s modded Scenic Travelling and apply it to followers not already compatible with it...",
+          "FileID": 1000068669,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/49848/49848-1621855473-1234667770.jpeg",
+          "IsNSFW": false,
+          "ModID": 49848,
+          "Name": "Smart Companions",
+          "Version": "1.19"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "79oc9hk1Gpw=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=47492\nfileID=1000046734",
+        "Name": "abotSmartJournal-47492-1-19-1723536234.7z",
+        "Size": 24026,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "abot",
+          "Description": "several new options for journal pages and quests list",
+          "FileID": 1000046734,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/47492/47492-1638812699-1886620225.jpeg",
+          "IsNSFW": false,
+          "ModID": 47492,
+          "Name": "Smart Journal",
+          "Version": "1.16"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "/7IqByCjFK8=",
+        "Meta": "[General]\ngameName=morrowind\nmodID=50577\nfileID=1000028649",
+        "Name": "Seph\u0027s Enemy Bars-50577-1-5-2-1640747978.zip",
+        "Size": 8450,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "Sephumbra",
+          "Description": "A simple MWSE mod that adds more detailed health, magicka and fatigue bars to any npc or creature you look at.",
+          "FileID": 1000028649,
+          "GameName": "Morrowind",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/100/images/50577/50577-1640730096-1474657809.png",
+          "IsNSFW": false,
+          "ModID": 50577,
+          "Name": "Seph\u0027s Enemy Bars",
+          "Version": "1.5.2"
+        }
+      }
+    }
+  ],
+  "Status": "Available",
   "Failures": 0,
-  "SmallImage": null,
-  "LargeImage": null
+  "SmallImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Morrowind75/Morrowind75_small.webp",
+  "LargeImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Morrowind75/Morrowind75_large.webp"
 }
