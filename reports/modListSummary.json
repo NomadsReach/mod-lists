@@ -282,16 +282,16 @@
   {
     "name": "Keizaal",
     "machineURL": "Keizaal/keizaal",
-    "failed": 0,
-    "passed": 0,
+    "failed": 1,
+    "passed": 1010,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/Keizaal/keizaal/status.json",
     "report": "reports/Keizaal/keizaal/status.md",
     "modlist_missing": false,
-    "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "has_failures": true,
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Keizaal/keizaal_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Keizaal/keizaal_large.webp"
   },
   {
     "name": "Wildlander",
@@ -472,8 +472,8 @@
     "report": "reports/LostOutpost/constellation/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/LostOutpost/constellation_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/LostOutpost/constellation_large.webp"
   },
   {
     "name": "Simonrim Essentials",
@@ -1052,16 +1052,16 @@
   {
     "name": "Beowulf",
     "machineURL": "Beowulf/beowulf",
-    "failed": 2,
-    "passed": 2280,
+    "failed": 0,
+    "passed": 0,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/Beowulf/beowulf/status.json",
     "report": "reports/Beowulf/beowulf/status.md",
     "modlist_missing": false,
-    "has_failures": true,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Beowulf/beowulf_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Beowulf/beowulf_large.webp"
+    "has_failures": false,
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "Stormcrown VR",
@@ -2467,7 +2467,7 @@
     "name": "Nuclear Sunset",
     "machineURL": "NuclearSunset/NuclearSunset",
     "failed": 0,
-    "passed": 1492,
+    "passed": 1502,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/NuclearSunset/NuclearSunset/status.json",
@@ -2565,15 +2565,15 @@
     "name": "Difficulty, Immersion, Quality",
     "machineURL": "DIQ/DIQWabbajack",
     "failed": 0,
-    "passed": 0,
+    "passed": 1274,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/DIQ/DIQWabbajack/status.json",
     "report": "reports/DIQ/DIQWabbajack/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/DIQ/DIQWabbajack_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/DIQ/DIQWabbajack_large.webp"
   },
   {
     "name": "CyberVision",
@@ -2901,7 +2901,7 @@
     "name": "ReSkyrimed",
     "machineURL": "ReSkyrimed/ReSkyrimedProject",
     "failed": 0,
-    "passed": 1662,
+    "passed": 1656,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/ReSkyrimed/ReSkyrimedProject/status.json",
@@ -3027,15 +3027,15 @@
     "name": "The Arcadia List AE",
     "machineURL": "TAL/TheArcadiaListAE",
     "failed": 0,
-    "passed": 0,
+    "passed": 379,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/TAL/TheArcadiaListAE/status.json",
     "report": "reports/TAL/TheArcadiaListAE/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/TAL/TheArcadiaListAE_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/TAL/TheArcadiaListAE_large.webp"
   },
   {
     "name": "TAL: Deep Space",
