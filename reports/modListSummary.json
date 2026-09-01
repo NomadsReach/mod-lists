@@ -282,16 +282,16 @@
   {
     "name": "Keizaal",
     "machineURL": "Keizaal/keizaal",
-    "failed": 1,
-    "passed": 1010,
+    "failed": 0,
+    "passed": 0,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/Keizaal/keizaal/status.json",
     "report": "reports/Keizaal/keizaal/status.md",
     "modlist_missing": false,
-    "has_failures": true,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Keizaal/keizaal_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Keizaal/keizaal_large.webp"
+    "has_failures": false,
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "Wildlander",
@@ -367,7 +367,7 @@
     "name": "Tahrovin",
     "machineURL": "iAmModlist/tahrovin",
     "failed": 0,
-    "passed": 1077,
+    "passed": 1062,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/iAmModlist/tahrovin/status.json",
@@ -472,8 +472,8 @@
     "report": "reports/LostOutpost/constellation/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/LostOutpost/constellation_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/LostOutpost/constellation_large.webp"
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "Simonrim Essentials",
@@ -619,7 +619,7 @@
     "name": "Nordic Souls",
     "machineURL": "Geborgen/nordic-souls",
     "failed": 0,
-    "passed": 1731,
+    "passed": 1735,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/Geborgen/nordic-souls/status.json",
@@ -1052,16 +1052,16 @@
   {
     "name": "Beowulf",
     "machineURL": "Beowulf/beowulf",
-    "failed": 0,
-    "passed": 0,
+    "failed": 2,
+    "passed": 2280,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/Beowulf/beowulf/status.json",
     "report": "reports/Beowulf/beowulf/status.md",
     "modlist_missing": false,
-    "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "has_failures": true,
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Beowulf/beowulf_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Beowulf/beowulf_large.webp"
   },
   {
     "name": "Stormcrown VR",
@@ -1095,7 +1095,7 @@
     "name": "Frostbound",
     "machineURL": "Stormcrown_VR/Frostbound",
     "failed": 0,
-    "passed": 362,
+    "passed": 370,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/Stormcrown_VR/Frostbound/status.json",
@@ -2565,15 +2565,15 @@
     "name": "Difficulty, Immersion, Quality",
     "machineURL": "DIQ/DIQWabbajack",
     "failed": 0,
-    "passed": 1274,
+    "passed": 0,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/DIQ/DIQWabbajack/status.json",
     "report": "reports/DIQ/DIQWabbajack/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/DIQ/DIQWabbajack_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/DIQ/DIQWabbajack_large.webp"
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "CyberVision",
@@ -2887,7 +2887,7 @@
     "name": "Project Ultrapunk",
     "machineURL": "VanStorm/ProjectUltrapunk",
     "failed": 0,
-    "passed": 319,
+    "passed": 323,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/VanStorm/ProjectUltrapunk/status.json",
@@ -3027,15 +3027,15 @@
     "name": "The Arcadia List AE",
     "machineURL": "TAL/TheArcadiaListAE",
     "failed": 0,
-    "passed": 379,
+    "passed": 0,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/TAL/TheArcadiaListAE/status.json",
     "report": "reports/TAL/TheArcadiaListAE/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/TAL/TheArcadiaListAE_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/TAL/TheArcadiaListAE_large.webp"
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "TAL: Deep Space",
