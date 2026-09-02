@@ -535,15 +535,15 @@
     "name": "Plotaplaooza Contest Helper",
     "machineURL": "Yagisan/SS2PAP",
     "failed": 0,
-    "passed": 0,
+    "passed": 153,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/Yagisan/SS2PAP/status.json",
     "report": "reports/Yagisan/SS2PAP/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Yagisan/SS2PAP_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Yagisan/SS2PAP_large.webp"
   },
   {
     "name": "Rebuilding the Commonwealth",
@@ -745,15 +745,15 @@
     "name": "Fahluaan",
     "machineURL": "WakingDreams/fahluaan",
     "failed": 0,
-    "passed": 0,
+    "passed": 2850,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/WakingDreams/fahluaan/status.json",
     "report": "reports/WakingDreams/fahluaan/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/WakingDreams/fahluaan_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/WakingDreams/fahluaan_large.webp"
   },
   {
     "name": "Apostasy",
@@ -772,16 +772,16 @@
   {
     "name": "Anvil",
     "machineURL": "WakingDreams/ANVIL",
-    "failed": 1,
-    "passed": 1054,
+    "failed": 0,
+    "passed": 0,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/WakingDreams/ANVIL/status.json",
     "report": "reports/WakingDreams/ANVIL/status.md",
     "modlist_missing": false,
-    "has_failures": true,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/WakingDreams/ANVIL_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/WakingDreams/ANVIL_large.webp"
+    "has_failures": false,
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "Twisted Skyrim",
@@ -1052,16 +1052,16 @@
   {
     "name": "Beowulf",
     "machineURL": "Beowulf/beowulf",
-    "failed": 2,
-    "passed": 2280,
+    "failed": 0,
+    "passed": 0,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/Beowulf/beowulf/status.json",
     "report": "reports/Beowulf/beowulf/status.md",
     "modlist_missing": false,
-    "has_failures": true,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Beowulf/beowulf_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Beowulf/beowulf_large.webp"
+    "has_failures": false,
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "Stormcrown VR",
@@ -1893,7 +1893,7 @@
     "name": "Mojave Express Wabbajack (MEW)",
     "machineURL": "mojaveexpressguide/MojaveExpressWabbajack",
     "failed": 0,
-    "passed": 389,
+    "passed": 398,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/mojaveexpressguide/MojaveExpressWabbajack/status.json",
@@ -1991,15 +1991,15 @@
     "name": "Fashionista - GOG",
     "machineURL": "unPause/FashionistaGOG",
     "failed": 0,
-    "passed": 0,
+    "passed": 1160,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/unPause/FashionistaGOG/status.json",
     "report": "reports/unPause/FashionistaGOG/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/unPause/FashionistaGOG_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/unPause/FashionistaGOG_large.webp"
   },
   {
     "name": "Morrowind75",
@@ -2411,15 +2411,15 @@
     "name": "Skyrim Odyssey",
     "machineURL": "Odyssey/SkyrimOdyssey",
     "failed": 0,
-    "passed": 0,
+    "passed": 1345,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/Odyssey/SkyrimOdyssey/status.json",
     "report": "reports/Odyssey/SkyrimOdyssey/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Odyssey/SkyrimOdyssey_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Odyssey/SkyrimOdyssey_large.webp"
   },
   {
     "name": "A Bountiful Commonwealth",
@@ -2453,21 +2453,21 @@
     "name": "ElderTeej",
     "machineURL": "ElderTeej/ETJ",
     "failed": 0,
-    "passed": 0,
+    "passed": 2938,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/ElderTeej/ETJ/status.json",
     "report": "reports/ElderTeej/ETJ/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/ElderTeej/ETJ_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/ElderTeej/ETJ_large.webp"
   },
   {
     "name": "Nuclear Sunset",
     "machineURL": "NuclearSunset/NuclearSunset",
     "failed": 0,
-    "passed": 1500,
+    "passed": 1492,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/NuclearSunset/NuclearSunset/status.json",
@@ -2761,15 +2761,15 @@
     "name": "Kirbylite Modlist",
     "machineURL": "SkyrimKIRBYKINGSNSFWEditionModlist/KirbyliteModlist",
     "failed": 0,
-    "passed": 0,
+    "passed": 1695,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/SkyrimKIRBYKINGSNSFWEditionModlist/KirbyliteModlist/status.json",
     "report": "reports/SkyrimKIRBYKINGSNSFWEditionModlist/KirbyliteModlist/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/SkyrimKIRBYKINGSNSFWEditionModlist/KirbyliteModlist_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/SkyrimKIRBYKINGSNSFWEditionModlist/KirbyliteModlist_large.webp"
   },
   {
     "name": "Novafield",
@@ -2901,7 +2901,7 @@
     "name": "ReSkyrimed",
     "machineURL": "ReSkyrimed/ReSkyrimedProject",
     "failed": 0,
-    "passed": 1656,
+    "passed": 1657,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/ReSkyrimed/ReSkyrimedProject/status.json",
@@ -3027,15 +3027,15 @@
     "name": "The Arcadia List AE",
     "machineURL": "TAL/TheArcadiaListAE",
     "failed": 0,
-    "passed": 0,
+    "passed": 379,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/TAL/TheArcadiaListAE/status.json",
     "report": "reports/TAL/TheArcadiaListAE/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/TAL/TheArcadiaListAE_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/TAL/TheArcadiaListAE_large.webp"
   },
   {
     "name": "TAL: Deep Space",
