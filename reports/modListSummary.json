@@ -94,8 +94,8 @@
     "report": "reports/wj-featured/lostinspace/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/wj-featured/lostinspace_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/wj-featured/lostinspace_large.webp"
   },
   {
     "name": "Welcome to Paradise",
@@ -156,16 +156,16 @@
   {
     "name": "Aldrnari",
     "machineURL": "wj-featured/aldrnari",
-    "failed": 1,
-    "passed": 2672,
+    "failed": 0,
+    "passed": 0,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/wj-featured/aldrnari/status.json",
     "report": "reports/wj-featured/aldrnari/status.md",
     "modlist_missing": false,
-    "has_failures": true,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/wj-featured/aldrnari_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/wj-featured/aldrnari_large.webp"
+    "has_failures": false,
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "Wanderlust",
@@ -255,15 +255,15 @@
     "name": "Old New England",
     "machineURL": "wj-unlisted/OldNewEngland",
     "failed": 0,
-    "passed": 1264,
+    "passed": 0,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/wj-unlisted/OldNewEngland/status.json",
     "report": "reports/wj-unlisted/OldNewEngland/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/wj-unlisted/OldNewEngland_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/wj-unlisted/OldNewEngland_large.webp"
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "Halgari\u0027s Helper",
@@ -604,14 +604,14 @@
   {
     "name": "F4FEVR",
     "machineURL": "F4FEVR/LaskeumaKuume",
-    "failed": 0,
-    "passed": 136,
+    "failed": 1,
+    "passed": 135,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/F4FEVR/LaskeumaKuume/status.json",
     "report": "reports/F4FEVR/LaskeumaKuume/status.md",
     "modlist_missing": false,
-    "has_failures": false,
+    "has_failures": true,
     "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/F4FEVR/LaskeumaKuume_small.webp",
     "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/F4FEVR/LaskeumaKuume_large.webp"
   },
@@ -703,15 +703,15 @@
     "name": "Fahluaan",
     "machineURL": "WakingDreams/fahluaan",
     "failed": 0,
-    "passed": 2850,
+    "passed": 0,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/WakingDreams/fahluaan/status.json",
     "report": "reports/WakingDreams/fahluaan/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/WakingDreams/fahluaan_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/WakingDreams/fahluaan_large.webp"
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "Apostasy",
@@ -1010,16 +1010,16 @@
   {
     "name": "Beowulf",
     "machineURL": "Beowulf/beowulf",
-    "failed": 2,
-    "passed": 2280,
+    "failed": 0,
+    "passed": 0,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/Beowulf/beowulf/status.json",
     "report": "reports/Beowulf/beowulf/status.md",
     "modlist_missing": false,
-    "has_failures": true,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Beowulf/beowulf_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Beowulf/beowulf_large.webp"
+    "has_failures": false,
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "Stormcrown VR",
@@ -1725,15 +1725,15 @@
     "name": "Tuxborn",
     "machineURL": "Tuxborn/Tuxborn",
     "failed": 0,
-    "passed": 0,
+    "passed": 1788,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/Tuxborn/Tuxborn/status.json",
     "report": "reports/Tuxborn/Tuxborn/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Tuxborn/Tuxborn_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Tuxborn/Tuxborn_large.webp"
   },
   {
     "name": "Emissaries of Tux",
@@ -1818,48 +1818,6 @@
     "has_failures": true,
     "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/CapitalCommonwealth/mt4lcapitalcommonwealth_small.webp",
     "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/CapitalCommonwealth/mt4lcapitalcommonwealth_large.webp"
-  },
-  {
-    "name": "Wasteland Genesis",
-    "machineURL": "Wasteland_Genesis/wasteland-genesis",
-    "failed": 0,
-    "passed": 0,
-    "updating": 0,
-    "mirrored": 0,
-    "link": "reports/Wasteland_Genesis/wasteland-genesis/status.json",
-    "report": "reports/Wasteland_Genesis/wasteland-genesis/status.md",
-    "modlist_missing": false,
-    "has_failures": false,
-    "small_image": null,
-    "large_image": null
-  },
-  {
-    "name": "Wasteland Genesis AE",
-    "machineURL": "Wasteland_Genesis/wastelandgenesisae",
-    "failed": 0,
-    "passed": 913,
-    "updating": 0,
-    "mirrored": 0,
-    "link": "reports/Wasteland_Genesis/wastelandgenesisae/status.json",
-    "report": "reports/Wasteland_Genesis/wastelandgenesisae/status.md",
-    "modlist_missing": false,
-    "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Wasteland_Genesis/wastelandgenesisae_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Wasteland_Genesis/wastelandgenesisae_large.webp"
-  },
-  {
-    "name": "Skadi\u0027s Veil",
-    "machineURL": "Wasteland_Genesis/skadis-veil",
-    "failed": 0,
-    "passed": 0,
-    "updating": 0,
-    "mirrored": 0,
-    "link": "reports/Wasteland_Genesis/skadis-veil/status.json",
-    "report": "reports/Wasteland_Genesis/skadis-veil/status.md",
-    "modlist_missing": false,
-    "has_failures": false,
-    "small_image": null,
-    "large_image": null
   },
   {
     "name": "Mojave Express Wabbajack (MEW)",
@@ -1963,7 +1921,7 @@
     "name": "Fashionista - GOG",
     "machineURL": "unPause/FashionistaGOG",
     "failed": 0,
-    "passed": 1160,
+    "passed": 1023,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/unPause/FashionistaGOG/status.json",
@@ -2033,15 +1991,15 @@
     "name": "No Man\u0027s Sky - Explorer",
     "machineURL": "Wunduniik/NMSExplorer",
     "failed": 0,
-    "passed": 0,
+    "passed": 253,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/Wunduniik/NMSExplorer/status.json",
     "report": "reports/Wunduniik/NMSExplorer/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Wunduniik/NMSExplorer_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Wunduniik/NMSExplorer_large.webp"
   },
   {
     "name": "Extrasolar Containment Protocol",
@@ -2229,29 +2187,29 @@
     "name": "Skyrim Unification Project",
     "machineURL": "SkyrimUnificationProject/SkyrimUnificationProject",
     "failed": 0,
-    "passed": 0,
+    "passed": 2757,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/SkyrimUnificationProject/SkyrimUnificationProject/status.json",
     "report": "reports/SkyrimUnificationProject/SkyrimUnificationProject/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/SkyrimUnificationProject/SkyrimUnificationProject_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/SkyrimUnificationProject/SkyrimUnificationProject_large.webp"
   },
   {
     "name": "Gate to Sovngarde AE Version",
     "machineURL": "Gate_to_Sovngarde/GateToSovngarde_WJ_AE",
     "failed": 0,
-    "passed": 0,
+    "passed": 2148,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/Gate_to_Sovngarde/GateToSovngarde_WJ_AE/status.json",
     "report": "reports/Gate_to_Sovngarde/GateToSovngarde_WJ_AE/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Gate_to_Sovngarde/GateToSovngarde_WJ_AE_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Gate_to_Sovngarde/GateToSovngarde_WJ_AE_large.webp"
   },
   {
     "name": "Gate to Sovngarde Non-AE Version",
@@ -2579,15 +2537,15 @@
     "name": "Welcome to Night City",
     "machineURL": "CDPR_Modlists/CyberpunkTHING",
     "failed": 0,
-    "passed": 0,
+    "passed": 288,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/CDPR_Modlists/CyberpunkTHING/status.json",
     "report": "reports/CDPR_Modlists/CyberpunkTHING/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/CDPR_Modlists/CyberpunkTHING_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/CDPR_Modlists/CyberpunkTHING_large.webp"
   },
   {
     "name": "Last Seed",
@@ -2607,15 +2565,15 @@
     "name": "Ashveil - Eine Deutsche Modliste",
     "machineURL": "lukxsofficial/Ashveil",
     "failed": 0,
-    "passed": 0,
+    "passed": 1590,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/lukxsofficial/Ashveil/status.json",
     "report": "reports/lukxsofficial/Ashveil/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/lukxsofficial/Ashveil_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/lukxsofficial/Ashveil_large.webp"
   },
   {
     "name": "Clearhaven",
@@ -2705,15 +2663,15 @@
     "name": "Kirbykings Modlist NSFW Edition",
     "machineURL": "SkyrimKIRBYKINGSNSFWEditionModlist/SkyrimKIRBYKINGSNSFWEditionModlist",
     "failed": 0,
-    "passed": 0,
+    "passed": 2760,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/SkyrimKIRBYKINGSNSFWEditionModlist/SkyrimKIRBYKINGSNSFWEditionModlist/status.json",
     "report": "reports/SkyrimKIRBYKINGSNSFWEditionModlist/SkyrimKIRBYKINGSNSFWEditionModlist/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/SkyrimKIRBYKINGSNSFWEditionModlist/SkyrimKIRBYKINGSNSFWEditionModlist_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/SkyrimKIRBYKINGSNSFWEditionModlist/SkyrimKIRBYKINGSNSFWEditionModlist_large.webp"
   },
   {
     "name": "Kirbykings Modlist",
@@ -2845,15 +2803,15 @@
     "name": "ReaperGleam",
     "machineURL": "ReaperGleam/ReaperGleam",
     "failed": 0,
-    "passed": 2079,
+    "passed": 0,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/ReaperGleam/ReaperGleam/status.json",
     "report": "reports/ReaperGleam/ReaperGleam/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/ReaperGleam/ReaperGleam_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/ReaperGleam/ReaperGleam_large.webp"
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "Project Ultrapunk",
@@ -2873,15 +2831,15 @@
     "name": "ReSkyrimed",
     "machineURL": "ReSkyrimed/ReSkyrimedProject",
     "failed": 0,
-    "passed": 0,
+    "passed": 1657,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/ReSkyrimed/ReSkyrimedProject/status.json",
     "report": "reports/ReSkyrimed/ReSkyrimedProject/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/ReSkyrimed/ReSkyrimedProject_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/ReSkyrimed/ReSkyrimedProject_large.webp"
   },
   {
     "name": "Abyssal Skies",
@@ -3048,8 +3006,8 @@
     "report": "reports/rbt/ProjectUniversum/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/rbt/ProjectUniversum_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/rbt/ProjectUniversum_large.webp"
   },
   {
     "name": "ZISS (Zora\u0027s Immersive Survival Souls)",
@@ -3106,5 +3064,19 @@
     "has_failures": false,
     "small_image": null,
     "large_image": null
+  },
+  {
+    "name": "Randino",
+    "machineURL": "Welfon/randino",
+    "failed": 0,
+    "passed": 284,
+    "updating": 0,
+    "mirrored": 0,
+    "link": "reports/Welfon/randino/status.json",
+    "report": "reports/Welfon/randino/status.md",
+    "modlist_missing": false,
+    "has_failures": false,
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Welfon/randino_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Welfon/randino_large.webp"
   }
 ]

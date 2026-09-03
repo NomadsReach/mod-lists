@@ -4,7 +4,7 @@
 ### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1160)
+### Valid (1023)
 *  [1dark_malk_girl.zip](https://www.moddb.com/addons/start/257195)
 *  [AAFVentrue.rar](https://www.moddb.com/addons/start/259073)
 *  [Antitribu Mod Pack by Marius217-125-1-1574554692.rar](https://www.nexusmods.com/vampirebloodlines/mods/125/?tab=files&file_id=306)
@@ -28,7 +28,7 @@
 *  [Blood Rayne Posters.rar](https://www.nexusmods.com/vampirebloodlines/mods/405/?tab=files&file_id=1557)
 *  [Bloodlines Voices Remastered Mod Update 2-307-1-02-1717012388.zip](https://www.nexusmods.com/vampirebloodlines/mods/307/?tab=files&file_id=997)
 *  [Bloodlines Voices Remastered Mod Version 1.02-307-1-02-1718799820.zip](https://www.nexusmods.com/vampirebloodlines/mods/307/?tab=files&file_id=1010)
-*  [BLOODLINES_EXTREME_v.2.1.3.zip](https://authored-files.wabbajack.org/BLOODLINES_EXTREME_v.2.1.3.zip_f2c6bb79-2e76-4c5b-b60b-b2abbb81a4e7)
+*  [BLOODLINES_EXTREME_2.1.4 - Repack.zip](https://authored-files.wabbajack.org/BLOODLINES_EXTREME_2.1.4 - Repack.zip_a7a586cc-a234-4750-8b59-7fcbd0b571eb)
 *  [Bloodlines_Prelude_I_18.2.exe](https://www.moddb.com/downloads/start/242991)
 *  [Bloodlines_Prelude_I.7z](https://authored-files.wabbajack.org/Bloodlines_Prelude_I.7z_09041414-3313-4a0d-8d91-6219751083e3)
 *  [Bloodlines_Prelude_II - Repack.7z](https://authored-files.wabbajack.org/Bloodlines_Prelude_II - Repack.7z_6615162e-cf34-441c-8c54-a4523af79541)
@@ -52,17 +52,18 @@
 *  [Clan Quest Mod - Repack.7z](https://authored-files.wabbajack.org/Clan Quest Mod - Repack.7z_84215957-5b0e-4dbd-b8bd-e6ddc2401a74)
 *  [Clan Quest Mod 4.1 Full Installer-104-4-1-1560788790.exe](https://www.nexusmods.com/vampirebloodlines/mods/104/?tab=files&file_id=248)
 *  [Clan Quest Mod Characters-165-26-1733697490.rar](https://www.nexusmods.com/vampirebloodlines/mods/165/?tab=files&file_id=1128)
-*  [Clan Quest Mod Voices Remastered-315-1-0-1718750259.zip](https://www.nexusmods.com/vampirebloodlines/mods/315/?tab=files&file_id=1009)
+*  [Clan_Quest_UPgraded - Repack.zip](https://authored-files.wabbajack.org/Clan_Quest_UPgraded - Repack.zip_c5493aeb-177f-41a8-91b5-f96cc2a3d434)
+*  [Clan_Quest_UPgraded_-_Patch_4 - repack.zip](https://authored-files.wabbajack.org/Clan_Quest_UPgraded_-_Patch_4 - repack.zip_eac1bd3e-7c52-4793-bfe2-ee02394c4ec0)
 *  [Companion Mod - 11.5-234-2-1-1764416630.zip](https://www.nexusmods.com/vampirebloodlines/mods/234/?tab=files&file_id=1389)
 *  [Companion Mod Core Edition - Repack.zip](https://authored-files.wabbajack.org/Companion Mod Core Edition - Repack.zip_6f9170de-1181-43ea-9149-e7f486f1a319)
 *  [Companion Mod Core Edition (Radio Update)-138-v3-2026-B-1779111847.7z](https://www.nexusmods.com/vampirebloodlines/mods/138/?tab=files&file_id=1544)
 *  [Companion Mod Core for The Final Nights 1.6.1-162-v3-1735306741.7z](https://www.nexusmods.com/vampirebloodlines/mods/162/?tab=files&file_id=1141)
 *  [Companion Mod Models-383-alpha-0-1-1764714074.zip](https://www.nexusmods.com/vampirebloodlines/mods/383/?tab=files&file_id=1398)
+*  [Companion_Mod_Core_Edition.5.zip](https://authored-files.wabbajack.org/Companion_Mod_Core_Edition.5.zip_5c6e6516-b037-4711-8e98-36c8030d069c)
 *  [Computer Greeting-365-1-0-1764834066.7z](https://www.nexusmods.com/vampirebloodlines/mods/365/?tab=files&file_id=1400)
 *  [Corporate Goth Tremere-327-1-2-1762662636.rar](https://www.nexusmods.com/vampirebloodlines/mods/327/?tab=files&file_id=1355)
 *  [Corporate Goth Ventrue - male-52-1-0.zip](https://www.nexusmods.com/vampirebloodlines/mods/52/?tab=files&file_id=133)
 *  [Corporate Goth Ventrue-327-1-2-1762662537.rar](https://www.nexusmods.com/vampirebloodlines/mods/327/?tab=files&file_id=1354)
-*  [CQM BETA Compatibility-234-2-2-1766867465.zip](https://www.nexusmods.com/vampirebloodlines/mods/234/?tab=files&file_id=1442)
 *  [CQM TFN UoP Antitribu Skip Tutorial With XP-135-1-0-1587133623.rar](https://www.nexusmods.com/vampirebloodlines/mods/135/?tab=files&file_id=375)
 *  [CustomPC.rar](https://www.moddb.com/addons/start/180549)
 *  [Cybergoth Girl-81-2-1553964828.zip](https://www.nexusmods.com/vampirebloodlines/mods/81/?tab=files&file_id=184)
@@ -81,7 +82,6 @@
 *  [DXVK and DLLs-234-2-1-1764416548.zip](https://www.nexusmods.com/vampirebloodlines/mods/234/?tab=files&file_id=1388)
 *  [Dzengrave Brujah-380-2-1763535180.rar](https://www.nexusmods.com/vampirebloodlines/mods/380/?tab=files&file_id=1378)
 *  [E Mesh Edit-238-1-1-1671997987.7z](https://www.nexusmods.com/vampirebloodlines/mods/238/?tab=files&file_id=691)
-*  EULA.txt
 *  [Executable Icon Fixer.7z](https://www.nexusmods.com/site/mods/1996/?tab=files&file_id=8185)
 *  [Fashionista Main Menu-365-0-0-1-1761803218.7z](https://www.nexusmods.com/vampirebloodlines/mods/365/?tab=files&file_id=1323)
 *  [Fem Joker Malkavian Skin-44-.zip](https://www.nexusmods.com/vampirebloodlines/mods/44/?tab=files&file_id=110)
@@ -99,31 +99,23 @@
 *  [Gangrel_Male_by_Kenny_Willian.zip](https://www.moddb.com/addons/start/233356)
 *  [Gangrel_Male_Reskin.zip](https://www.moddb.com/addons/start/25615)
 *  [Gerri Dandridge (Fright Night 2 New Blood) for Ventrue-50-1-0.rar](https://www.nexusmods.com/vampirebloodlines/mods/50/?tab=files&file_id=126)
-*  gog.ico
-*  goggame-1207659240.hashdb
-*  goggame-1207659240.ico
-*  goggame-1207659240.info
-*  goggame-1207659240.script
-*  goggame-galaxyFileList.ini
-*  goglog.ini
 *  [Golden_Rose_v1.5.7z](https://www.moddb.com/addons/start/299724)
 *  [HandsomeNosferatu.1.rar](https://www.moddb.com/addons/start/174198)
 *  [HD Grounds morestuff-34-v1-2.rar](https://www.nexusmods.com/vampirebloodlines/mods/34/?tab=files&file_id=75)
 *  [HD Grounds part 2-34-v1-21.rar](https://www.nexusmods.com/vampirebloodlines/mods/34/?tab=files&file_id=76)
 *  [HDGrounds Hotfix-34-v1-211.rar](https://www.nexusmods.com/vampirebloodlines/mods/34/?tab=files&file_id=78)
 *  [Hooded Nosferatu v1.1-100-v1-1-1557952530.rar](https://www.nexusmods.com/vampirebloodlines/mods/100/?tab=files&file_id=239)
-*  [Hotfix 1-315-1-1-1742896738.zip](https://www.nexusmods.com/vampirebloodlines/mods/315/?tab=files&file_id=1199)
 *  [HunterB-350-26-03-2025-1748136552.zip](https://www.nexusmods.com/vampirebloodlines/mods/350/?tab=files&file_id=1218)
 *  [HunterC (light-skinned hunter)-350-29-05-2025-1748542992.zip](https://www.nexusmods.com/vampirebloodlines/mods/350/?tab=files&file_id=1222)
 *  [Jenya's female toreador pc-149-1-0-1594830583.zip](https://www.nexusmods.com/vampirebloodlines/mods/149/?tab=files&file_id=412)
 *  [LA By Night - Repack.zip](https://authored-files.wabbajack.org/LA By Night - Repack.zip_e2b1c1c0-2a41-4b19-8f2b-5cd5bd928633)
 *  [LA Nights ENB - Main File-342-1-1740509252.zip](https://www.nexusmods.com/vampirebloodlines/mods/342/?tab=files&file_id=1185)
+*  [LA_by_Night_-_Patch_2.5.6a_hotfix.zip](https://authored-files.wabbajack.org/LA_by_Night_-_Patch_2.5.6a_hotfix.zip_14061fca-a332-4587-a2e9-6c489a69315a)
 *  [La_by_Night_2.5.1.rar](https://www.moddb.com/downloads/start/311426)
 *  [La_by_Night_2.5.2.rar](https://www.moddb.com/downloads/start/311664)
 *  [Lasombra_Ventrue_carbon_skin_By_3Dell.zip](https://www.moddb.com/addons/start/126593)
 *  [Latex Dictator Malkavian-285-1-0-1701728128.zip](https://www.nexusmods.com/vampirebloodlines/mods/285/?tab=files&file_id=910)
 *  [latex_toreador_v1.rar](https://www.moddb.com/addons/start/17508)
-*  Launch Vampire - The Masquerade - Bloodlines.lnk
 *  [Libertarian Ventrue-317-1-0-1719329227.zip](https://www.nexusmods.com/vampirebloodlines/mods/317/?tab=files&file_id=1013)
 *  [Lily UV map fix-237-1-1671754711.7z](https://www.nexusmods.com/vampirebloodlines/mods/237/?tab=files&file_id=688)
 *  Loader.dll
@@ -158,12 +150,11 @@
 *  [MistressNosferatu-221-2-0-1654877333.rar](https://www.nexusmods.com/vampirebloodlines/mods/221/?tab=files&file_id=624)
 *  [MO2 Plugin-365-1-0-1764835640.7z](https://www.nexusmods.com/vampirebloodlines/mods/365/?tab=files&file_id=1402)
 *  [Mod.Organizer-2.5.2.7z](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.5.2/Mod.Organizer-2.5.2.7z)
-*  [Model Texture Separation 3 3-234-2-2-1774103372.zip](https://www.nexusmods.com/vampirebloodlines/mods/234/?tab=files&file_id=1521)
+*  [Model Texture Separation 3 3 234 2.4 2026-08-27T17-24Z UIdbpgeI.zip](https://www.nexusmods.com/vampirebloodlines/mods/234/?tab=files&file_id=1601)
 *  [ModernTorFemale(Fixed)-192-2-1a-1634819804.zip](https://www.nexusmods.com/vampirebloodlines/mods/192/?tab=files&file_id=557)
 *  [Murmurs of Madness brighter VtMB Reshade-361-1-0-1756893396.7z](https://www.nexusmods.com/vampirebloodlines/mods/361/?tab=files&file_id=1267)
 *  [Murmurs of Madness VtMB Reshade-361-1-0-1756893355.7z](https://www.nexusmods.com/vampirebloodlines/mods/361/?tab=files&file_id=1265)
 *  [Music HUSHED-368-1-0-1762028492.7z](https://www.nexusmods.com/vampirebloodlines/mods/368/?tab=files&file_id=1330)
-*  [Nadia - female PC seduction-239-1-1671981695.7z](https://www.nexusmods.com/vampirebloodlines/mods/239/?tab=files&file_id=690)
 *  [Neonate Gangrel 408 1 2026-07-09T06-09Z NWgpcFfK.rar](https://www.nexusmods.com/vampirebloodlines/mods/408/?tab=files&file_id=1582)
 *  [Neu Ventrue-371-1-1762325963.rar](https://www.nexusmods.com/vampirebloodlines/mods/371/?tab=files&file_id=1339)
 *  [New Badass Prince LaCroix-56-1-1540324215.rar](https://www.nexusmods.com/vampirebloodlines/mods/56/?tab=files&file_id=139)
@@ -184,6 +175,9 @@
 *  [NPCs Improved-165-1-1778299042.rar](https://www.nexusmods.com/vampirebloodlines/mods/165/?tab=files&file_id=1540)
 *  [NPCs_Improved_27_kxJn5Xgp.rar](https://www.nexusmods.com/vampirebloodlines/mods/165/?tab=files&file_id=1563)
 *  [NPFO_1.3.zip](https://www.moddb.com/addons/start/195881)
+*  [NSFW Poster Pack 411 1 2026-08-02T11-37Z kxJn5XH0.rar](https://www.nexusmods.com/vampirebloodlines/mods/411/?tab=files&file_id=1584)
+*  [NSFW Poster Pack Ming Alternative 411 2 2026-08-03T18-20Z Lv4ZkH6T.rar](https://www.nexusmods.com/vampirebloodlines/mods/411/?tab=files&file_id=1587)
+*  [NSFW Poster Pack Yukie Alternative 411 1 2026-08-03T16-20Z SgkhvuzF.rar](https://www.nexusmods.com/vampirebloodlines/mods/411/?tab=files&file_id=1586)
 *  [Only Characters-234-2-1-1764417380.zip](https://www.nexusmods.com/vampirebloodlines/mods/234/?tab=files&file_id=1391)
 *  [Optional Art and Immersion-234-2-2-1770217647.zip](https://www.nexusmods.com/vampirebloodlines/mods/234/?tab=files&file_id=1488)
 *  [overhauled first-person hands models-271-1-1-1695148376.zip](https://www.nexusmods.com/vampirebloodlines/mods/271/?tab=files&file_id=876)
@@ -221,6 +215,8 @@
 *  [The Undisciplined Caitiff v1.4.3 Hotfix 1-140-1-4-3-1-1702486336.7z](https://www.nexusmods.com/vampirebloodlines/mods/140/?tab=files&file_id=915)
 *  [The Undisciplined Caitiff-140-1-4-3-1672451067.7z](https://www.nexusmods.com/vampirebloodlines/mods/140/?tab=files&file_id=694)
 *  [The Vampire Armand  by Marius217-145-1-1591118651.rar](https://www.nexusmods.com/vampirebloodlines/mods/145/?tab=files&file_id=401)
+*  [The_Final_Nights_Reborn - Repack.zip](https://authored-files.wabbajack.org/The_Final_Nights_Reborn - Repack.zip_11c44bab-8447-4c88-9e8a-86ee0ba711f3)
+*  [The_Final_Nights_Reborn_-_Patch - Repack.7z](https://authored-files.wabbajack.org/The_Final_Nights_Reborn_-_Patch - Repack.7z_8e74830a-b06a-4da4-8bec-8be2715179a3)
 *  [Therese's Photo Shoot (Explicit).rar](https://www.nexusmods.com/vampirebloodlines/mods/405/?tab=files&file_id=1561)
 *  [Those Goth Kids - Dancers Pack-81-2-1553964747.zip](https://www.nexusmods.com/vampirebloodlines/mods/81/?tab=files&file_id=183)
 *  [Throwing a bone for the canines-90-1-0-1555174903.rar](https://www.nexusmods.com/vampirebloodlines/mods/90/?tab=files&file_id=210)
@@ -245,10 +241,6 @@
 *  [truefolder-170925-2-1769521737.zip](https://www.nexusmods.com/skyrimspecialedition/mods/170925/?tab=files&file_id=714240)
 *  [UI UX Separation-234-2-1-1764417426.zip](https://www.nexusmods.com/vampirebloodlines/mods/234/?tab=files&file_id=1392)
 *  [Underworld Selene for Brujah-33-1.rar](https://www.nexusmods.com/vampirebloodlines/mods/33/?tab=files&file_id=64)
-*  unins000.dat
-*  unins000.exe
-*  unins000.ini
-*  unins000.msg
 *  [Uninterrupted BGM-303-1-0-0-1715531411.7z](https://www.nexusmods.com/vampirebloodlines/mods/303/?tab=files&file_id=988)
 *  [Unique_Gangrel.zip](https://www.moddb.com/addons/start/177681)
 *  [Unofficial Patch-324-1-0-1722433956.zip](https://www.nexusmods.com/vampirebloodlines/mods/324/?tab=files&file_id=1051)
@@ -288,7 +280,6 @@
 *  Unofficial_Patch_dlg_generic_doll1.dlg
 *  Unofficial_Patch_dlg_generic_doll2.dlg
 *  Unofficial_Patch_dlg_generic_doll3.dlg
-*  Unofficial_Patch_dlg_generic_doll4.dlg
 *  Unofficial_Patch_dlg_generic_hunter1.dlg
 *  Unofficial_Patch_dlg_generic_hunterv.dlg
 *  Unofficial_Patch_dlg_generic_mcfly.dlg
@@ -515,61 +506,11 @@
 *  Unofficial_Patch_materials_hud_infobar_icons_lockpicking_skill_success.vmt
 *  Unofficial_Patch_materials_hud_infobar_icons_masquerade_enforced.vmt
 *  Unofficial_Patch_materials_hud_inventory_images_general_items_garysphoto.vmt
-*  Unofficial_Patch_materials_hud_new_ui_bloodbarfill.tth
-*  Unofficial_Patch_materials_hud_signs_chinatown_a.tth
-*  Unofficial_Patch_materials_hud_signs_chinatown_a.ttz
-*  Unofficial_Patch_materials_hud_signs_chinatown_b.tth
-*  Unofficial_Patch_materials_hud_signs_chinatown_b.ttz
-*  Unofficial_Patch_materials_hud_signs_chinatown_c.tth
-*  Unofficial_Patch_materials_hud_signs_chinatown_c.ttz
-*  Unofficial_Patch_materials_hud_signs_chinatown_d.tth
-*  Unofficial_Patch_materials_hud_signs_chinatown_d.ttz
-*  Unofficial_Patch_materials_hud_signs_hollywood_a.tth
-*  Unofficial_Patch_materials_hud_signs_hollywood_a.ttz
-*  Unofficial_Patch_materials_hud_signs_hollywood_b.tth
-*  Unofficial_Patch_materials_hud_signs_hollywood_b.ttz
-*  Unofficial_Patch_materials_hud_signs_hollywood_c.tth
-*  Unofficial_Patch_materials_hud_signs_hollywood_c.ttz
-*  Unofficial_Patch_materials_hud_signs_la_a.tth
-*  Unofficial_Patch_materials_hud_signs_la_a.ttz
-*  Unofficial_Patch_materials_hud_signs_la_b.tth
-*  Unofficial_Patch_materials_hud_signs_la_b.ttz
-*  Unofficial_Patch_materials_hud_signs_la_c.tth
-*  Unofficial_Patch_materials_hud_signs_la_c.ttz
-*  Unofficial_Patch_materials_hud_signs_la_d.tth
-*  Unofficial_Patch_materials_hud_signs_la_d.ttz
-*  Unofficial_Patch_materials_hud_signs_la_e.tth
-*  Unofficial_Patch_materials_hud_signs_la_e.ttz
-*  Unofficial_Patch_materials_hud_signs_la_f.tth
-*  Unofficial_Patch_materials_hud_signs_la_f.ttz
 *  Unofficial_Patch_materials_interface_mainmenu_vtm_title.tth
 *  Unofficial_Patch_materials_interface_mainmenu_vtm_title.ttz
-*  Unofficial_Patch_materials_interface_mainmenu_vtm_title.vmt
-*  Unofficial_Patch_materials_interface_tipinfoscreen_background_default.tth
-*  Unofficial_Patch_materials_interface_tipinfoscreen_background_default.ttz
-*  Unofficial_Patch_materials_interface_tipinfoscreen_overlay_info.tth
-*  Unofficial_Patch_materials_interface_tipinfoscreen_overlay_info.ttz
-*  Unofficial_Patch_materials_models_character_npc_common_citizen_female3_femcitizen3body.tth
-*  Unofficial_Patch_materials_models_character_npc_common_citizen_female3_femcitizen3body.ttz
-*  Unofficial_Patch_materials_models_character_npc_common_lasoblood_male_lasobloodbody.tth
-*  Unofficial_Patch_materials_models_character_npc_common_lasoblood_male_lasobloodbody.ttz
-*  Unofficial_Patch_materials_models_character_npc_common_lasoblood_male_lasobloodhead.tth
-*  Unofficial_Patch_materials_models_character_npc_common_lasoblood_male_lasobloodhead.ttz
-*  Unofficial_Patch_materials_models_character_npc_security_guard_securityguardbody.tth
-*  Unofficial_Patch_materials_models_character_npc_security_guard_securityguardbody.ttz
-*  Unofficial_Patch_materials_models_character_npc_security_guard_securityguardhead.tth
-*  Unofficial_Patch_materials_models_character_npc_security_guard_securityguardhead.ttz
 *  Unofficial_Patch_materials_models_character_npc_unique_chinatown_mandarin_mandaringlasses.vmt
 *  Unofficial_Patch_materials_models_character_npc_unique_downtown_lacroix_princebodyfinal.vmt
-*  Unofficial_Patch_materials_models_character_npc_unique_downtown_sheriff_eyeball_r.vmt
-*  Unofficial_Patch_materials_models_character_npc_unique_hollywood_ash_lookalike_vb_cg_ash_bodydouble.tth
-*  Unofficial_Patch_materials_models_character_npc_unique_hollywood_ash_lookalike_vb_cg_ash_bodydouble.ttz
-*  Unofficial_Patch_materials_models_character_npc_unique_hollywood_ash_vb_cg_ash_body.tth
-*  Unofficial_Patch_materials_models_character_npc_unique_hollywood_ash_vb_cg_ash_body.ttz
-*  Unofficial_Patch_materials_models_character_npc_unique_hollywood_courier_gangma3body.vmt
 *  Unofficial_Patch_materials_models_character_npc_unique_santa_monica_kilpatrick_kilpatricklens.vmt
-*  Unofficial_Patch_materials_models_character_npc_unique_santa_monica_rosa_rosahairside.tth
-*  Unofficial_Patch_materials_models_character_npc_unique_santa_monica_rosa_rosahairside.ttz
 *  Unofficial_Patch_materials_models_character_pc_male_nosferatu_armor2_eyeball_l.vmt
 *  Unofficial_Patch_materials_models_character_pc_male_nosferatu_armor2_eyeball_r.vmt
 *  Unofficial_Patch_materials_models_hands_female_gangrel_FGHandbottom.tth
@@ -584,7 +525,6 @@
 *  Unofficial_Patch_materials_models_items_lillyonbeachphoto_beach.tth
 *  Unofficial_Patch_materials_models_items_lillyonbeachphoto_beach.ttz
 *  Unofficial_Patch_materials_models_scenery_furniture_refrigerator_logo.vmt
-*  Unofficial_Patch_materials_models_scenery_structural_toll_gate_stuff_boothsuper.vmt
 *  Unofficial_Patch_materials_objects_vesgirle.tth
 *  Unofficial_Patch_materials_objects_vesgirle.ttz
 *  Unofficial_Patch_materials_signs_animated.vmt
@@ -624,12 +564,10 @@
 *  Unofficial_Patch_models_scenery_vehicles_yugo_yugo.mdl
 *  Unofficial_Patch_particles_barrelfireemitter.txt
 *  Unofficial_Patch_particles_embrace_bleeding_neck2.txt
-*  Unofficial_Patch_particles_mm_cursor_emitter.txt
 *  Unofficial_Patch_python_chinatown_chinatown.py
 *  Unofficial_Patch_python_downtown_downtown.py
 *  Unofficial_Patch_python_fileutil.py
 *  Unofficial_Patch_python_fusyndicate_fusyndicate.py
-*  Unofficial_Patch_python_gallery_gallery.py
 *  Unofficial_Patch_python_giovanni_giovanni.py
 *  Unofficial_Patch_python_hollywood_hollywood.py
 *  Unofficial_Patch_python_museum_museum.py
@@ -644,38 +582,14 @@
 *  Unofficial_Patch_save_Vampire-999.sav
 *  Unofficial_Patch_scripts_kb_act.lst
 *  Unofficial_Patch_scripts_kb_def.lst
-*  Unofficial_Patch_sound_character_dlg_chinatown_yukie_line1_col_e.vcd
-*  Unofficial_Patch_sound_character_dlg_chinatown_yukie_line391_col_e.vcd
-*  Unofficial_Patch_sound_character_dlg_downtown la_chunk3_line361_col_e.vcd
-*  Unofficial_Patch_sound_character_dlg_downtown la_chunk3_line371_col_e.vcd
-*  Unofficial_Patch_sound_character_dlg_downtown la_chunk3_line381_col_e.vcd
-*  Unofficial_Patch_sound_character_dlg_downtown la_chunk3_line401_col_e.vcd
-*  Unofficial_Patch_sound_character_dlg_downtown la_chunk3_line431_col_e.vcd
-*  Unofficial_Patch_sound_character_dlg_downtown la_dema_line3_col_e.vcd
-*  Unofficial_Patch_sound_character_dlg_downtown la_tutorial_security_guard_line61_col_e.vcd
-*  Unofficial_Patch_sound_character_dlg_downtown la_venus_line341_col_e.lip
-*  Unofficial_Patch_sound_character_dlg_downtown la_venus_line361_col_e.lip
-*  Unofficial_Patch_sound_character_dlg_downtown la_venus_line371_col_e.lip
-*  Unofficial_Patch_sound_character_dlg_downtown la_venus_line381_col_e.lip
 *  Unofficial_Patch_sound_character_dlg_downtown la_venus_line51_col_f.vcd
-*  Unofficial_Patch_sound_character_dlg_generic_hunter1_line91_col_e.vcd
-*  Unofficial_Patch_sound_character_dlg_generic_stop_line21_col_e.vcd
 *  Unofficial_Patch_sound_character_dlg_hollywood_andrei_line287_col_e.lip
-*  Unofficial_Patch_sound_character_dlg_hollywood_ash_line610_col_e.lip
-*  Unofficial_Patch_sound_character_dlg_hollywood_flynn_line365_col_e.vcd
 *  Unofficial_Patch_sound_character_dlg_main characters_bach_line121_col_e.lip
-*  Unofficial_Patch_sound_character_dlg_main characters_jack_line341_col_e.vcd
-*  Unofficial_Patch_sound_character_dlg_santa monica_carson_line51_col_e.vcd
 *  Unofficial_Patch_sound_character_dlg_santa monica_smblueblood_line101_col_e.vcd
 *  Unofficial_Patch_sound_character_dlg_santa monica_smblueblood_line11_col_e.vcd
 *  Unofficial_Patch_sound_character_dlg_santa monica_smblueblood_line21_col_e.vcd
 *  Unofficial_Patch_sound_character_dlg_santa monica_smblueblood_line71_col_e.vcd
-*  Unofficial_Patch_sound_character_dlg_santa monica_smoke_line11_col_e.vcd
-*  Unofficial_Patch_sound_character_dlg_santa monica_smoke_line31_col_e.vcd
-*  Unofficial_Patch_sound_character_dlg_santa monica_smoke_line41_col_e.vcd
 *  Unofficial_Patch_sound_character_dlg_santa monica_tourette_line17_col_e.lip
-*  Unofficial_Patch_sound_character_dlg_santa monica_tourette_line17_col_e.vcd
-*  Unofficial_Patch_sound_character_dlg_warrens_imalia_line395_col_e.vcd
 *  Unofficial_Patch_sound_cinematic_la_epilogue_epilogue_scene.vcd
 *  Unofficial_Patch_sound_schemes_glaze2.txt
 *  Unofficial_Patch_sound_schemes_hw_warrens_5.txt
@@ -708,7 +622,6 @@
 *  Unofficial_Patch_vdata_hackterminals_haven_pc.txt
 *  Unofficial_Patch_vdata_hackterminals_jeanette_laptop.txt
 *  Unofficial_Patch_vdata_hackterminals_kilpatricks_computer.txt
-*  Unofficial_Patch_vdata_hackterminals_krime_computer.txt
 *  Unofficial_Patch_vdata_hackterminals_lucky_pc.txt
 *  Unofficial_Patch_vdata_hackterminals_malcolm_computer.txt
 *  Unofficial_Patch_vdata_hackterminals_milligan_computer.txt
@@ -762,7 +675,6 @@
 *  Unofficial_Patch_vdata_items_item_g_hannahs_appt_book.txt
 *  Unofficial_Patch_vdata_items_item_g_horrortape_1.txt
 *  Unofficial_Patch_vdata_items_item_g_idol_cat.txt
-*  Unofficial_Patch_vdata_items_item_g_jumbles_flyer.txt
 *  Unofficial_Patch_vdata_items_item_g_keyring.txt
 *  Unofficial_Patch_vdata_items_item_g_larry_briefcase.txt
 *  Unofficial_Patch_vdata_items_item_g_lilly_diary.txt
@@ -775,7 +687,6 @@
 *  Unofficial_Patch_vdata_items_item_g_ring_silver.txt
 *  Unofficial_Patch_vdata_items_item_g_ring03.txt
 *  Unofficial_Patch_vdata_items_item_g_wireless_camera_2.txt
-*  Unofficial_Patch_vdata_items_item_k_ash_cell_key.txt
 *  Unofficial_Patch_vdata_items_item_p_occult_blood_buff.txt
 *  Unofficial_Patch_vdata_items_item_p_occult_hacking.txt
 *  Unofficial_Patch_vdata_items_item_p_occult_heal_rate.txt
@@ -798,74 +709,31 @@
 *  Unofficial_Patch_vdata_items_item_w_crossbow_flaming.txt
 *  Unofficial_Patch_vdata_items_item_w_crossbow.txt
 *  Unofficial_Patch_vdata_items_item_w_deserteagle.txt
-*  Unofficial_Patch_vdata_items_item_w_fireaxe.txt
 *  Unofficial_Patch_vdata_items_item_w_flamethrower.txt
 *  Unofficial_Patch_vdata_items_item_w_glock_17c.txt
 *  Unofficial_Patch_vdata_items_item_w_grenade_frag.txt
 *  Unofficial_Patch_vdata_items_item_w_ithaca_m_37.txt
-*  Unofficial_Patch_vdata_items_item_w_knife.txt
 *  Unofficial_Patch_vdata_items_item_w_mac_10.txt
 *  Unofficial_Patch_vdata_items_item_w_mingxiao_melee.txt
 *  Unofficial_Patch_vdata_items_item_w_mingxiao_spit.txt
 *  Unofficial_Patch_vdata_items_item_w_occultblade.txt
 *  Unofficial_Patch_vdata_items_item_w_rem_m_700_bach.txt
 *  Unofficial_Patch_vdata_items_item_w_remington_m_700.txt
-*  Unofficial_Patch_vdata_items_item_w_severed_arm.txt
 *  Unofficial_Patch_vdata_items_item_w_steyr_aug.txt
 *  Unofficial_Patch_vdata_items_item_w_supershotgun.txt
 *  Unofficial_Patch_vdata_items_item_w_thirtyeight.txt
-*  Unofficial_Patch_vdata_items_item_w_tire_iron.txt
-*  Unofficial_Patch_vdata_items_item_w_torch.txt
 *  Unofficial_Patch_vdata_items_item_w_uzi.txt
 *  Unofficial_Patch_vdata_items_weapon_physcannon.txt
 *  Unofficial_Patch_vdata_signs_fortune_note.txt
 *  Unofficial_Patch_vdata_signs_museum_note.txt
 *  Unofficial_Patch_vdata_signs_sinbin_note.txt
 *  Unofficial_Patch_vdata_signs_sinbin_temp.txt
-*  Unofficial_Patch_vdata_signs_tutorial_popup_animalism1.txt
-*  Unofficial_Patch_vdata_signs_tutorial_popup_animalism2.txt
-*  Unofficial_Patch_vdata_signs_tutorial_popup_animalism3.txt
-*  Unofficial_Patch_vdata_signs_tutorial_popup_auspex1.txt
-*  Unofficial_Patch_vdata_signs_tutorial_popup_blood_buff1.txt
-*  Unofficial_Patch_vdata_signs_tutorial_popup_bloodpool1.txt
-*  Unofficial_Patch_vdata_signs_tutorial_popup_brujahdisc1.txt
-*  Unofficial_Patch_vdata_signs_tutorial_popup_computers2.txt
-*  Unofficial_Patch_vdata_signs_tutorial_popup_containers1.txt
-*  Unofficial_Patch_vdata_signs_tutorial_popup_dementation1.txt
 *  Unofficial_Patch_vdata_signs_tutorial_popup_dementation2.txt
-*  Unofficial_Patch_vdata_signs_tutorial_popup_dementation3.txt
-*  Unofficial_Patch_vdata_signs_tutorial_popup_dialogue_feats.txt
-*  Unofficial_Patch_vdata_signs_tutorial_popup_dialogue_nosferatu.txt
 *  Unofficial_Patch_vdata_signs_tutorial_popup_disciplines1.txt
-*  Unofficial_Patch_vdata_signs_tutorial_popup_dominate1.txt
-*  Unofficial_Patch_vdata_signs_tutorial_popup_dominate2.txt
-*  Unofficial_Patch_vdata_signs_tutorial_popup_dominate3.txt
-*  Unofficial_Patch_vdata_signs_tutorial_popup_fail_animalism_1.txt
-*  Unofficial_Patch_vdata_signs_tutorial_popup_fail_animalism_2.txt
-*  Unofficial_Patch_vdata_signs_tutorial_popup_fail_dementation_1.txt
-*  Unofficial_Patch_vdata_signs_tutorial_popup_fail_dementation_2.txt
-*  Unofficial_Patch_vdata_signs_tutorial_popup_fail_dominate_1.txt
-*  Unofficial_Patch_vdata_signs_tutorial_popup_fail_obfuscate_1.txt
-*  Unofficial_Patch_vdata_signs_tutorial_popup_fortitude2.txt
 *  Unofficial_Patch_vdata_signs_tutorial_popup_get1.txt
-*  Unofficial_Patch_vdata_signs_tutorial_popup_health1.txt
-*  Unofficial_Patch_vdata_signs_tutorial_popup_inspection2.txt
-*  Unofficial_Patch_vdata_signs_tutorial_popup_masquerade1.txt
 *  Unofficial_Patch_vdata_signs_tutorial_popup_moving1.txt
-*  Unofficial_Patch_vdata_signs_tutorial_popup_obfuscate2.txt
-*  Unofficial_Patch_vdata_signs_tutorial_popup_obfuscate4.txt
-*  Unofficial_Patch_vdata_signs_tutorial_popup_presence2.txt
-*  Unofficial_Patch_vdata_signs_tutorial_popup_protean2.txt
 *  Unofficial_Patch_vdata_signs_tutorial_popup_questlog1.txt
-*  Unofficial_Patch_vdata_signs_tutorial_popup_rangedcombat1.txt
-*  Unofficial_Patch_vdata_signs_tutorial_popup_rangedcombat2.txt
-*  Unofficial_Patch_vdata_signs_tutorial_popup_thaumaturgy1.txt
-*  Unofficial_Patch_vdata_signs_tutorial_popup_thaumaturgy2.txt
-*  Unofficial_Patch_vdata_signs_tutorial_popup_thaumaturgy3.txt
-*  Unofficial_Patch_vdata_signs_tutorial_popup_tireiron1.txt
-*  Unofficial_Patch_vdata_signs_tutorial_popup_tremeredisc1.txt
 *  Unofficial_Patch_vdata_signs_tutorial_popup.txt
-*  Unofficial_Patch_vdata_signs_werewolf_note.txt
 *  Unofficial_Patch_vdata_system_charcreatewizard.txt
 *  Unofficial_Patch_vdata_system_clandoc000.txt
 *  Unofficial_Patch_vdata_system_credits.txt
@@ -1002,10 +870,6 @@
 *  Vampire_sound_character_dlg_downtown la_venus_line231_col_e.mp3
 *  Vampire_sound_character_dlg_downtown la_venus_line271_col_e.mp3
 *  Vampire_sound_character_dlg_downtown la_venus_line311_col_e.mp3
-*  Vampire_sound_character_dlg_downtown la_venus_line341_col_e.mp3
-*  Vampire_sound_character_dlg_downtown la_venus_line351_col_e.mp3
-*  Vampire_sound_character_dlg_downtown la_venus_line361_col_e.mp3
-*  Vampire_sound_character_dlg_downtown la_venus_line371_col_e.mp3
 *  Vampire_sound_character_dlg_downtown la_venus_line381_col_e.mp3
 *  Vampire_sound_character_dlg_downtown la_venus_line81_col_e.mp3
 *  Vampire_sound_character_dlg_generic_doll1_line1_col_e.mp3
@@ -1022,7 +886,6 @@
 *  Vampire_sound_character_dlg_giovanni_adam_line91_col_e.mp3
 *  Vampire_sound_character_dlg_hollywood_andrei_line5_col_e.mp3
 *  Vampire_sound_character_dlg_hollywood_andrei_line81_col_e.mp3
-*  Vampire_sound_character_dlg_hollywood_ash_line610_col_e.mp3
 *  Vampire_sound_character_dlg_hollywood_courier_line1_col_e.mp3
 *  Vampire_sound_character_dlg_hollywood_flynn_line401_col_e.mp3
 *  Vampire_sound_character_dlg_hollywood_flynn_line411_col_e.mp3
@@ -1135,7 +998,7 @@
 *  [vampire_toreador.rar](https://www.moddb.com/addons/start/176545)
 *  [vampire_ventrue_-_toreador_beard_male.rar](https://www.moddb.com/addons/start/180082)
 *  [vampire_ventrue_female.rar](https://www.moddb.com/addons/start/220023)
-*  Vampire.exe
+*  [VampireGamepad 410 1 2026-08-08T11-26Z KoaqQbV4.zip](https://www.nexusmods.com/vampirebloodlines/mods/410/?tab=files&file_id=1588)
 *  [vampires males pack-229-1-1663703248.rar](https://www.nexusmods.com/vampirebloodlines/mods/229/?tab=files&file_id=655)
 *  [Ventrue  by Marius217-187-1-1630179822.rar](https://www.nexusmods.com/vampirebloodlines/mods/187/?tab=files&file_id=547)
 *  [Ventrue female reskin-277-v1-1697582925.7z](https://www.nexusmods.com/vampirebloodlines/mods/277/?tab=files&file_id=891)
@@ -1149,18 +1012,18 @@
 *  [VNCS_No_Flashlight-298-1-1-1736082381.zip](https://www.nexusmods.com/vampirebloodlines/mods/298/?tab=files&file_id=1146)
 *  [VTM_The_Final_Nights_1.6_HD_Full.exe](https://www.moddb.com/downloads/start/197397)
 *  [VtmB Antitribu Lasombra black clothes-248-1-0-1678275328.rar](https://www.nexusmods.com/vampirebloodlines/mods/248/?tab=files&file_id=745)
+*  [VTMB HD Overhaul Complete 234 2.4 2026-08-27T17-21Z UIdbpgeC.zip](https://www.nexusmods.com/vampirebloodlines/mods/234/?tab=files&file_id=1599)
 *  [VTMB HD Overhaul Complete-234-2-2-1770216030.zip](https://www.nexusmods.com/vampirebloodlines/mods/234/?tab=files&file_id=1484)
 *  [VTMB_Mega-Mod_2014b_Edition.rar](https://authored-files.wabbajack.org/VTMB_Mega-Mod_2014b_Edition.rar_9aae68f8-eefc-4b19-8e98-bb1b60f2302e)
 *  [VTMBNo-IntroFix-266-0-1-1688666578.rar](https://www.nexusmods.com/vampirebloodlines/mods/266/?tab=files&file_id=819)
 *  [VTMBup115.82 80 11.5 2026-07-07T19-21Z t8GurPi2.exe](https://www.nexusmods.com/vampirebloodlines/mods/80/?tab=files&file_id=1581)
+*  [VTMBup115.83.exe](https://www.moddb.com/downloads/start/255290)
 *  [VV_Posters-194-1-0-1636564291.7z](https://www.nexusmods.com/vampirebloodlines/mods/194/?tab=files&file_id=558)
 *  [VV.rar](https://www.moddb.com/addons/start/178313)
 *  [War Games Overhaul - Repacked.7z](https://authored-files.wabbajack.org/War Games Overhaul - Repacked.7z_db1ee88b-a23f-434c-9dcf-eeb9908442ad)
 *  [War_Games.exe](https://www.moddb.com/downloads/start/304323)
 *  [Warrior_Wolf_Gangrel.rar](https://www.moddb.com/addons/start/179930)
-*  webcache.zip
-*  [World Texture Separation 1 3-234-2-2-1774102944.zip](https://www.nexusmods.com/vampirebloodlines/mods/234/?tab=files&file_id=1519)
-*  [World Texture Separation 2 3-234-2-2-1774102825.zip](https://www.nexusmods.com/vampirebloodlines/mods/234/?tab=files&file_id=1518)
+*  [World Texture Separation 1 3 234 2.4 2026-08-27T17-20Z cTVK2UF3.zip](https://www.nexusmods.com/vampirebloodlines/mods/234/?tab=files&file_id=1598)
 *  [X20 Scripts-103-1-13-1691551157.zip](https://www.nexusmods.com/vampirebloodlines/mods/103/?tab=files&file_id=848)
 *  [X20 Textures (formerly Basic)-103-1-13-1691551056.zip](https://www.nexusmods.com/vampirebloodlines/mods/103/?tab=files&file_id=847)
 *  [YAMR.7z](https://www.moddb.com/addons/start/176262)
