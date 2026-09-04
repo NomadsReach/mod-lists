@@ -73,15 +73,15 @@
     "name": "Legends of the Frost",
     "machineURL": "wj-featured/lotf",
     "failed": 0,
-    "passed": 616,
+    "passed": 0,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/wj-featured/lotf/status.json",
     "report": "reports/wj-featured/lotf/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/wj-featured/lotf_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/wj-featured/lotf_large.webp"
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "Lost in Space",
@@ -548,16 +548,16 @@
   {
     "name": "NEFARAM",
     "machineURL": "NEFARAM/NEFARAM",
-    "failed": 1,
-    "passed": 2386,
+    "failed": 0,
+    "passed": 0,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/NEFARAM/NEFARAM/status.json",
     "report": "reports/NEFARAM/NEFARAM/status.md",
     "modlist_missing": false,
-    "has_failures": true,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/NEFARAM/NEFARAM_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/NEFARAM/NEFARAM_large.webp"
+    "has_failures": false,
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "FUSION",
@@ -1529,15 +1529,15 @@
     "name": "Eldergleam Next-Gen",
     "machineURL": "EldergleamNG/EldergleamNG",
     "failed": 0,
-    "passed": 1961,
+    "passed": 0,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/EldergleamNG/EldergleamNG/status.json",
     "report": "reports/EldergleamNG/EldergleamNG/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/EldergleamNG/EldergleamNG_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/EldergleamNG/EldergleamNG_large.webp"
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "Fallout 4 NG Curated",
@@ -1571,15 +1571,15 @@
     "name": "CharGrinn OSTIM",
     "machineURL": "CharGrinn/CharGrinnOSTIM",
     "failed": 0,
-    "passed": 2666,
+    "passed": 0,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/CharGrinn/CharGrinnOSTIM/status.json",
     "report": "reports/CharGrinn/CharGrinnOSTIM/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/CharGrinn/CharGrinnOSTIM_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/CharGrinn/CharGrinnOSTIM_large.webp"
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "Ilinalta",
@@ -1627,7 +1627,7 @@
     "name": "Mages \u0026 Vikings",
     "machineURL": "MagesAndVikings/MagesAndVikings",
     "failed": 0,
-    "passed": 3778,
+    "passed": 3769,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/MagesAndVikings/MagesAndVikings/status.json",
@@ -1949,15 +1949,15 @@
     "name": "Wunduniik",
     "machineURL": "Wunduniik/Wunduniik",
     "failed": 0,
-    "passed": 4791,
+    "passed": 0,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/Wunduniik/Wunduniik/status.json",
     "report": "reports/Wunduniik/Wunduniik/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Wunduniik/Wunduniik_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Wunduniik/Wunduniik_large.webp"
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "Krentoraan",
@@ -1977,7 +1977,7 @@
     "name": "Ghost of the Grid",
     "machineURL": "Wunduniik/GhostOfTheGrid",
     "failed": 0,
-    "passed": 1404,
+    "passed": 1457,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/Wunduniik/GhostOfTheGrid/status.json",
@@ -1998,8 +1998,8 @@
     "report": "reports/Wunduniik/NMSExplorer/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Wunduniik/NMSExplorer_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Wunduniik/NMSExplorer_large.webp"
   },
   {
     "name": "Extrasolar Containment Protocol",
@@ -2411,15 +2411,15 @@
     "name": "Lyra",
     "machineURL": "Lyra/LyraRequiemWabba",
     "failed": 0,
-    "passed": 1694,
+    "passed": 0,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/Lyra/LyraRequiemWabba/status.json",
     "report": "reports/Lyra/LyraRequiemWabba/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Lyra/LyraRequiemWabba_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Lyra/LyraRequiemWabba_large.webp"
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "CSVP - A NGVO Fork",
@@ -2516,8 +2516,8 @@
     "report": "reports/NeishinModlist/NeishinCyberVision/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/NeishinModlist/NeishinCyberVision_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/NeishinModlist/NeishinCyberVision_large.webp"
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "MO2077",
@@ -2663,29 +2663,29 @@
     "name": "Kirbykings Modlist NSFW Edition",
     "machineURL": "SkyrimKIRBYKINGSNSFWEditionModlist/SkyrimKIRBYKINGSNSFWEditionModlist",
     "failed": 0,
-    "passed": 2760,
+    "passed": 0,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/SkyrimKIRBYKINGSNSFWEditionModlist/SkyrimKIRBYKINGSNSFWEditionModlist/status.json",
     "report": "reports/SkyrimKIRBYKINGSNSFWEditionModlist/SkyrimKIRBYKINGSNSFWEditionModlist/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/SkyrimKIRBYKINGSNSFWEditionModlist/SkyrimKIRBYKINGSNSFWEditionModlist_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/SkyrimKIRBYKINGSNSFWEditionModlist/SkyrimKIRBYKINGSNSFWEditionModlist_large.webp"
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "Kirbykings Modlist",
     "machineURL": "SkyrimKIRBYKINGSNSFWEditionModlist/KirbykingsModlist",
     "failed": 0,
-    "passed": 2699,
+    "passed": 0,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/SkyrimKIRBYKINGSNSFWEditionModlist/KirbykingsModlist/status.json",
     "report": "reports/SkyrimKIRBYKINGSNSFWEditionModlist/KirbykingsModlist/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/SkyrimKIRBYKINGSNSFWEditionModlist/KirbykingsModlist_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/SkyrimKIRBYKINGSNSFWEditionModlist/KirbykingsModlist_large.webp"
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "Kirbylite Modlist",
@@ -2831,15 +2831,15 @@
     "name": "ReSkyrimed",
     "machineURL": "ReSkyrimed/ReSkyrimedProject",
     "failed": 0,
-    "passed": 1657,
+    "passed": 0,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/ReSkyrimed/ReSkyrimedProject/status.json",
     "report": "reports/ReSkyrimed/ReSkyrimedProject/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/ReSkyrimed/ReSkyrimedProject_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/ReSkyrimed/ReSkyrimedProject_large.webp"
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "Abyssal Skies",
@@ -2957,15 +2957,15 @@
     "name": "The Arcadia List AE",
     "machineURL": "TAL/TheArcadiaListAE",
     "failed": 0,
-    "passed": 379,
+    "passed": 0,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/TAL/TheArcadiaListAE/status.json",
     "report": "reports/TAL/TheArcadiaListAE/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/TAL/TheArcadiaListAE_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/TAL/TheArcadiaListAE_large.webp"
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "TAL: Deep Space",
