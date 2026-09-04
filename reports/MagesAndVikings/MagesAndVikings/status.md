@@ -1,10 +1,11 @@
 ## Validation Report - Mages & Vikings (MagesAndVikings/MagesAndVikings)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [_Fuse00YenHair_1.2.rar](https://www.patreon.com/file?h=71131410&m=167902550)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (3769)
+### Valid (3768)
 *  [_Fuse00_ArmorAemond_V1.1.rar](https://www.patreon.com/file?h=78472619&m=189513975)
 *  [_Fuse00_ArmorAkasha_CBBE.rar](https://www.patreon.com/file?h=122295901&m=422046302)
 *  [_Fuse00_ArmorArianna_CBBE.rar](https://www.patreon.com/file?h=137667994&m=524210439)
@@ -51,7 +52,6 @@
 *  [_Fuse00RogueHair.rar](https://www.patreon.com/file?h=67007517&m=154676020)
 *  [_Fuse00SirenHair.rar](https://www.patreon.com/file?h=75589695&m=179197561)
 *  [_Fuse00TaurielHair.rar](https://www.patreon.com/file?h=62190804&m=158215584)
-*  [_Fuse00YenHair_1.2.rar](https://www.patreon.com/file?h=71131410&m=167902550)
 *  [-Fenrir-2k-167429-1-0-1769790287.zip](https://www.nexusmods.com/skyrimspecialedition/mods/167429/?tab=files&file_id=715354)
 *  [(0) Alchemy Station Variants - FOMOD-92768-1-4-6-1767891639.7z](https://www.nexusmods.com/skyrimspecialedition/mods/92768/?tab=files&file_id=706913)
 *  [(3) Community Overlays 1 - Main - CBBE 2K-22487-1-0-1-1547248146.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77988)

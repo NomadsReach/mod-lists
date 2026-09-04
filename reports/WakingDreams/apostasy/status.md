@@ -1,11 +1,11 @@
 ## Validation Report - Apostasy (WakingDreams/apostasy)
 
 
-### Invalid (0)
+### Invalid (1)
+*  [_Fuse00_ArmorHighlander_CBBE.rar](https://www.patreon.com/file?h=79874952&i=13365775)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (3410)
-*  [_Fuse00_ArmorHighlander_CBBE.rar](https://www.patreon.com/file?h=79874952&i=13365775)
+### Valid (3409)
 *  [_Fuse00_ArmorHighlander_VanillaMale.rar](https://www.patreon.com/file?h=79874952&i=13365782)
 *  [_Fuse00_ArmorMelonyCBBE.rar](https://www.patreon.com/file?h=67711235&i=10980531)
 *  [_Fuse00_ArmorSonaCBBE_V1.1.rar](https://www.patreon.com/file?h=68902488&i=12781379)
