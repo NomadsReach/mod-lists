@@ -380,14 +380,14 @@
   {
     "name": "Merethic",
     "machineURL": "iAmModlist/merethic",
-    "failed": 0,
-    "passed": 2235,
+    "failed": 1,
+    "passed": 2234,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/iAmModlist/merethic/status.json",
     "report": "reports/iAmModlist/merethic/status.md",
     "modlist_missing": false,
-    "has_failures": false,
+    "has_failures": true,
     "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/iAmModlist/merethic_small.webp",
     "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/iAmModlist/merethic_large.webp"
   },
@@ -534,16 +534,16 @@
   {
     "name": "Zenithar\u0027s Forge",
     "machineURL": "ForgottenGlory/zenforge",
-    "failed": 0,
-    "passed": 0,
+    "failed": 1,
+    "passed": 819,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/ForgottenGlory/zenforge/status.json",
     "report": "reports/ForgottenGlory/zenforge/status.md",
     "modlist_missing": false,
-    "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "has_failures": true,
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/ForgottenGlory/zenforge_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/ForgottenGlory/zenforge_large.webp"
   },
   {
     "name": "NEFARAM",
@@ -668,8 +668,8 @@
     "report": "reports/BtHz/HzOff/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/BtHz/HzOff_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/BtHz/HzOff_large.webp"
   },
   {
     "name": "Beyond the Horizon",
@@ -1010,16 +1010,16 @@
   {
     "name": "Beowulf",
     "machineURL": "Beowulf/beowulf",
-    "failed": 0,
-    "passed": 0,
+    "failed": 2,
+    "passed": 2280,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/Beowulf/beowulf/status.json",
     "report": "reports/Beowulf/beowulf/status.md",
     "modlist_missing": false,
-    "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "has_failures": true,
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Beowulf/beowulf_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Beowulf/beowulf_large.webp"
   },
   {
     "name": "Stormcrown VR",
@@ -1655,15 +1655,15 @@
     "name": "Tempus Maledictum VR",
     "machineURL": "Januarysnow/TempusVR",
     "failed": 0,
-    "passed": 2338,
+    "passed": 0,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/Januarysnow/TempusVR/status.json",
     "report": "reports/Januarysnow/TempusVR/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Januarysnow/TempusVR_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Januarysnow/TempusVR_large.webp"
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "Curseadelica VR",
@@ -2425,15 +2425,15 @@
     "name": "CSVP - A NGVO Fork",
     "machineURL": "CSVP/CSVP",
     "failed": 0,
-    "passed": 2070,
+    "passed": 0,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/CSVP/CSVP/status.json",
     "report": "reports/CSVP/CSVP/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/CSVP/CSVP_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/CSVP/CSVP_large.webp"
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "Smorgasbord",
@@ -2663,29 +2663,29 @@
     "name": "Kirbykings Modlist NSFW Edition",
     "machineURL": "SkyrimKIRBYKINGSNSFWEditionModlist/SkyrimKIRBYKINGSNSFWEditionModlist",
     "failed": 0,
-    "passed": 2760,
+    "passed": 0,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/SkyrimKIRBYKINGSNSFWEditionModlist/SkyrimKIRBYKINGSNSFWEditionModlist/status.json",
     "report": "reports/SkyrimKIRBYKINGSNSFWEditionModlist/SkyrimKIRBYKINGSNSFWEditionModlist/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/SkyrimKIRBYKINGSNSFWEditionModlist/SkyrimKIRBYKINGSNSFWEditionModlist_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/SkyrimKIRBYKINGSNSFWEditionModlist/SkyrimKIRBYKINGSNSFWEditionModlist_large.webp"
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "Kirbykings Modlist",
     "machineURL": "SkyrimKIRBYKINGSNSFWEditionModlist/KirbykingsModlist",
     "failed": 0,
-    "passed": 2699,
+    "passed": 0,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/SkyrimKIRBYKINGSNSFWEditionModlist/KirbykingsModlist/status.json",
     "report": "reports/SkyrimKIRBYKINGSNSFWEditionModlist/KirbykingsModlist/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/SkyrimKIRBYKINGSNSFWEditionModlist/KirbykingsModlist_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/SkyrimKIRBYKINGSNSFWEditionModlist/KirbykingsModlist_large.webp"
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "Kirbylite Modlist",
@@ -2845,15 +2845,15 @@
     "name": "Abyssal Skies",
     "machineURL": "AbyssalSkies/AbyssalSkies",
     "failed": 0,
-    "passed": 818,
+    "passed": 0,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/AbyssalSkies/AbyssalSkies/status.json",
     "report": "reports/AbyssalSkies/AbyssalSkies/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/AbyssalSkies/AbyssalSkies_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/AbyssalSkies/AbyssalSkies_large.webp"
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "DUSTy Roads",
