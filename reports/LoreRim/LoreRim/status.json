@@ -19310,7 +19310,7 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
         "Hash": "bmah0Nf9Ay4=",
         "Meta": "[General]\ndirectURL=https://www.patreon.com/file?h=103421081\u0026i=18735736",
@@ -92335,8 +92335,8 @@
       }
     }
   ],
-  "Status": "Failed",
-  "Failures": 1,
+  "Status": "Available",
+  "Failures": 0,
   "SmallImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/LoreRim/LoreRim_small.webp",
   "LargeImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/LoreRim/LoreRim_large.webp"
 }

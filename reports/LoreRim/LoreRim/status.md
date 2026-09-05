@@ -1,11 +1,10 @@
 ## Validation Report - LoreRim (LoreRim/LoreRim)
 
 
-### Invalid (1)
-*  [Power Shot 0.5.zip](https://www.patreon.com/file?h=103421081&i=18735736)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (4446)
+### Valid (4447)
 *  [.1130 _ResourcePack Fixes-117234-1-11-1715022545.rar](https://www.nexusmods.com/skyrimspecialedition/mods/117234/?tab=files&file_id=498552)
 *  [(0) Alchemy Station Variants - FOMOD-92768-1-4-6-1767891639.7z](https://www.nexusmods.com/skyrimspecialedition/mods/92768/?tab=files&file_id=706913)
 *  [(2)Barbarian Bodypaints - CBBE-31826-1-0-1579138592.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119967)
@@ -3025,6 +3024,7 @@
 *  [Portcullis Collision Fix (Ruins Clutter Improved)-71991-0-0-1-1658688694.7z](https://www.nexusmods.com/skyrimspecialedition/mods/71991/?tab=files&file_id=301867)
 *  [Potema Revoiced - FUZ Format-123877-1-01-1745096291.zip](https://www.nexusmods.com/skyrimspecialedition/mods/123877/?tab=files&file_id=619129)
 *  [Powdery Bone Meal SE-79305-v1-0-1669245531.7z](https://www.nexusmods.com/skyrimspecialedition/mods/79305/?tab=files&file_id=334026)
+*  [Power Shot 0.5.zip](https://www.patreon.com/file?h=103421081&i=18735736)
 *  [powerofthree's Tweaks 51073 1.16.0 2026-07-12T16-59Z 587RqTEnz.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51073/?tab=files&file_id=775213)
 *  [powerofthree's Tweaks-51073-1-1-5-1-1756670335.7z](https://www.nexusmods.com/skyrimspecialedition/mods/51073/?tab=files&file_id=661201)
 *  [PPI WR Farm Fence SE - Parallax-77245-1-2-1738005597.rar](https://www.nexusmods.com/skyrimspecialedition/mods/77245/?tab=files&file_id=588120)
