@@ -2,7 +2,7 @@
   "MachineURL": "MagesAndVikings/MagesAndVikings",
   "Name": "Mages \u0026 Vikings",
   "Version": "2.6.2",
-  "ModListHash": "A5rj+gdTUnc=",
+  "ModListHash": "3T7zoDVWmSQ=",
   "Archives": [
     {
       "Status": "Valid",
@@ -77751,6 +77751,27 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "W/N0hM4d0Ao=",
+        "Meta": "[General]\ngameName=skyrimse\nmodID=133579\nfileID=564581",
+        "Name": "Olenveld-133579-1-1-1732202826.zip",
+        "Size": 751898270,
+        "State": {
+          "$type": "NexusDownloader, Wabbajack.Lib",
+          "Author": "F0RCEFI3LD",
+          "Description": "Olenveld is a new lands mod, the size of a small DLC, bringing the lore-rich location of Olenveld to Skyrim. It introduces a unique questline and an island recapturing system.",
+          "FileID": 564581,
+          "GameName": "SkyrimSpecialEdition",
+          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/133579/133579-1731179223-1305273090.jpeg",
+          "IsNSFW": false,
+          "ModID": 133579,
+          "Name": "Olenveld",
+          "Version": "1"
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "MNpDudAjreE=",
         "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Textures6.bsa",
         "Name": "Data_Skyrim - Textures6.bsa",
@@ -77783,43 +77804,6 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "MhDJueWnro8=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Misc.bsa",
-        "Name": "Data_Skyrim - Misc.bsa",
-        "Size": 17658991,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Misc.bsa",
-          "GameVersion": "1.7.104.0",
-          "Hash": "MhDJueWnro8="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "W/N0hM4d0Ao=",
-        "Meta": "[General]\ngameName=skyrimse\nmodID=133579\nfileID=564581",
-        "Name": "Olenveld-133579-1-1-1732202826.zip",
-        "Size": 751898270,
-        "State": {
-          "$type": "NexusDownloader, Wabbajack.Lib",
-          "Author": "F0RCEFI3LD",
-          "Description": "Olenveld is a new lands mod, the size of a small DLC, bringing the lore-rich location of Olenveld to Skyrim. It introduces a unique questline and an island recapturing system.",
-          "FileID": 564581,
-          "GameName": "SkyrimSpecialEdition",
-          "ImageURL": "https://staticdelivery.nexusmods.com/mods/1704/images/133579/133579-1731179223-1305273090.jpeg",
-          "IsNSFW": false,
-          "ModID": 133579,
-          "Name": "Olenveld",
-          "Version": "1"
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
         "Hash": "m3LEwpI4hcc=",
         "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Textures7.bsa",
         "Name": "Data_Skyrim - Textures7.bsa",
@@ -77830,54 +77814,6 @@
           "GameFile": "Data\\Skyrim - Textures7.bsa",
           "GameVersion": "1.7.104.0",
           "Hash": "m3LEwpI4hcc="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "PDVHLK2W12M=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Textures2.bsa",
-        "Name": "Data_Skyrim - Textures2.bsa",
-        "Size": 1345109830,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Textures2.bsa",
-          "GameVersion": "1.7.104.0",
-          "Hash": "PDVHLK2W12M="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "xn0zykJZrQk=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Sounds.bsa",
-        "Name": "Data_Skyrim - Sounds.bsa",
-        "Size": 1538656059,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Sounds.bsa",
-          "GameVersion": "1.7.104.0",
-          "Hash": "xn0zykJZrQk="
-        }
-      }
-    },
-    {
-      "Status": "Valid",
-      "Original": {
-        "Hash": "7HFZBrSQNwk=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Textures4.bsa",
-        "Name": "Data_Skyrim - Textures4.bsa",
-        "Size": 1265325033,
-        "State": {
-          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
-          "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Textures4.bsa",
-          "GameVersion": "1.7.104.0",
-          "Hash": "7HFZBrSQNwk="
         }
       }
     },
@@ -77900,6 +77836,22 @@
     {
       "Status": "Valid",
       "Original": {
+        "Hash": "PDVHLK2W12M=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Textures2.bsa",
+        "Name": "Data_Skyrim - Textures2.bsa",
+        "Size": 1345109830,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Textures2.bsa",
+          "GameVersion": "1.7.104.0",
+          "Hash": "PDVHLK2W12M="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
         "Hash": "Kn32RyN2Sag=",
         "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Textures8.bsa",
         "Name": "Data_Skyrim - Textures8.bsa",
@@ -77916,16 +77868,32 @@
     {
       "Status": "Valid",
       "Original": {
-        "Hash": "6n+UdS1Y8jw=",
-        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Shaders.bsa",
-        "Name": "Data_Skyrim - Shaders.bsa",
-        "Size": 67768230,
+        "Hash": "7HFZBrSQNwk=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Textures4.bsa",
+        "Name": "Data_Skyrim - Textures4.bsa",
+        "Size": 1265325033,
         "State": {
           "$type": "GameFileSourceDownloader, Wabbajack.Lib",
           "Game": "SkyrimSpecialEdition",
-          "GameFile": "Data\\Skyrim - Shaders.bsa",
+          "GameFile": "Data\\Skyrim - Textures4.bsa",
           "GameVersion": "1.7.104.0",
-          "Hash": "6n+UdS1Y8jw="
+          "Hash": "7HFZBrSQNwk="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "MhDJueWnro8=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Misc.bsa",
+        "Name": "Data_Skyrim - Misc.bsa",
+        "Size": 17658991,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Misc.bsa",
+          "GameVersion": "1.7.104.0",
+          "Hash": "MhDJueWnro8="
         }
       }
     },
@@ -77942,6 +77910,38 @@
           "GameFile": "Data\\Skyrim - Textures1.bsa",
           "GameVersion": "1.7.104.0",
           "Hash": "RZRHVHedHe0="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "xn0zykJZrQk=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Sounds.bsa",
+        "Name": "Data_Skyrim - Sounds.bsa",
+        "Size": 1538656059,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Sounds.bsa",
+          "GameVersion": "1.7.104.0",
+          "Hash": "xn0zykJZrQk="
+        }
+      }
+    },
+    {
+      "Status": "Valid",
+      "Original": {
+        "Hash": "6n+UdS1Y8jw=",
+        "Meta": "[General]\ngameName=SkyrimSpecialEdition\ngameFile=Data\\Skyrim - Shaders.bsa",
+        "Name": "Data_Skyrim - Shaders.bsa",
+        "Size": 67768230,
+        "State": {
+          "$type": "GameFileSourceDownloader, Wabbajack.Lib",
+          "Game": "SkyrimSpecialEdition",
+          "GameFile": "Data\\Skyrim - Shaders.bsa",
+          "GameVersion": "1.7.104.0",
+          "Hash": "6n+UdS1Y8jw="
         }
       }
     }
