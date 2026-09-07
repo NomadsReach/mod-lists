@@ -380,14 +380,14 @@
   {
     "name": "Merethic",
     "machineURL": "iAmModlist/merethic",
-    "failed": 1,
-    "passed": 2234,
+    "failed": 0,
+    "passed": 2235,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/iAmModlist/merethic/status.json",
     "report": "reports/iAmModlist/merethic/status.md",
     "modlist_missing": false,
-    "has_failures": true,
+    "has_failures": false,
     "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/iAmModlist/merethic_small.webp",
     "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/iAmModlist/merethic_large.webp"
   },
@@ -668,8 +668,8 @@
     "report": "reports/BtHz/HzOff/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/BtHz/HzOff_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/BtHz/HzOff_large.webp"
   },
   {
     "name": "Beyond the Horizon",
@@ -1949,15 +1949,15 @@
     "name": "Wunduniik",
     "machineURL": "Wunduniik/Wunduniik",
     "failed": 0,
-    "passed": 0,
+    "passed": 4791,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/Wunduniik/Wunduniik/status.json",
     "report": "reports/Wunduniik/Wunduniik/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Wunduniik/Wunduniik_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Wunduniik/Wunduniik_large.webp"
   },
   {
     "name": "Krentoraan",
@@ -2187,7 +2187,7 @@
     "name": "Skyrim Unification Project",
     "machineURL": "SkyrimUnificationProject/SkyrimUnificationProject",
     "failed": 0,
-    "passed": 2764,
+    "passed": 2765,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/SkyrimUnificationProject/SkyrimUnificationProject/status.json",
@@ -2201,15 +2201,15 @@
     "name": "Gate to Sovngarde AE Version",
     "machineURL": "Gate_to_Sovngarde/GateToSovngarde_WJ_AE",
     "failed": 0,
-    "passed": 2148,
+    "passed": 0,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/Gate_to_Sovngarde/GateToSovngarde_WJ_AE/status.json",
     "report": "reports/Gate_to_Sovngarde/GateToSovngarde_WJ_AE/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Gate_to_Sovngarde/GateToSovngarde_WJ_AE_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Gate_to_Sovngarde/GateToSovngarde_WJ_AE_large.webp"
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "Gate to Sovngarde Non-AE Version",
@@ -2495,15 +2495,15 @@
     "name": "Difficulty, Immersion, Quality",
     "machineURL": "DIQ/DIQWabbajack",
     "failed": 0,
-    "passed": 1274,
+    "passed": 0,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/DIQ/DIQWabbajack/status.json",
     "report": "reports/DIQ/DIQWabbajack/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/DIQ/DIQWabbajack_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/DIQ/DIQWabbajack_large.webp"
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "CyberVision",
@@ -2803,7 +2803,7 @@
     "name": "ReaperGleam",
     "machineURL": "ReaperGleam/ReaperGleam",
     "failed": 0,
-    "passed": 2082,
+    "passed": 2099,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/ReaperGleam/ReaperGleam/status.json",
@@ -3078,5 +3078,33 @@
     "has_failures": false,
     "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Welfon/randino_small.webp",
     "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Welfon/randino_large.webp"
+  },
+  {
+    "name": "Wasteland Genesis",
+    "machineURL": "Wasteland_Genesis/wasteland-genesis",
+    "failed": 0,
+    "passed": 0,
+    "updating": 0,
+    "mirrored": 0,
+    "link": "reports/Wasteland_Genesis/wasteland-genesis/status.json",
+    "report": "reports/Wasteland_Genesis/wasteland-genesis/status.md",
+    "modlist_missing": false,
+    "has_failures": false,
+    "small_image": null,
+    "large_image": null
+  },
+  {
+    "name": "Wasteland Genesis AE",
+    "machineURL": "Wasteland_Genesis/wastelandgenesisae",
+    "failed": 0,
+    "passed": 913,
+    "updating": 0,
+    "mirrored": 0,
+    "link": "reports/Wasteland_Genesis/wastelandgenesisae/status.json",
+    "report": "reports/Wasteland_Genesis/wastelandgenesisae/status.md",
+    "modlist_missing": false,
+    "has_failures": false,
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Wasteland_Genesis/wastelandgenesisae_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Wasteland_Genesis/wastelandgenesisae_large.webp"
   }
 ]
