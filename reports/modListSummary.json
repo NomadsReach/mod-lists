@@ -451,15 +451,15 @@
     "name": "Ascendance",
     "machineURL": "LostOutpost/ascendance",
     "failed": 0,
-    "passed": 0,
+    "passed": 754,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/LostOutpost/ascendance/status.json",
     "report": "reports/LostOutpost/ascendance/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/LostOutpost/ascendance_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/LostOutpost/ascendance_large.webp"
   },
   {
     "name": "Elysium Remastered",
@@ -1010,16 +1010,16 @@
   {
     "name": "Beowulf",
     "machineURL": "Beowulf/beowulf",
-    "failed": 2,
-    "passed": 2280,
+    "failed": 0,
+    "passed": 0,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/Beowulf/beowulf/status.json",
     "report": "reports/Beowulf/beowulf/status.md",
     "modlist_missing": false,
-    "has_failures": true,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Beowulf/beowulf_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Beowulf/beowulf_large.webp"
+    "has_failures": false,
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "Stormcrown VR",
@@ -1137,15 +1137,15 @@
     "name": "FILFY",
     "machineURL": "FILFY/FILFY",
     "failed": 0,
-    "passed": 0,
+    "passed": 4318,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/FILFY/FILFY/status.json",
     "report": "reports/FILFY/FILFY/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/FILFY/FILFY_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/FILFY/FILFY_large.webp"
   },
   {
     "name": "The Method to Madness",
@@ -1333,15 +1333,15 @@
     "name": "Deckborn",
     "machineURL": "Deckborn/Deckborn",
     "failed": 0,
-    "passed": 0,
+    "passed": 474,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/Deckborn/Deckborn/status.json",
     "report": "reports/Deckborn/Deckborn/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Deckborn/Deckborn_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Deckborn/Deckborn_large.webp"
   },
   {
     "name": "A Painted World",
@@ -1571,15 +1571,15 @@
     "name": "CharGrinn OSTIM",
     "machineURL": "CharGrinn/CharGrinnOSTIM",
     "failed": 0,
-    "passed": 0,
+    "passed": 2666,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/CharGrinn/CharGrinnOSTIM/status.json",
     "report": "reports/CharGrinn/CharGrinnOSTIM/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/CharGrinn/CharGrinnOSTIM_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/CharGrinn/CharGrinnOSTIM_large.webp"
   },
   {
     "name": "Ilinalta",
@@ -2040,8 +2040,8 @@
     "report": "reports/ModdingLinked/TheMidnightRide/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/ModdingLinked/TheMidnightRide_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/ModdingLinked/TheMidnightRide_large.webp"
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "A Dragonborn\u0027s Fate",
@@ -2089,15 +2089,15 @@
     "name": "The SICKnasty Suite",
     "machineURL": "TheSICKnastySuite/TheSickNastySuite",
     "failed": 0,
-    "passed": 2308,
+    "passed": 0,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/TheSICKnastySuite/TheSickNastySuite/status.json",
     "report": "reports/TheSICKnastySuite/TheSickNastySuite/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/TheSICKnastySuite/TheSickNastySuite_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/TheSICKnastySuite/TheSickNastySuite_large.webp"
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "Journals of Jyggalag",
@@ -2607,15 +2607,15 @@
     "name": "Panda\u0027s Sovngarde",
     "machineURL": "VirtualPanda/PandasSovngarde",
     "failed": 0,
-    "passed": 2038,
+    "passed": 0,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/VirtualPanda/PandasSovngarde/status.json",
     "report": "reports/VirtualPanda/PandasSovngarde/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/VirtualPanda/PandasSovngarde_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/VirtualPanda/PandasSovngarde_large.webp"
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "Nier Automata Enhanced",
