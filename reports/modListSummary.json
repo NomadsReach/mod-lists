@@ -380,14 +380,14 @@
   {
     "name": "Merethic",
     "machineURL": "iAmModlist/merethic",
-    "failed": 1,
-    "passed": 2234,
+    "failed": 0,
+    "passed": 2235,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/iAmModlist/merethic/status.json",
     "report": "reports/iAmModlist/merethic/status.md",
     "modlist_missing": false,
-    "has_failures": true,
+    "has_failures": false,
     "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/iAmModlist/merethic_small.webp",
     "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/iAmModlist/merethic_large.webp"
   },
@@ -1024,16 +1024,16 @@
   {
     "name": "Stormcrown VR",
     "machineURL": "Stormcrown_VR/Stormcrown_VR",
-    "failed": 1,
-    "passed": 459,
+    "failed": 0,
+    "passed": 0,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/Stormcrown_VR/Stormcrown_VR/status.json",
     "report": "reports/Stormcrown_VR/Stormcrown_VR/status.md",
     "modlist_missing": false,
-    "has_failures": true,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Stormcrown_VR/Stormcrown_VR_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Stormcrown_VR/Stormcrown_VR_large.webp"
+    "has_failures": false,
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "Thundercrown",
@@ -2215,15 +2215,15 @@
     "name": "Gate to Sovngarde Non-AE Version",
     "machineURL": "Gate_to_Sovngarde/GateToSovngarde_WJ_NonAE",
     "failed": 0,
-    "passed": 1896,
+    "passed": 0,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/Gate_to_Sovngarde/GateToSovngarde_WJ_NonAE/status.json",
     "report": "reports/Gate_to_Sovngarde/GateToSovngarde_WJ_NonAE/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Gate_to_Sovngarde/GateToSovngarde_WJ_NonAE_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Gate_to_Sovngarde/GateToSovngarde_WJ_NonAE_large.webp"
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "True North",
@@ -2649,15 +2649,15 @@
     "name": "Still in Skyrim - 15th Anniversary",
     "machineURL": "StillInSkyrim/StillInSkyrim",
     "failed": 0,
-    "passed": 780,
+    "passed": 0,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/StillInSkyrim/StillInSkyrim/status.json",
     "report": "reports/StillInSkyrim/StillInSkyrim/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/StillInSkyrim/StillInSkyrim_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/StillInSkyrim/StillInSkyrim_large.webp"
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "Kirbykings Modlist NSFW Edition",
@@ -3013,15 +3013,15 @@
     "name": "ZISS (Zora\u0027s Immersive Survival Souls)",
     "machineURL": "GamesRedone/ZISS",
     "failed": 0,
-    "passed": 0,
+    "passed": 847,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/GamesRedone/ZISS/status.json",
     "report": "reports/GamesRedone/ZISS/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/GamesRedone/ZISS_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/GamesRedone/ZISS_large.webp"
   },
   {
     "name": "LegacyRim",
