@@ -199,15 +199,15 @@
     "name": "The Bustling Valley",
     "machineURL": "wj-featured/tbv",
     "failed": 0,
-    "passed": 0,
+    "passed": 273,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/wj-featured/tbv/status.json",
     "report": "reports/wj-featured/tbv/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/wj-featured/tbv_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/wj-featured/tbv_large.webp"
   },
   {
     "name": "Life in the Ruins",
@@ -297,7 +297,7 @@
     "name": "Wildlander",
     "machineURL": "Wildlander/wildlander",
     "failed": 0,
-    "passed": 567,
+    "passed": 568,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/Wildlander/wildlander/status.json",
@@ -339,15 +339,15 @@
     "name": "Al and Styyx Setup of Skyrim - ASSOS",
     "machineURL": "Animonculory/ASSOS",
     "failed": 0,
-    "passed": 0,
+    "passed": 249,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/Animonculory/ASSOS/status.json",
     "report": "reports/Animonculory/ASSOS/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Animonculory/ASSOS_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Animonculory/ASSOS_large.webp"
   },
   {
     "name": "Cursedelica",
@@ -367,15 +367,15 @@
     "name": "Tahrovin",
     "machineURL": "iAmModlist/tahrovin",
     "failed": 0,
-    "passed": 0,
+    "passed": 1062,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/iAmModlist/tahrovin/status.json",
     "report": "reports/iAmModlist/tahrovin/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/iAmModlist/tahrovin_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/iAmModlist/tahrovin_large.webp"
   },
   {
     "name": "Merethic",
@@ -703,15 +703,15 @@
     "name": "Fahluaan",
     "machineURL": "WakingDreams/fahluaan",
     "failed": 0,
-    "passed": 0,
+    "passed": 2850,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/WakingDreams/fahluaan/status.json",
     "report": "reports/WakingDreams/fahluaan/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/WakingDreams/fahluaan_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/WakingDreams/fahluaan_large.webp"
   },
   {
     "name": "Apostasy",
@@ -829,15 +829,15 @@
     "name": "ARSE",
     "machineURL": "ocm/tightarse",
     "failed": 0,
-    "passed": 0,
+    "passed": 1650,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/ocm/tightarse/status.json",
     "report": "reports/ocm/tightarse/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/ocm/tightarse_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/ocm/tightarse_large.webp"
   },
   {
     "name": "Tales from the Northern Lands",
@@ -1010,16 +1010,16 @@
   {
     "name": "Beowulf",
     "machineURL": "Beowulf/beowulf",
-    "failed": 0,
-    "passed": 0,
+    "failed": 2,
+    "passed": 2280,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/Beowulf/beowulf/status.json",
     "report": "reports/Beowulf/beowulf/status.md",
     "modlist_missing": false,
-    "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "has_failures": true,
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Beowulf/beowulf_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Beowulf/beowulf_large.webp"
   },
   {
     "name": "Stormcrown VR",
@@ -1459,15 +1459,15 @@
     "name": "DyingBreath",
     "machineURL": "Dying_Breath/dyingbreath",
     "failed": 0,
-    "passed": 0,
+    "passed": 673,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/Dying_Breath/dyingbreath/status.json",
     "report": "reports/Dying_Breath/dyingbreath/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Dying_Breath/dyingbreath_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Dying_Breath/dyingbreath_large.webp"
   },
   {
     "name": "ViirSuum",
@@ -1570,16 +1570,16 @@
   {
     "name": "CharGrinn OSTIM",
     "machineURL": "CharGrinn/CharGrinnOSTIM",
-    "failed": 0,
-    "passed": 0,
+    "failed": 2,
+    "passed": 2664,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/CharGrinn/CharGrinnOSTIM/status.json",
     "report": "reports/CharGrinn/CharGrinnOSTIM/status.md",
     "modlist_missing": false,
-    "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "has_failures": true,
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/CharGrinn/CharGrinnOSTIM_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/CharGrinn/CharGrinnOSTIM_large.webp"
   },
   {
     "name": "Ilinalta",
@@ -1655,15 +1655,15 @@
     "name": "Tempus Maledictum VR",
     "machineURL": "Januarysnow/TempusVR",
     "failed": 0,
-    "passed": 0,
+    "passed": 2349,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/Januarysnow/TempusVR/status.json",
     "report": "reports/Januarysnow/TempusVR/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Januarysnow/TempusVR_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Januarysnow/TempusVR_large.webp"
   },
   {
     "name": "Curseadelica VR",
@@ -1795,15 +1795,15 @@
     "name": "Ash Lotus",
     "machineURL": "Ash_Lotus/AshLotus",
     "failed": 0,
-    "passed": 0,
+    "passed": 540,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/Ash_Lotus/AshLotus/status.json",
     "report": "reports/Ash_Lotus/AshLotus/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Ash_Lotus/AshLotus_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Ash_Lotus/AshLotus_large.webp"
   },
   {
     "name": "Capital Commonwealth",
@@ -2040,8 +2040,8 @@
     "report": "reports/ModdingLinked/TheMidnightRide/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/ModdingLinked/TheMidnightRide_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/ModdingLinked/TheMidnightRide_large.webp"
   },
   {
     "name": "A Dragonborn\u0027s Fate",
@@ -2075,15 +2075,15 @@
     "name": "Krosis",
     "machineURL": "Krosis/Krosis",
     "failed": 0,
-    "passed": 0,
+    "passed": 3478,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/Krosis/Krosis/status.json",
     "report": "reports/Krosis/Krosis/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Krosis/Krosis_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Krosis/Krosis_large.webp"
   },
   {
     "name": "The SICKnasty Suite",
@@ -2103,85 +2103,85 @@
     "name": "Journals of Jyggalag",
     "machineURL": "Scrolls_of_Schtevie/JournalsOfJyggalag",
     "failed": 0,
-    "passed": 0,
+    "passed": 3776,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/Scrolls_of_Schtevie/JournalsOfJyggalag/status.json",
     "report": "reports/Scrolls_of_Schtevie/JournalsOfJyggalag/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Scrolls_of_Schtevie/JournalsOfJyggalag_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Scrolls_of_Schtevie/JournalsOfJyggalag_large.webp"
   },
   {
     "name": "Tomes of Talos",
     "machineURL": "Scrolls_of_Schtevie/TomesOfTalos",
     "failed": 0,
-    "passed": 0,
+    "passed": 3385,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/Scrolls_of_Schtevie/TomesOfTalos/status.json",
     "report": "reports/Scrolls_of_Schtevie/TomesOfTalos/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Scrolls_of_Schtevie/TomesOfTalos_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Scrolls_of_Schtevie/TomesOfTalos_large.webp"
   },
   {
     "name": "Hymns of Hircine",
     "machineURL": "Scrolls_of_Schtevie/HymnsOfHircine",
     "failed": 0,
-    "passed": 0,
+    "passed": 3787,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/Scrolls_of_Schtevie/HymnsOfHircine/status.json",
     "report": "reports/Scrolls_of_Schtevie/HymnsOfHircine/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Scrolls_of_Schtevie/HymnsOfHircine_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Scrolls_of_Schtevie/HymnsOfHircine_large.webp"
   },
   {
     "name": "Mantras of Mara",
     "machineURL": "Scrolls_of_Schtevie/MantrasOfMara",
     "failed": 0,
-    "passed": 0,
+    "passed": 3809,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/Scrolls_of_Schtevie/MantrasOfMara/status.json",
     "report": "reports/Scrolls_of_Schtevie/MantrasOfMara/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Scrolls_of_Schtevie/MantrasOfMara_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Scrolls_of_Schtevie/MantrasOfMara_large.webp"
   },
   {
     "name": "Diaries of Dibella",
     "machineURL": "Scrolls_of_Schtevie/DiariesOfDibella",
     "failed": 0,
-    "passed": 0,
+    "passed": 3816,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/Scrolls_of_Schtevie/DiariesOfDibella/status.json",
     "report": "reports/Scrolls_of_Schtevie/DiariesOfDibella/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Scrolls_of_Schtevie/DiariesOfDibella_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Scrolls_of_Schtevie/DiariesOfDibella_large.webp"
   },
   {
     "name": "Visions of Vaermina",
     "machineURL": "Scrolls_of_Schtevie/VisionsOfVaermina",
     "failed": 0,
-    "passed": 0,
+    "passed": 2164,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/Scrolls_of_Schtevie/VisionsOfVaermina/status.json",
     "report": "reports/Scrolls_of_Schtevie/VisionsOfVaermina/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Scrolls_of_Schtevie/VisionsOfVaermina_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Scrolls_of_Schtevie/VisionsOfVaermina_large.webp"
   },
   {
     "name": "Skyrim Unification Project",
@@ -2355,29 +2355,29 @@
     "name": "A Bountiful Commonwealth",
     "machineURL": "ElderTeej/ABouC",
     "failed": 0,
-    "passed": 0,
+    "passed": 911,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/ElderTeej/ABouC/status.json",
     "report": "reports/ElderTeej/ABouC/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/ElderTeej/ABouC_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/ElderTeej/ABouC_large.webp"
   },
   {
     "name": "Dovahmeme",
     "machineURL": "ElderTeej/Dovahmeme",
     "failed": 0,
-    "passed": 0,
+    "passed": 1660,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/ElderTeej/Dovahmeme/status.json",
     "report": "reports/ElderTeej/Dovahmeme/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/ElderTeej/Dovahmeme_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/ElderTeej/Dovahmeme_large.webp"
   },
   {
     "name": "ElderTeej",
@@ -2530,8 +2530,8 @@
     "report": "reports/CDPR_Modlists/MO2077/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/CDPR_Modlists/MO2077_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/CDPR_Modlists/MO2077_large.webp"
   },
   {
     "name": "Welcome to Night City",
@@ -2565,15 +2565,15 @@
     "name": "Ashveil - Eine Deutsche Modliste",
     "machineURL": "lukxsofficial/Ashveil",
     "failed": 0,
-    "passed": 0,
+    "passed": 1590,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/lukxsofficial/Ashveil/status.json",
     "report": "reports/lukxsofficial/Ashveil/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/lukxsofficial/Ashveil_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/lukxsofficial/Ashveil_large.webp"
   },
   {
     "name": "Clearhaven",
@@ -2635,15 +2635,15 @@
     "name": "Authoria - Requiem Reforged",
     "machineURL": "Auhtoria-Requiem-Reforged/AuthoriaRequiemReforged",
     "failed": 0,
-    "passed": 0,
+    "passed": 3761,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/Auhtoria-Requiem-Reforged/AuthoriaRequiemReforged/status.json",
     "report": "reports/Auhtoria-Requiem-Reforged/AuthoriaRequiemReforged/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Auhtoria-Requiem-Reforged/AuthoriaRequiemReforged_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Auhtoria-Requiem-Reforged/AuthoriaRequiemReforged_large.webp"
   },
   {
     "name": "Still in Skyrim - 15th Anniversary",
@@ -2803,15 +2803,15 @@
     "name": "ReaperGleam",
     "machineURL": "ReaperGleam/ReaperGleam",
     "failed": 0,
-    "passed": 0,
+    "passed": 2099,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/ReaperGleam/ReaperGleam/status.json",
     "report": "reports/ReaperGleam/ReaperGleam/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/ReaperGleam/ReaperGleam_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/ReaperGleam/ReaperGleam_large.webp"
   },
   {
     "name": "Project Ultrapunk",
@@ -2873,15 +2873,15 @@
     "name": "SkyGround Chronicles",
     "machineURL": "SkyGround_Chronicles/SkyGround",
     "failed": 0,
-    "passed": 0,
+    "passed": 2815,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/SkyGround_Chronicles/SkyGround/status.json",
     "report": "reports/SkyGround_Chronicles/SkyGround/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/SkyGround_Chronicles/SkyGround_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/SkyGround_Chronicles/SkyGround_large.webp"
   },
   {
     "name": "Lumina",
