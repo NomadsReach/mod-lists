@@ -380,14 +380,14 @@
   {
     "name": "Merethic",
     "machineURL": "iAmModlist/merethic",
-    "failed": 1,
-    "passed": 2234,
+    "failed": 0,
+    "passed": 2235,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/iAmModlist/merethic/status.json",
     "report": "reports/iAmModlist/merethic/status.md",
     "modlist_missing": false,
-    "has_failures": true,
+    "has_failures": false,
     "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/iAmModlist/merethic_small.webp",
     "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/iAmModlist/merethic_large.webp"
   },
@@ -1010,16 +1010,16 @@
   {
     "name": "Beowulf",
     "machineURL": "Beowulf/beowulf",
-    "failed": 2,
-    "passed": 2280,
+    "failed": 0,
+    "passed": 0,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/Beowulf/beowulf/status.json",
     "report": "reports/Beowulf/beowulf/status.md",
     "modlist_missing": false,
-    "has_failures": true,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Beowulf/beowulf_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Beowulf/beowulf_large.webp"
+    "has_failures": false,
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "Stormcrown VR",
@@ -1347,7 +1347,7 @@
     "name": "A Painted World",
     "machineURL": "A_Painted_World/APaintedWorld",
     "failed": 0,
-    "passed": 1039,
+    "passed": 1043,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/A_Painted_World/APaintedWorld/status.json",
@@ -2635,15 +2635,15 @@
     "name": "Authoria - Requiem Reforged",
     "machineURL": "Auhtoria-Requiem-Reforged/AuthoriaRequiemReforged",
     "failed": 0,
-    "passed": 3761,
+    "passed": 0,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/Auhtoria-Requiem-Reforged/AuthoriaRequiemReforged/status.json",
     "report": "reports/Auhtoria-Requiem-Reforged/AuthoriaRequiemReforged/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Auhtoria-Requiem-Reforged/AuthoriaRequiemReforged_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Auhtoria-Requiem-Reforged/AuthoriaRequiemReforged_large.webp"
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "Still in Skyrim - 15th Anniversary",
