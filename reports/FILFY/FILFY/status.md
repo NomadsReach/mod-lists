@@ -30,6 +30,7 @@
 *  [1-43615-1-1608754946.7z](https://www.nexusmods.com/skyrimspecialedition/mods/43615/?tab=files&file_id=175890)
 *  [1. Follower Skypatcher NPC Replacer Converter-148252-1-0-0-1745163993.zip](https://www.nexusmods.com/skyrimspecialedition/mods/148252/?tab=files&file_id=619442)
 *  [1. Majestic Mountains Main File-11052-4-02-1665910537.7z](https://www.nexusmods.com/skyrimspecialedition/mods/11052/?tab=files&file_id=324452)
+*  [1.6.1170 Missing Files 189279 2 2026-08-22T19-39Z L5WQbqheO.7z](https://www.nexusmods.com/skyrimspecialedition/mods/189279/?tab=files&file_id=793499)
 *  [1AncientImparisalArmorSE-142655-4-1746702476.7z](https://www.nexusmods.com/skyrimspecialedition/mods/142655/?tab=files&file_id=624910)
 *  [1Atronach-82382-1-1673278055.7z](https://www.nexusmods.com/skyrimspecialedition/mods/82382/?tab=files&file_id=348079)
 *  [1DragonsSE-132218-2-1729843419.7z](https://www.nexusmods.com/skyrimspecialedition/mods/132218/?tab=files&file_id=555337)
@@ -2926,7 +2927,6 @@
 *  [Paired Animation Improvements-99621-1-0-2-1706671876.7z](https://www.nexusmods.com/skyrimspecialedition/mods/99621/?tab=files&file_id=466426)
 *  [Pandora Behaviour Engine v4.3.1-beta-133232-v4-3-1-beta-1776378314.zip](https://www.nexusmods.com/skyrimspecialedition/mods/133232/?tab=files&file_id=742625)
 *  [PAPER-73849-2-2-4-1689759531.zip](https://www.nexusmods.com/skyrimspecialedition/mods/73849/?tab=files&file_id=408512)
-*  Papyrus Compiler_PapyrusCompiler.exe
 *  Papyrus Compiler_ScriptCompile.bat
 *  [Papyrus Extender-115164-2-2-0-1774800100.zip](https://www.nexusmods.com/skyrimspecialedition/mods/115164/?tab=files&file_id=736393)
 *  [Papyrus Extender-22854-6-3-0-1766509921.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22854/?tab=files&file_id=701342)
