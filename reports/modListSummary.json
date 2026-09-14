@@ -380,14 +380,14 @@
   {
     "name": "Merethic",
     "machineURL": "iAmModlist/merethic",
-    "failed": 0,
-    "passed": 2235,
+    "failed": 1,
+    "passed": 2234,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/iAmModlist/merethic/status.json",
     "report": "reports/iAmModlist/merethic/status.md",
     "modlist_missing": false,
-    "has_failures": false,
+    "has_failures": true,
     "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/iAmModlist/merethic_small.webp",
     "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/iAmModlist/merethic_large.webp"
   },
@@ -2516,8 +2516,8 @@
     "report": "reports/NeishinModlist/NeishinCyberVision/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/NeishinModlist/NeishinCyberVision_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/NeishinModlist/NeishinCyberVision_large.webp"
   },
   {
     "name": "MO2077",
@@ -2887,7 +2887,7 @@
     "name": "Lumina",
     "machineURL": "SkyGround_Chronicles/Lumina",
     "failed": 0,
-    "passed": 2831,
+    "passed": 2829,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/SkyGround_Chronicles/Lumina/status.json",
@@ -2929,7 +2929,7 @@
     "name": "Cosmoem",
     "machineURL": "Cosmoem/Cosmoem",
     "failed": 0,
-    "passed": 363,
+    "passed": 381,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/Cosmoem/Cosmoem/status.json",
