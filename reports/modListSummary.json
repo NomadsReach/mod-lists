@@ -128,14 +128,14 @@
   {
     "name": "Merethic",
     "machineURL": "iAmModlist/merethic",
-    "failed": 1,
-    "passed": 2234,
+    "failed": 0,
+    "passed": 2235,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/iAmModlist/merethic/status.json",
     "report": "reports/iAmModlist/merethic/status.md",
     "modlist_missing": false,
-    "has_failures": true,
+    "has_failures": false,
     "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/iAmModlist/merethic_small.webp",
     "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/iAmModlist/merethic_large.webp"
   },
@@ -689,15 +689,15 @@
     "name": "The Nico Experience",
     "machineURL": "The_Nico_Experience/The_Nico_Experience",
     "failed": 0,
-    "passed": 0,
+    "passed": 2506,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/The_Nico_Experience/The_Nico_Experience/status.json",
     "report": "reports/The_Nico_Experience/The_Nico_Experience/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/The_Nico_Experience/The_Nico_Experience_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/The_Nico_Experience/The_Nico_Experience_large.webp"
   },
   {
     "name": "Auriels Dream - VR",
@@ -1669,7 +1669,7 @@
     "name": "Fashionista - GOG",
     "machineURL": "unPause/FashionistaGOG",
     "failed": 0,
-    "passed": 995,
+    "passed": 1915,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/unPause/FashionistaGOG/status.json",
@@ -1837,7 +1837,7 @@
     "name": "The SICKnasty Suite",
     "machineURL": "TheSICKnastySuite/TheSickNastySuite",
     "failed": 0,
-    "passed": 2292,
+    "passed": 2293,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/TheSICKnastySuite/TheSickNastySuite/status.json",
@@ -2264,8 +2264,8 @@
     "report": "reports/NeishinModlist/NeishinCyberVision/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/NeishinModlist/NeishinCyberVision_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/NeishinModlist/NeishinCyberVision_large.webp"
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "MO2077",
@@ -2760,14 +2760,14 @@
   {
     "name": "ZISS (Zora\u0027s Immersive Survival Souls)",
     "machineURL": "GamesRedone/ZISS",
-    "failed": 0,
-    "passed": 847,
+    "failed": 1,
+    "passed": 846,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/GamesRedone/ZISS/status.json",
     "report": "reports/GamesRedone/ZISS/status.md",
     "modlist_missing": false,
-    "has_failures": false,
+    "has_failures": true,
     "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/GamesRedone/ZISS_small.webp",
     "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/GamesRedone/ZISS_large.webp"
   },
