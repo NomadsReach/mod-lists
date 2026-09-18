@@ -1674,7 +1674,7 @@
 *  [Rosemary Nord Low Poly Preset and Face gen Files-44156-1-0-1610169886.rar](https://www.nexusmods.com/skyrimspecialedition/mods/44156/?tab=files&file_id=178508)
 *  [RowBody_The BattleMage-94982-1-1688457549.7z](https://www.nexusmods.com/skyrimspecialedition/mods/94982/?tab=files&file_id=403608)
 *  [RowBody_The Thick-93746-1-1687058822.7z](https://www.nexusmods.com/skyrimspecialedition/mods/93746/?tab=files&file_id=398811)
-*  [Roxie the mad-107606-1-00-1703357332.rar](https://www.nexusmods.com/skyrimspecialedition/mods/107606/?tab=files&file_id=454532)
+*  [Roxie the mad 107606 1.1 2026-09-16T19-32Z zYsEpQo3X.zip](https://www.nexusmods.com/skyrimspecialedition/mods/107606/?tab=files&file_id=806249)
 *  [Roxy Follower - Complete Edition-82110-1-0-1673383711.zip](https://www.nexusmods.com/skyrimspecialedition/mods/82110/?tab=files&file_id=348418)
 *  [RS Children - Amber Guard-80158-1-0-1670367295.7z](https://www.nexusmods.com/skyrimspecialedition/mods/80158/?tab=files&file_id=338245)
 *  [RS Children - Coldhaven - A Vampire City 2.1-112946-1-0-1709394538.zip](https://www.nexusmods.com/skyrimspecialedition/mods/112946/?tab=files&file_id=476286)
