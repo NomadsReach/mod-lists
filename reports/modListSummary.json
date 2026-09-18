@@ -1977,7 +1977,7 @@
     "name": "True North",
     "machineURL": "True_North/TrueNorth",
     "failed": 0,
-    "passed": 1308,
+    "passed": 1311,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/True_North/TrueNorth/status.json",
@@ -2264,8 +2264,8 @@
     "report": "reports/NeishinModlist/NeishinCyberVision/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/NeishinModlist/NeishinCyberVision_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/NeishinModlist/NeishinCyberVision_large.webp"
   },
   {
     "name": "MO2077",
@@ -2635,7 +2635,7 @@
     "name": "Lumina",
     "machineURL": "SkyGround_Chronicles/Lumina",
     "failed": 0,
-    "passed": 2828,
+    "passed": 2830,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/SkyGround_Chronicles/Lumina/status.json",
@@ -2760,14 +2760,14 @@
   {
     "name": "ZISS (Zora\u0027s Immersive Survival Souls)",
     "machineURL": "GamesRedone/ZISS",
-    "failed": 1,
-    "passed": 846,
+    "failed": 0,
+    "passed": 847,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/GamesRedone/ZISS/status.json",
     "report": "reports/GamesRedone/ZISS/status.md",
     "modlist_missing": false,
-    "has_failures": true,
+    "has_failures": false,
     "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/GamesRedone/ZISS_small.webp",
     "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/GamesRedone/ZISS_large.webp"
   },
