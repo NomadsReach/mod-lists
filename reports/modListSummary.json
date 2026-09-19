@@ -381,7 +381,7 @@
     "name": "The Northern Experience",
     "machineURL": "TNE/tne",
     "failed": 0,
-    "passed": 3674,
+    "passed": 3844,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/TNE/tne/status.json",
@@ -1977,7 +1977,7 @@
     "name": "True North",
     "machineURL": "True_North/TrueNorth",
     "failed": 0,
-    "passed": 1311,
+    "passed": 1313,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/True_North/TrueNorth/status.json",
@@ -2264,8 +2264,8 @@
     "report": "reports/NeishinModlist/NeishinCyberVision/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/NeishinModlist/NeishinCyberVision_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/NeishinModlist/NeishinCyberVision_large.webp"
   },
   {
     "name": "MO2077",
