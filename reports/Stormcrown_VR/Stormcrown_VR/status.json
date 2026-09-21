@@ -894,7 +894,7 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
         "Hash": "e6rV2WPCXSk=",
         "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/PGPatcher.zip_0ea06f8f-86cf-4354-855a-24146aec66a8",
@@ -1012,7 +1012,7 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
         "Hash": "ZRm0U8xy2pQ=",
         "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/TexGen.zip_1792abba-9832-4dd2-9562-f8b89240fa69",
@@ -1193,7 +1193,7 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
         "Hash": "ulCUU/Gq8HM=",
         "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/DynDOLOD.zip_c7eef690-b753-4dee-81ec-a693e0b732d7",
@@ -4742,7 +4742,7 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
         "Hash": "yYlqdp3MElI=",
         "Meta": "[General]\ndirectURL=https://authored-files.wabbajack.org/StormcrownFixes.zip_817df4b1-1bcf-4461-9d4a-4e3225484bb5",
@@ -5298,8 +5298,8 @@
       }
     }
   ],
-  "Status": "Failed",
-  "Failures": 4,
+  "Status": "Available",
+  "Failures": 0,
   "SmallImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Stormcrown_VR/Stormcrown_VR_small.webp",
   "LargeImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Stormcrown_VR/Stormcrown_VR_large.webp"
 }
