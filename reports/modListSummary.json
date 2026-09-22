@@ -128,14 +128,14 @@
   {
     "name": "Merethic",
     "machineURL": "iAmModlist/merethic",
-    "failed": 0,
-    "passed": 2235,
+    "failed": 1,
+    "passed": 2234,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/iAmModlist/merethic/status.json",
     "report": "reports/iAmModlist/merethic/status.md",
     "modlist_missing": false,
-    "has_failures": false,
+    "has_failures": true,
     "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/iAmModlist/merethic_small.webp",
     "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/iAmModlist/merethic_large.webp"
   },
@@ -772,14 +772,14 @@
   {
     "name": "Stormcrown VR",
     "machineURL": "Stormcrown_VR/Stormcrown_VR",
-    "failed": 0,
-    "passed": 257,
+    "failed": 4,
+    "passed": 253,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/Stormcrown_VR/Stormcrown_VR/status.json",
     "report": "reports/Stormcrown_VR/Stormcrown_VR/status.md",
     "modlist_missing": false,
-    "has_failures": false,
+    "has_failures": true,
     "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Stormcrown_VR/Stormcrown_VR_small.webp",
     "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Stormcrown_VR/Stormcrown_VR_large.webp"
   },
@@ -2264,8 +2264,8 @@
     "report": "reports/NeishinModlist/NeishinCyberVision/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/NeishinModlist/NeishinCyberVision_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/NeishinModlist/NeishinCyberVision_large.webp"
   },
   {
     "name": "MO2077",
@@ -2453,7 +2453,7 @@
     "name": "Novafield",
     "machineURL": "Novafield/Novafield",
     "failed": 0,
-    "passed": 893,
+    "passed": 891,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/Novafield/Novafield/status.json",
