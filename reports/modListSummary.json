@@ -913,7 +913,7 @@
     "name": "Listonomicon",
     "machineURL": "Listonomicon/Listonomicon",
     "failed": 0,
-    "passed": 783,
+    "passed": 802,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/Listonomicon/Listonomicon/status.json",
@@ -1599,15 +1599,15 @@
     "name": "Whispers of Mara",
     "machineURL": "WhispersofMara/WhispersOfMara",
     "failed": 0,
-    "passed": 0,
+    "passed": 2734,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/WhispersofMara/WhispersOfMara/status.json",
     "report": "reports/WhispersofMara/WhispersOfMara/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/WhispersofMara/WhispersOfMara_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/WhispersofMara/WhispersOfMara_large.webp"
   },
   {
     "name": "CSVO - Community Shaders Visual Overhaul",
@@ -1739,7 +1739,7 @@
     "name": "No Man\u0027s Sky - Explorer",
     "machineURL": "Wunduniik/NMSExplorer",
     "failed": 0,
-    "passed": 202,
+    "passed": 196,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/Wunduniik/NMSExplorer/status.json",
@@ -2264,8 +2264,8 @@
     "report": "reports/NeishinModlist/NeishinCyberVision/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/NeishinModlist/NeishinCyberVision_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/NeishinModlist/NeishinCyberVision_large.webp"
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "MO2077",
@@ -2537,7 +2537,7 @@
     "name": "Morkeskygge",
     "machineURL": "heroofkvackers/Morkeskygge",
     "failed": 0,
-    "passed": 959,
+    "passed": 958,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/heroofkvackers/Morkeskygge/status.json",
