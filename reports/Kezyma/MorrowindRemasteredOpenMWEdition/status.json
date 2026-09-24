@@ -2497,7 +2497,7 @@
       }
     },
     {
-      "Status": "Valid",
+      "Status": "InValid",
       "Original": {
         "Hash": "ELSkanXk6Es=",
         "Meta": "[General]\ndirectURL=https://gitlab.com/modding-openmw/distant-fixes-lua-edition/-/package_files/247672549/download",
@@ -8090,8 +8090,8 @@
       }
     }
   ],
-  "Status": "Available",
-  "Failures": 0,
+  "Status": "Failed",
+  "Failures": 1,
   "SmallImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Kezyma/MorrowindRemasteredOpenMWEdition_small.webp",
   "LargeImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Kezyma/MorrowindRemasteredOpenMWEdition_large.webp"
 }

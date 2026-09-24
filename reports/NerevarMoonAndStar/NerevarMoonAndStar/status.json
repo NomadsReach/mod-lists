@@ -376,7 +376,7 @@
       }
     },
     {
-      "Status": "Valid",
+      "Status": "InValid",
       "Original": {
         "Hash": "wZMyfTfIKSE=",
         "Meta": "[General]\ndirectURL=https://gitlab.com/fallchildren/openmw-animated-levitation/-/archive/master/openmw-animated-levitation-master.zip?ref_type=heads",
@@ -1188,7 +1188,7 @@
       }
     },
     {
-      "Status": "Valid",
+      "Status": "InValid",
       "Original": {
         "Hash": "ELSkanXk6Es=",
         "Meta": "[General]\ndirectURL=https://gitlab.com/modding-openmw/distant-fixes-lua-edition/-/package_files/247672549/download",
@@ -1265,7 +1265,7 @@
       }
     },
     {
-      "Status": "Valid",
+      "Status": "InValid",
       "Original": {
         "Hash": "0UhohcVolp4=",
         "Meta": "[General]\ndirectURL=https://gitlab.com/SlightPersimmon1/dynamicsounds.gitlab.io/-/archive/main/dynamicsounds.gitlab.io-main.zip?ref_type=heads",
@@ -1489,7 +1489,7 @@
       }
     },
     {
-      "Status": "Valid",
+      "Status": "InValid",
       "Original": {
         "Hash": "DgX5pkVjKjQ=",
         "Meta": "[General]\ndirectURL=https://gitlab.com/modding-openmw/harvest-lights/-/package_files/176047006/download",
@@ -1776,7 +1776,7 @@
       }
     },
     {
-      "Status": "Valid",
+      "Status": "InValid",
       "Original": {
         "Hash": "vJ1A2IW00R8=",
         "Meta": "[General]\ndirectURL=https://gitlab.com/modding-openmw/light-hotkey/-/package_files/263000240/download",
@@ -1874,7 +1874,7 @@
       }
     },
     {
-      "Status": "Valid",
+      "Status": "InValid",
       "Original": {
         "Hash": "wWBL5yH60Q4=",
         "Meta": "[General]\ndirectURL=https://gitlab.com/modding-openmw/momw-patches/-/package_files/283902052/download",
@@ -2182,7 +2182,7 @@
       }
     },
     {
-      "Status": "Valid",
+      "Status": "InValid",
       "Original": {
         "Hash": "rJPQDljTtyY=",
         "Meta": "[General]\ndirectURL=https://gitlab.com/fallchildren/openmw-third-person-alt-attacks/-/archive/master/openmw-third-person-alt-attacks-master.zip?ref_type=heads",
@@ -2532,7 +2532,7 @@
       }
     },
     {
-      "Status": "Valid",
+      "Status": "InValid",
       "Original": {
         "Hash": "9goocGq9u+Y=",
         "Meta": "[General]\ndirectURL=https://gitlab.com/modding-openmw/RUN/-/package_files/293369113/download",
@@ -2693,7 +2693,7 @@
       }
     },
     {
-      "Status": "Valid",
+      "Status": "InValid",
       "Original": {
         "Hash": "xVSkkgTIkiw=",
         "Meta": "[General]\ndirectURL=https://gitlab.com/modding-openmw/shield-unequipper/-/package_files/126070798/download",
@@ -7516,7 +7516,7 @@
       }
     },
     {
-      "Status": "Valid",
+      "Status": "InValid",
       "Original": {
         "Hash": "dbb6TPR9ISs=",
         "Meta": "[General]\ndirectURL=https://gitlab.com/modding-openmw/momw-post-processing-pack/-/package_files/288553600/download",
@@ -12318,7 +12318,7 @@
       }
     },
     {
-      "Status": "Valid",
+      "Status": "InValid",
       "Original": {
         "Hash": "sHQo8KzlxKI=",
         "Meta": "[General]\ndirectURL=https://gitlab.com/modding-openmw/convenient-thief-tools/-/package_files/263001267/download",
@@ -13004,7 +13004,7 @@
       }
     },
     {
-      "Status": "Valid",
+      "Status": "InValid",
       "Original": {
         "Hash": "sq3Yj9f4w6A=",
         "Meta": "[General]\ndirectURL=https://gitlab.com/SlightPersimmon1/dynamicsounds-basesounds.gitlab.io/-/archive/main/dynamicsounds-basesounds.gitlab.io-main.zip?ref_type=heads\u0026path=Sound",
@@ -14866,7 +14866,7 @@
       }
     },
     {
-      "Status": "Valid",
+      "Status": "InValid",
       "Original": {
         "Hash": "ARuHce3pS64=",
         "Meta": "[General]\ndirectURL=https://gitlab.com/modding-openmw/momw-camera/-/package_files/118782894/download",
@@ -16056,7 +16056,7 @@
       }
     },
     {
-      "Status": "Valid",
+      "Status": "InValid",
       "Original": {
         "Hash": "VBVkS1tSLEg=",
         "Meta": "[General]\ndirectURL=https://gitlab.com/modding-openmw/protected-beasts/-/package_files/274098366/download",
@@ -16700,7 +16700,7 @@
       }
     },
     {
-      "Status": "Valid",
+      "Status": "InValid",
       "Original": {
         "Hash": "DsWQoVO04tI=",
         "Meta": "[General]\ndirectURL=https://gitlab.com/modding-openmw/signpost-fast-travel/-/package_files/166954192/download",
@@ -17281,7 +17281,7 @@
       }
     },
     {
-      "Status": "Valid",
+      "Status": "InValid",
       "Original": {
         "Hash": "Ap4Z6ZAFW5Q=",
         "Meta": "[General]\ndirectURL=https://gitlab.com/modding-openmw/sophies-skooma-sweetshoppe/-/package_files/285995630/download",
@@ -21831,7 +21831,7 @@
       }
     },
     {
-      "Status": "Valid",
+      "Status": "InValid",
       "Original": {
         "Hash": "Phxa3UC5+Fo=",
         "Meta": "[General]\ndirectURL=https://gitlab.com/modding-openmw/pharis-magicka-regeneration/-/package_files/140629960/download",
@@ -22244,7 +22244,7 @@
       }
     },
     {
-      "Status": "Valid",
+      "Status": "InValid",
       "Original": {
         "Hash": "/Hb9+RbNILg=",
         "Meta": "[General]\ndirectURL=https://gitlab.com/modding-openmw/daisys-lua-multimark/-/package_files/289218413/download",
@@ -22783,7 +22783,7 @@
       }
     },
     {
-      "Status": "Valid",
+      "Status": "InValid",
       "Original": {
         "Hash": "Z6LyCbQ2nmo=",
         "Meta": "[General]\ndirectURL=https://gitlab.com/modding-openmw/momw-gameplay/-/package_files/265691047/download",
@@ -28866,7 +28866,7 @@
       }
     },
     {
-      "Status": "Valid",
+      "Status": "InValid",
       "Original": {
         "Hash": "pUQ9SNfMfMg=",
         "Meta": "[General]\ndirectURL=https://gitlab.com/modding-openmw/mage-robes-for-openmw-lua/-/package_files/340335827/download",
@@ -38687,8 +38687,8 @@
       }
     }
   ],
-  "Status": "Available",
-  "Failures": 0,
+  "Status": "Failed",
+  "Failures": 20,
   "SmallImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/NerevarMoonAndStar/NerevarMoonAndStar_small.webp",
   "LargeImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/NerevarMoonAndStar/NerevarMoonAndStar_large.webp"
 }

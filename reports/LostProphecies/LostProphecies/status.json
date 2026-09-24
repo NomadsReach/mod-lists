@@ -2833,7 +2833,7 @@
       }
     },
     {
-      "Status": "Valid",
+      "Status": "InValid",
       "Original": {
         "Hash": "ELSkanXk6Es=",
         "Meta": "[General]\ndirectURL=https://gitlab.com/modding-openmw/distant-fixes-lua-edition/-/package_files/247672549/download",
@@ -3666,7 +3666,7 @@
       }
     },
     {
-      "Status": "Valid",
+      "Status": "InValid",
       "Original": {
         "Hash": "1hvjD5t8bYw=",
         "Meta": "[General]\ndirectURL=https://gitlab.com/modding-openmw/momw-patches/-/package_files/293326932/download",
@@ -4352,8 +4352,8 @@
       }
     }
   ],
-  "Status": "Available",
-  "Failures": 0,
+  "Status": "Failed",
+  "Failures": 2,
   "SmallImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/LostProphecies/LostProphecies_small.webp",
   "LargeImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/LostProphecies/LostProphecies_large.webp"
 }
