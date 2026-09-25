@@ -128,14 +128,14 @@
   {
     "name": "Merethic",
     "machineURL": "iAmModlist/merethic",
-    "failed": 1,
-    "passed": 2234,
+    "failed": 0,
+    "passed": 2235,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/iAmModlist/merethic/status.json",
     "report": "reports/iAmModlist/merethic/status.md",
     "modlist_missing": false,
-    "has_failures": true,
+    "has_failures": false,
     "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/iAmModlist/merethic_small.webp",
     "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/iAmModlist/merethic_large.webp"
   },
@@ -2775,15 +2775,15 @@
     "name": "LegacyRim",
     "machineURL": "RVoid_LegacyRim/LegacyRim",
     "failed": 0,
-    "passed": 251,
+    "passed": 0,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/RVoid_LegacyRim/LegacyRim/status.json",
     "report": "reports/RVoid_LegacyRim/LegacyRim/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/RVoid_LegacyRim/LegacyRim_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/RVoid_LegacyRim/LegacyRim_large.webp"
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "Hik\u0027s Starfield",
@@ -3120,6 +3120,20 @@
     "has_failures": false,
     "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Wasteland_Genesis/skadis-veil_small.webp",
     "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Wasteland_Genesis/skadis-veil_large.webp"
+  },
+  {
+    "name": "Night City Refined",
+    "machineURL": "NightCityRefined/NightCityRefined",
+    "failed": 0,
+    "passed": 541,
+    "updating": 0,
+    "mirrored": 0,
+    "link": "reports/NightCityRefined/NightCityRefined/status.json",
+    "report": "reports/NightCityRefined/NightCityRefined/status.md",
+    "modlist_missing": false,
+    "has_failures": false,
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/NightCityRefined/NightCityRefined_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/NightCityRefined/NightCityRefined_large.webp"
   },
   {
     "name": "NakeyJakey\u0027s New Vegas",
