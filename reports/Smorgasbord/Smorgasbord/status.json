@@ -1027,7 +1027,7 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
         "Hash": "+Ygzu0zjnP4=",
         "Meta": "[General]\ndirectURL=https://gitlab.com/Ragsy2145/ragsy-v3.0-mods/-/archive/main/ragsy-v3.0-mods-main.zip?ref_type=heads\u0026path=Ragsy_FanBoat_For_V3xx",
@@ -3035,7 +3035,7 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
         "Hash": "ZKNJRSraB9o=",
         "Meta": "[General]\ndirectURL=https://gitlab.com/Ragsy2145/ragsy-v3.0-mods/-/archive/main/ragsy-v3.0-mods-main.zip?ref_type=heads\u0026path=Boating_Modlet_For_V3xx",
@@ -3049,7 +3049,7 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
         "Hash": "QG5OwJivXMA=",
         "Meta": "[General]\ndirectURL=https://gitlab.com/Ragsy2145/ragsy-v3.0-mods/-/archive/main/ragsy-v3.0-mods-main.zip?ref_type=heads\u0026path=Ragsy_Jet_Ski_For_V3xx",
@@ -3294,7 +3294,7 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
         "Hash": "j72+a3EczGU=",
         "Meta": "[General]\ndirectURL=https://gitlab.com/Ragsy2145/vehicle-madness/-/archive/main/vehicle-madness-main.zip?ref_type=heads\u0026path=VehicleMadness_Beta5_V5_For_V3.0",
@@ -6584,7 +6584,7 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
         "Hash": "temS+hjtUMQ=",
         "Meta": "[General]\ndirectURL=https://gitlab.com/Ragsy2145/ragsy-v3.0-mods/-/archive/main/ragsy-v3.0-mods-main.zip?ref_type=heads\u0026path=Ragsy_BathTubBoat_For_V3xx",
@@ -8727,7 +8727,7 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
         "Hash": "fWLKvFfna+g=",
         "Meta": "[General]\ndirectURL=https://gitlab.com/Ragsy2145/ragsy-v3.0-mods/-/archive/main/ragsy-v3.0-mods-main.zip?ref_type=heads\u0026path=Ragsy_Raft _Modlet_ For_V3xx",
@@ -11754,8 +11754,8 @@
       }
     }
   ],
-  "Status": "Failed",
-  "Failures": 6,
+  "Status": "Available",
+  "Failures": 0,
   "SmallImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Smorgasbord/Smorgasbord_small.webp",
   "LargeImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Smorgasbord/Smorgasbord_large.webp"
 }

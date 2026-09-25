@@ -628,7 +628,7 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
         "Hash": "ELSkanXk6Es=",
         "Meta": "[General]\ndirectURL=https://gitlab.com/modding-openmw/distant-fixes-lua-edition/-/package_files/247672549/download",
@@ -1230,7 +1230,7 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
         "Hash": "wWBL5yH60Q4=",
         "Meta": "[General]\ndirectURL=https://gitlab.com/modding-openmw/momw-patches/-/package_files/283902052/download",
@@ -3659,7 +3659,7 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
         "Hash": "DgX5pkVjKjQ=",
         "Meta": "[General]\ndirectURL=https://gitlab.com/modding-openmw/harvest-lights/-/package_files/176047006/download",
@@ -12467,7 +12467,7 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
         "Hash": "xVSkkgTIkiw=",
         "Meta": "[General]\ndirectURL=https://gitlab.com/modding-openmw/shield-unequipper/-/package_files/126070798/download",
@@ -14539,7 +14539,7 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
         "Hash": "vJ1A2IW00R8=",
         "Meta": "[General]\ndirectURL=https://gitlab.com/modding-openmw/light-hotkey/-/package_files/263000240/download",
@@ -20118,8 +20118,8 @@
       }
     }
   ],
-  "Status": "Failed",
-  "Failures": 5,
+  "Status": "Available",
+  "Failures": 0,
   "SmallImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Path_of_the_Incarnate/poti_small.webp",
   "LargeImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/Path_of_the_Incarnate/poti_large.webp"
 }

@@ -271,7 +271,7 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
         "Hash": "lGJ6pzh3Rk8=",
         "Meta": "[General]\ndirectURL=https://gitlab.com/modding-openmw/momw-patches/-/package_files/199680991/download",
@@ -125092,8 +125092,8 @@
       }
     }
   ],
-  "Status": "Failed",
-  "Failures": 1,
+  "Status": "Available",
+  "Failures": 0,
   "SmallImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/codering/Outlander_small.webp",
   "LargeImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/codering/Outlander_large.webp"
 }
