@@ -59,7 +59,7 @@
     "name": "Styyx Tooling For Dev - STD",
     "machineURL": "Animonculory/ADT",
     "failed": 0,
-    "passed": 214,
+    "passed": 215,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/Animonculory/ADT/status.json",
@@ -1375,7 +1375,7 @@
     "name": "Mages \u0026 Vikings",
     "machineURL": "MagesAndVikings/MagesAndVikings",
     "failed": 0,
-    "passed": 3795,
+    "passed": 3794,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/MagesAndVikings/MagesAndVikings/status.json",
@@ -3134,5 +3134,19 @@
     "has_failures": false,
     "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/NakeyJakeysNewVegas/NakeyJakeysNewVegas_small.webp",
     "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/NakeyJakeysNewVegas/NakeyJakeysNewVegas_large.webp"
+  },
+  {
+    "name": "Morrowind Rekindled",
+    "machineURL": "kiraMW-MW/MorrowindRekindled",
+    "failed": 0,
+    "passed": 184,
+    "updating": 0,
+    "mirrored": 0,
+    "link": "reports/kiraMW-MW/MorrowindRekindled/status.json",
+    "report": "reports/kiraMW-MW/MorrowindRekindled/status.md",
+    "modlist_missing": false,
+    "has_failures": false,
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/kiraMW-MW/MorrowindRekindled_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/kiraMW-MW/MorrowindRekindled_large.webp"
   }
 ]
