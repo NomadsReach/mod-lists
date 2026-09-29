@@ -128,14 +128,14 @@
   {
     "name": "Merethic",
     "machineURL": "iAmModlist/merethic",
-    "failed": 1,
-    "passed": 2234,
+    "failed": 0,
+    "passed": 2235,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/iAmModlist/merethic/status.json",
     "report": "reports/iAmModlist/merethic/status.md",
     "modlist_missing": false,
-    "has_failures": true,
+    "has_failures": false,
     "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/iAmModlist/merethic_small.webp",
     "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/iAmModlist/merethic_large.webp"
   },
@@ -2397,7 +2397,7 @@
     "name": "Kirbykings Modlist NSFW Edition",
     "machineURL": "SkyrimKIRBYKINGSNSFWEditionModlist/SkyrimKIRBYKINGSNSFWEditionModlist",
     "failed": 0,
-    "passed": 2814,
+    "passed": 2820,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/SkyrimKIRBYKINGSNSFWEditionModlist/SkyrimKIRBYKINGSNSFWEditionModlist/status.json",
@@ -2607,15 +2607,15 @@
     "name": "SkyGround Chronicles",
     "machineURL": "SkyGround_Chronicles/SkyGround",
     "failed": 0,
-    "passed": 0,
+    "passed": 2815,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/SkyGround_Chronicles/SkyGround/status.json",
     "report": "reports/SkyGround_Chronicles/SkyGround/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/SkyGround_Chronicles/SkyGround_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/SkyGround_Chronicles/SkyGround_large.webp"
   },
   {
     "name": "Lumina",
@@ -3139,7 +3139,7 @@
     "name": "NG-EVO (Next Generation Enderal Visual Overhaul)",
     "machineURL": "NG-EVO/NG-EVO",
     "failed": 0,
-    "passed": 1314,
+    "passed": 1315,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/NG-EVO/NG-EVO/status.json",
@@ -3162,5 +3162,19 @@
     "has_failures": false,
     "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/kiraMW-MW/MorrowindRekindled_small.webp",
     "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/kiraMW-MW/MorrowindRekindled_large.webp"
+  },
+  {
+    "name": "In the Woods",
+    "machineURL": "IntheWoods/LalupKIntheWoods",
+    "failed": 0,
+    "passed": 3254,
+    "updating": 0,
+    "mirrored": 0,
+    "link": "reports/IntheWoods/LalupKIntheWoods/status.json",
+    "report": "reports/IntheWoods/LalupKIntheWoods/status.md",
+    "modlist_missing": false,
+    "has_failures": false,
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/IntheWoods/LalupKIntheWoods_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/IntheWoods/LalupKIntheWoods_large.webp"
   }
 ]
