@@ -128,14 +128,14 @@
   {
     "name": "Merethic",
     "machineURL": "iAmModlist/merethic",
-    "failed": 0,
-    "passed": 2235,
+    "failed": 1,
+    "passed": 2234,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/iAmModlist/merethic/status.json",
     "report": "reports/iAmModlist/merethic/status.md",
     "modlist_missing": false,
-    "has_failures": false,
+    "has_failures": true,
     "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/iAmModlist/merethic_small.webp",
     "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/iAmModlist/merethic_large.webp"
   },
@@ -2250,8 +2250,8 @@
     "report": "reports/NeishinModlist/NeishinCyberVision/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": null,
-    "large_image": null
+    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/NeishinModlist/NeishinCyberVision_small.webp",
+    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/NeishinModlist/NeishinCyberVision_large.webp"
   },
   {
     "name": "MO2077",
@@ -2607,15 +2607,15 @@
     "name": "SkyGround Chronicles",
     "machineURL": "SkyGround_Chronicles/SkyGround",
     "failed": 0,
-    "passed": 2815,
+    "passed": 0,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/SkyGround_Chronicles/SkyGround/status.json",
     "report": "reports/SkyGround_Chronicles/SkyGround/status.md",
     "modlist_missing": false,
     "has_failures": false,
-    "small_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/SkyGround_Chronicles/SkyGround_small.webp",
-    "large_image": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/SkyGround_Chronicles/SkyGround_large.webp"
+    "small_image": null,
+    "large_image": null
   },
   {
     "name": "Lumina",
@@ -3111,7 +3111,7 @@
     "name": "Night City Refined",
     "machineURL": "NightCityRefined/NightCityRefined",
     "failed": 0,
-    "passed": 548,
+    "passed": 547,
     "updating": 0,
     "mirrored": 0,
     "link": "reports/NightCityRefined/NightCityRefined/status.json",
