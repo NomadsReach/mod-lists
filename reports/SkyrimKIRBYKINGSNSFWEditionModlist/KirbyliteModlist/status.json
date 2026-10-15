@@ -31756,7 +31756,7 @@
       }
     },
     {
-      "Status": "Valid",
+      "Status": "InValid",
       "Original": {
         "Hash": "h1BK7I9S4y0=",
         "Meta": "[General]\ndirectURL=https://www.patreon.com/file?h=122807764\u0026m=425631739",
@@ -34581,8 +34581,8 @@
       }
     }
   ],
-  "Status": "Available",
-  "Failures": 0,
+  "Status": "Failed",
+  "Failures": 1,
   "SmallImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/SkyrimKIRBYKINGSNSFWEditionModlist/KirbyliteModlist_small.webp",
   "LargeImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/SkyrimKIRBYKINGSNSFWEditionModlist/KirbyliteModlist_large.webp"
 }
