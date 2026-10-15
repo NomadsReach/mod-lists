@@ -1,11 +1,10 @@
 ## Validation Report - LoreRim (LoreRim/LoreRim)
 
 
-### Invalid (1)
-*  [GCBugFix-1_1_0.zip](https://www.patreon.com/file?h=122807764&m=425631739)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (4446)
+### Valid (4447)
 *  [.1130 _ResourcePack Fixes-117234-1-11-1715022545.rar](https://www.nexusmods.com/skyrimspecialedition/mods/117234/?tab=files&file_id=498552)
 *  [(0) Alchemy Station Variants - FOMOD-92768-1-4-6-1767891639.7z](https://www.nexusmods.com/skyrimspecialedition/mods/92768/?tab=files&file_id=706913)
 *  [(2)Barbarian Bodypaints - CBBE-31826-1-0-1579138592.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119967)
@@ -1715,6 +1714,7 @@
 *  [Gargoyles and Death Hound 2K-89968-1-0-1682369441.7z](https://www.nexusmods.com/skyrimspecialedition/mods/89968/?tab=files&file_id=381672)
 *  [Garlic - A Garlic Mod-78848-0-2-1668628715.7z](https://www.nexusmods.com/skyrimspecialedition/mods/78848/?tab=files&file_id=332392)
 *  [Gashmukhal Orc Preset-136001-1-1733759850.7z](https://www.nexusmods.com/skyrimspecialedition/mods/136001/?tab=files&file_id=570742)
+*  [GCBugFix-1_1_0.zip](https://www.patreon.com/file?h=122807764&m=425631739)
 *  [GDO MCM patch-50853-1-3-1-1709464081.7z](https://www.nexusmods.com/skyrimspecialedition/mods/50853/?tab=files&file_id=476536)
 *  [GDOS - Missing Doors Sounds-120254-1-0-1716661302.7z](https://www.nexusmods.com/skyrimspecialedition/mods/120254/?tab=files&file_id=504853)
 *  [Gearshout's Rogue Nord Armor 3BA-60385-final-1639955877.rar](https://www.nexusmods.com/skyrimspecialedition/mods/60385/?tab=files&file_id=250423)

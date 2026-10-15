@@ -30204,7 +30204,7 @@
       }
     },
     {
-      "Status": "InValid",
+      "Status": "Valid",
       "Original": {
         "Hash": "7L8Pw2xG5uw=",
         "Meta": "[General]\ndirectURL=https://www.patreon.com/file?h=137667994\u0026m=524210439",
@@ -78807,8 +78807,8 @@
       }
     }
   ],
-  "Status": "Failed",
-  "Failures": 1,
+  "Status": "Available",
+  "Failures": 0,
   "SmallImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/MagesAndVikings/MagesAndVikings_small.webp",
   "LargeImage": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/reports/MagesAndVikings/MagesAndVikings_large.webp"
 }

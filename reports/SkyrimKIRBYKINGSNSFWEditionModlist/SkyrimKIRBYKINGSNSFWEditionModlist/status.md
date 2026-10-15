@@ -1,11 +1,10 @@
 ## Validation Report - Kirbykings Modlist NSFW Edition (SkyrimKIRBYKINGSNSFWEditionModlist/SkyrimKIRBYKINGSNSFWEditionModlist)
 
 
-### Invalid (1)
-*  [GCBugFix-1_1_0.zip](https://www.patreon.com/file?h=122807764&m=425631739)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2836)
+### Valid (2837)
 *  [_Fuse00_ArmorHelga_CBBE.rar](https://www.patreon.com/file?h=102750536&m=299316269)
 *  [_Fuse00_ArmorLegionary_CBBE.rar](https://www.patreon.com/file?h=162898121&m=692878001)
 *  [- Skyrim 202X - 2K-68307-10-5-2-1754266901.rar](https://www.nexusmods.com/skyrimspecialedition/mods/68307/?tab=files&file_id=652625)
@@ -1135,6 +1134,7 @@
 *  [G.I.R.T.H. - Patches Collection-97680-4-1-0-1774947943.7z](https://www.nexusmods.com/skyrimspecialedition/mods/97680/?tab=files&file_id=737042)
 *  [Gargoyle_2.43_JrECN2VVp.zip](https://www.nexusmods.com/skyrimspecialedition/mods/181614/?tab=files&file_id=769652)
 *  [Gargoyles and Death Hound 2K-89968-1-0-1682369441.7z](https://www.nexusmods.com/skyrimspecialedition/mods/89968/?tab=files&file_id=381672)
+*  [GCBugFix-1_1_0.zip](https://www.patreon.com/file?h=122807764&m=425631739)
 *  [GDOS - Splendid Mechanized Dwemer Door - GDPR-133406-2-0-1737310930.7z](https://www.nexusmods.com/skyrimspecialedition/mods/133406/?tab=files&file_id=585190)
 *  [GDPR Texture resources-133366-1-0-1768496707.7z](https://www.nexusmods.com/skyrimspecialedition/mods/133366/?tab=files&file_id=709821)
 *  [Gesture Animation Remix (OAR) - main archive-64420-2-4-0-1780816117.zip](https://www.nexusmods.com/skyrimspecialedition/mods/64420/?tab=files&file_id=760411)

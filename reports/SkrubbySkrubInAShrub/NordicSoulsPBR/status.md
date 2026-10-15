@@ -1,11 +1,10 @@
 ## Validation Report - Nordic Souls PBR (SkrubbySkrubInAShrub/NordicSoulsPBR)
 
 
-### Invalid (1)
-*  [GCBugFix-1_1_0.zip](https://www.patreon.com/file?h=122807764&m=425631739)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (2061)
+### Valid (2062)
 *  [''Arena - Infiltration'' PATCH-116570-1-1712959514.zip](https://www.nexusmods.com/skyrimspecialedition/mods/116570/?tab=files&file_id=490070)
 *  [(2)Barbarian Bodypaints - CBBE-31826-1-0-1579138592.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119967)
 *  [(3) Community Overlays 1 - Main - CBBE 2K-22487-1-0-1-1547248146.7z](https://www.nexusmods.com/skyrimspecialedition/mods/22487/?tab=files&file_id=77988)
@@ -877,6 +876,7 @@
 *  [FYX_-_Windhelm_Graveyard_1.0.2_587RqT2r8.7z](https://www.nexusmods.com/skyrimspecialedition/mods/98260/?tab=files&file_id=768647)
 *  [Garm Senior with Armor-68873-1-0-1653942360.zip](https://www.nexusmods.com/skyrimspecialedition/mods/68873/?tab=files&file_id=287739)
 *  [GC Bug Fix 189699 1.0.1 2026-08-26T15-41Z s6Og0dGun.zip](https://www.nexusmods.com/skyrimspecialedition/mods/189699/?tab=files&file_id=795434)
+*  [GCBugFix-1_1_0.zip](https://www.patreon.com/file?h=122807764&m=425631739)
 *  [Gesture Animation Remix (OAR) - main archive-64420-2-1-1-1708878617.zip](https://www.nexusmods.com/skyrimspecialedition/mods/64420/?tab=files&file_id=474419)
 *  [Gesture Animation Remix (OAR) - shield patch-64420-1-2-0-1711623692.zip](https://www.nexusmods.com/skyrimspecialedition/mods/64420/?tab=files&file_id=484863)
 *  [GG's HH Fixed Stairs-87626-1-1-1679591372.rar](https://www.nexusmods.com/skyrimspecialedition/mods/87626/?tab=files&file_id=371406)

@@ -1,13 +1,13 @@
 ## Validation Report - Mages & Vikings (MagesAndVikings/MagesAndVikings)
 
 
-### Invalid (1)
-*  [_Fuse00_ArmorArianna_CBBE.rar](https://www.patreon.com/file?h=137667994&m=524210439)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (3812)
+### Valid (3813)
 *  [_Fuse00_ArmorAemond_V1.1.rar](https://www.patreon.com/file?h=78472619&m=189513975)
 *  [_Fuse00_ArmorAkasha_CBBE.rar](https://www.patreon.com/file?h=122295901&m=422046302)
+*  [_Fuse00_ArmorArianna_CBBE.rar](https://www.patreon.com/file?h=137667994&m=524210439)
 *  [_Fuse00_ArmorArtificer_Vanilla male 1.1.rar](https://www.patreon.com/file?h=150796683&m=615060336)
 *  [_Fuse00_ArmorCamarilla_CBBE.rar](https://www.patreon.com/file?h=144649737&m=572422884)
 *  [_Fuse00_ArmorCamarilla_Vanilla male.rar](https://www.patreon.com/file?h=144649737&m=572422940)

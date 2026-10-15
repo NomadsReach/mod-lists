@@ -1,11 +1,10 @@
 ## Validation Report - Kirbylite Modlist (SkyrimKIRBYKINGSNSFWEditionModlist/KirbyliteModlist)
 
 
-### Invalid (1)
-*  [GCBugFix-1_1_0.zip](https://www.patreon.com/file?h=122807764&m=425631739)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (1694)
+### Valid (1695)
 *  [- Skyrim 202X - 2K-68307-10-5-2-1754266901.rar](https://www.nexusmods.com/skyrimspecialedition/mods/68307/?tab=files&file_id=652625)
 *  [(2) Sunstarved Tanlines - CBBE-26795-2-0-1580192332.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26795/?tab=files&file_id=121532)
 *  [(2)Barbarian Bodypaints - CBBE-31826-1-0-1579138592.7z](https://www.nexusmods.com/skyrimspecialedition/mods/31826/?tab=files&file_id=119967)
@@ -724,6 +723,7 @@
 *  [Gamepad Plus Plus-27007-1-2-1-1616967745.7z](https://www.nexusmods.com/skyrimspecialedition/mods/27007/?tab=files&file_id=194269)
 *  [Gargoyle_2.43_JrECN2VVp.zip](https://www.nexusmods.com/skyrimspecialedition/mods/181614/?tab=files&file_id=769652)
 *  [Gargoyles and Death Hound 2K-89968-1-0-1682369441.7z](https://www.nexusmods.com/skyrimspecialedition/mods/89968/?tab=files&file_id=381672)
+*  [GCBugFix-1_1_0.zip](https://www.patreon.com/file?h=122807764&m=425631739)
 *  [GDOS - Splendid Mechanized Dwemer Door - GDPR-133406-2-0-1737310930.7z](https://www.nexusmods.com/skyrimspecialedition/mods/133406/?tab=files&file_id=585190)
 *  [GDPR Texture resources-133366-1-0-1768496707.7z](https://www.nexusmods.com/skyrimspecialedition/mods/133366/?tab=files&file_id=709821)
 *  [Gesture Animation Remix (OAR) - main archive-64420-2-4-0-1780816117.zip](https://www.nexusmods.com/skyrimspecialedition/mods/64420/?tab=files&file_id=760411)

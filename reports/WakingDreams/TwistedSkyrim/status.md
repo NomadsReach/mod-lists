@@ -1,12 +1,11 @@
 ## Validation Report - Twisted Skyrim (WakingDreams/TwistedSkyrim)
 
 
-### Invalid (2)
-*  [_Fuse00_ArmorArianna_CBBE.rar](https://www.patreon.com/file?h=137667994&m=524210439)
-*  [GCBugFix-1_1_0.zip](https://www.patreon.com/file?h=122807764&m=425631739)
+### Invalid (0)
 ### Updated (0)
 ### Mirrored (0)
-### Valid (6029)
+### Valid (6031)
+*  [_Fuse00_ArmorArianna_CBBE.rar](https://www.patreon.com/file?h=137667994&m=524210439)
 *  [-Buxom Wench Yuriana--598-1-5-4ASE-1658678384.7z](https://www.nexusmods.com/skyrimspecialedition/mods/598/?tab=files&file_id=301808)
 *  [(0) Alchemy Station Variants - FOMOD-92768-1-4-3-1725216363.rar](https://www.nexusmods.com/skyrimspecialedition/mods/92768/?tab=files&file_id=537691)
 *  [(2) Sunstarved Tanlines - CBBE-26795-2-0-1580192332.7z](https://www.nexusmods.com/skyrimspecialedition/mods/26795/?tab=files&file_id=121532)
@@ -2328,6 +2327,7 @@
 *  [Game Settings Override v2.2.0-114911-2-2-0-1717210168.7z](https://www.nexusmods.com/skyrimspecialedition/mods/114911/?tab=files&file_id=507076)
 *  [GAREN'TGOYLE - Gargoyle Stalking Bug Fix-140831-1-0-1738632807.zip](https://www.nexusmods.com/skyrimspecialedition/mods/140831/?tab=files&file_id=590809)
 *  [Garlic - A Garlic Mod-78848-0-2-1668628715.7z](https://www.nexusmods.com/skyrimspecialedition/mods/78848/?tab=files&file_id=332392)
+*  [GCBugFix-1_1_0.zip](https://www.patreon.com/file?h=122807764&m=425631739)
 *  [GDOS - Missing Doors Sounds-120254-1-0-1716661302.7z](https://www.nexusmods.com/skyrimspecialedition/mods/120254/?tab=files&file_id=504853)
 *  [Geirmund's Hall Pull Chain-80218-1-0-1670436107.7z](https://www.nexusmods.com/skyrimspecialedition/mods/80218/?tab=files&file_id=338497)
 *  [Gemling Queen Jewelry SE-4294-4-1SE.7z](https://www.nexusmods.com/skyrimspecialedition/mods/4294/?tab=files&file_id=9441)
